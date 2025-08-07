@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>City Calendar</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; }
+    select, input[type="date"] { margin: 1em 0; padding: 0.5em; }
+  </style>
+</head>
+<body>
+  <h1>City Calendar Viewer</h1>
+
+  <label>Region:</label>
+  <select id="region">
+    <option>NorthAmerica</option>
+  </select>
+
+  <label>Country:</label>
+  <select id="country">
+    <option>USA</option>
+  </select>
+
+  <label>State:</label>
+  <select id="state">
+    <option>Texas</option>
+  </select>
+
+  <label>City:</label>
+  <select id="city">
+    <option>Dallas</option>
+  </select>
+
+  <label>Select Date:</label>
+  <input type="date" id="calendar">
+
+  <script>
+    // Dallas incorporation date: February 2, 1856
+    const dallasIncorporation = new Date("1856-02-02");
+
+    const calendar = document.getElementById("calendar");
+    calendar.min = dallasIncorporation.toISOString().split("T")[0];
+
+    calendar.addEventListener("change", () => {
+      const selected = new Date(calendar.value);
+      if (selected < dallasIncorporation) {
+        alert("Date is before Dallas incorporation. Please choose a later date.");
+        calendar.value = calendar.min;
+      }
+    });
+  </script>
+</body>
+</html>
