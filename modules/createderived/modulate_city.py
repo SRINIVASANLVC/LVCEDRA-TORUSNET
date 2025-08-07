@@ -1,6 +1,9 @@
 import csv
 import sys
 from datetime import datetime
+
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 
 def load_utc_file(filepath, target_city=None):

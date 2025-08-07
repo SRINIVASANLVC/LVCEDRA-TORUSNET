@@ -5,7 +5,7 @@ def load_modulation_zones(filepath="templates/modulation_zones.csv"):
     with open(filepath, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            zones.append({
+            modulation_zones.append({
                 "zone": int(row["zone"]),
                 "sign": row["sign"].strip(),
                 "ruler": row["ruler"].strip(),

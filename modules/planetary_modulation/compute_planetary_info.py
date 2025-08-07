@@ -2,8 +2,8 @@ import ephem
 from math import pi
 from datetime import datetime, timedelta
 
-from modules.planetary_modulation.load_bodies import load_bodies
-from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
+from .load_bodies import load_bodies
+from .load_modulation_zones import load_modulation_zones
 
 
 def utc_to_fractional_year(utc_time_str):
@@ -76,7 +76,7 @@ def get_zone_info(longitude, zones):
     return None  # if no match found
 
         
-def retrograde_flag(body_title, planet_zone, sun_longitude, sun_zone):
+def retrograde_flag(body_title, planet_zone, sun_longitude, sun_zone, utc_time, ayanamsa):
     if body_title in ['Mercury' , 'Venus']:
         planet = getattr(ephem, body_title)()
         planet.compute(utc_time)
@@ -132,7 +132,7 @@ def compute_planetary_info(utc_time):
         lon = get_sidereal_longitude(body, utc_time, ayanamsa)
         zone_data = get_zone_info(lon, modulation_zones)
         planet_zone = zone_data["zone"]
-        retrograde_status = retrograde_flag(body, planet_zone, sun_longitude, sun_zone)
+        retrograde_status = retrograde_flag(body, planet_zone, sun_longitude, sun_zone,utc_time, ayanamsa)
 
         
         # Store all details
