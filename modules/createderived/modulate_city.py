@@ -1,6 +1,7 @@
 import csv
 import sys
 from datetime import datetime
+from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 
 def load_utc_file(filepath, target_city=None):
     results = []
@@ -44,5 +45,8 @@ if __name__ == "__main__":
         print("[WARN] No valid cities found.")
     else:
         print("[INFO] Parsed Cities:")
-        for city, utc in cities:
-            print(f"- {city} at {utc}")
+        for city, utc_time in cities:
+            print(f"[INFO] Computing planetary modulation for {city} at {utc_time}")
+            planet_data = compute_planetary_info(utc_time)
+            for body, info in planet_data.items():
+                print(f"{body}: {info['longitude']}°, Direction: {info['retrograde_status']}, {info}")
