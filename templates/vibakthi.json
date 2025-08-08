@@ -1,0 +1,106 @@
+{
+  "framework": {
+    "dimensions": {
+      "2D_grid": {
+        "layout": [
+          ["Mercury (Īśāna)", "Venus (Indra)", "Mars (Agni)"],
+          ["Rahu (Kubera)", "Saturn (Karma/Core)", "Jupiter (Yama)"],
+          ["Moon (Vāyu)", "Sun (Varuṇa)", "Ketu (Nīrti)"]
+        ],
+        "center": {
+          "planet": "Saturn",
+          "role": "Karmic router",
+          "position": [1, 1]
+        }
+      },
+      "3D_cube": {
+        "vertices": [
+          {"planet": "Venus", "coordinates": [0, 0, 0]},
+          {"planet": "Mercury", "coordinates": [1, 0, 0]},
+          {"planet": "Sun", "coordinates": [1, 1, 0]},
+          {"planet": "Ketu", "coordinates": [0, 1, 0]},
+          {"planet": "Mars", "coordinates": [0, 0, 1]},
+          {"planet": "Rahu", "coordinates": [1, 0, 1]},
+          {"planet": "Moon", "coordinates": [1, 1, 1]},
+          {"planet": "Jupiter", "coordinates": [0, 1, 1]}
+        ],
+        "center": {
+          "planet": "Saturn",
+          "coordinates": [0.5, 0.5, 0.5],
+          "role": "Karmic router"
+        },
+        "diagonals": [
+          ["Venus", "Moon"],
+          ["Mercury", "Jupiter"],
+          ["Sun", "Mars"],
+          ["Ketu", "Rahu"]
+        ]
+      }
+    },
+    "vibhakti_mapping": [
+      {
+        "vibhakti": "Prathamā",
+        "role": "Kartā",
+        "planet": "Sun",
+        "deity": "Varuṇa",
+        "semantic_function": "Identity, rulership, cosmic law"
+      },
+      {
+        "vibhakti": "Dvitīyā",
+        "role": "Karma",
+        "planet": "Mars",
+        "deity": "Agni",
+        "semantic_function": "Action, impulse, transformation"
+      },
+      {
+        "vibhakti": "Tṛtīyā",
+        "role": "Karaṇa",
+        "planet": "Mercury",
+        "deity": "Īśāna",
+        "semantic_function": "Means, logic, semantic parsing"
+      },
+      {
+        "vibhakti": "Caturthī",
+        "role": "Sampradāna",
+        "planet": "Jupiter",
+        "deity": "Yama",
+        "semantic_function": "Purpose, dharma, boundary"
+      },
+      {
+        "vibhakti": "Pañcamī",
+        "role": "Apādāna",
+        "planet": "Ketu",
+        "deity": "Nirṛti",
+        "semantic_function": "Liberation, detachment, dissolution"
+      },
+      {
+        "vibhakti": "Ṣaṣṭhī",
+        "role": "Sambandha",
+        "planet": "Venus",
+        "deity": "Indra",
+        "semantic_function": "Possession, beauty, sensory rulership"
+      },
+      {
+        "vibhakti": "Saptamī",
+        "role": "Adhikaraṇa",
+        "planet": "Moon",
+        "deity": "Vāyu",
+        "semantic_function": "Emotion, fluctuation, experiential field"
+      },
+      {
+        "vibhakti": "Sambodhana",
+        "role": "Āhva",
+        "planet": "Rahu",
+        "deity": "Kubera",
+        "semantic_function": "Desire, invocation, expansion"
+      },
+      {
+        "vibhakti": "Karma-Sthāna",
+        "role": "Niyamaka",
+        "planet": "Saturn",
+        "deity": "Shani / Yama",
+        "semantic_function": "Routing, delay, karmic modulation"
+      }
+    ]
+  }
+}
