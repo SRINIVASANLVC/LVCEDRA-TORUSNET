@@ -1,18 +1,18 @@
 {
   "001": {
-    "Karta": {"zone": 35, "house": 12},       // Sun
-    "Karma": {"zone": 29, "house": 10},       // Moon
-    "Jnaata": {"zone": 1, "house": 1},        // Mercury
-    "Prema": {"zone": 32, "house": 11},       // Venus
-    "Yoddha": {"zone": 24, "house": 8},       // Mars
-    "Guru": {"zone": 2, "house": 1},          // Jupiter
-    "Shani": {"zone": 12, "house": 4},        // Saturn
-    "Antariksha": {"zone": 8, "house": 3},    // Uranus
-    "Samudra": {"zone": 2, "house": 1},       // Neptune
-    "Mrityu": {"zone": 8, "house": 3},        // Pluto
-    "Chhaaya": {"zone": 6, "house": 2},       // Rahu
-    "Vimochana": {"zone": 24, "house": 8},    // Ketu
-    "Avidya": {"zone": 21, "house": 7}        // Lilith
+    "Karta": {"zone": 35, "house": 12},       
+    "Karma": {"zone": 29, "house": 10},       
+    "Jnaata": {"zone": 1, "house": 1},        
+    "Prema": {"zone": 32, "house": 11},       
+    "Yoddha": {"zone": 24, "house": 8},       
+    "Guru": {"zone": 2, "house": 1},          
+    "Shani": {"zone": 12, "house": 4},        
+    "Antariksha": {"zone": 8, "house": 3},    
+    "Samudra": {"zone": 2, "house": 1},       
+    "Mrityu": {"zone": 8, "house": 3},        
+    "Chhaaya": {"zone": 6, "house": 2},       
+    "Vimochana": {"zone": 24, "house": 8},    
+    "Avidya": {"zone": 21, "house": 7}        
   },
   "002": {
     "Karta": {"zone": 35, "house": 12},

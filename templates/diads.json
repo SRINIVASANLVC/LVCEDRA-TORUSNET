@@ -1,0 +1,46 @@
+{
+  "aspects": [
+    {
+      "aspect_name": "Conjunction",
+      "degree_ranges": [[0, 30]],
+      "sign_offsets": [0],
+      "semantic_meaning": "Fusion point; seed of karmic or semantic activation"
+    },
+    {
+      "aspect_name": "Adjacent Activation",
+      "degree_ranges": [[30, 60], [330, 360]],
+      "sign_offsets": [+1, -1],
+      "semantic_meaning": "Nāḍi modulation channel; next or previous house triggers subtle karmic flow"
+    },
+    {
+      "aspect_name": "Sextile",
+      "degree_ranges": [[60, 90], [300, 330]],
+      "sign_offsets": [+2, -2],
+      "semantic_meaning": "Opportunity channel; soft semantic flow between signs"
+    },
+    {
+      "aspect_name": "Square",
+      "degree_ranges": [[90, 120], [270, 300]],
+      "sign_offsets": [+3, -3],
+      "semantic_meaning": "Tension pivot; karmic stress requiring modulation"
+    },
+    {
+      "aspect_name": "Trine",
+      "degree_ranges": [[120, 150], [240, 270]],
+      "sign_offsets": [+4, -4],
+      "semantic_meaning": "Harmonic resonance; effortless semantic or karmic flow"
+    },
+    {
+      "aspect_name": "Quincunx",
+      "degree_ranges": [[150, 180], [210, 240]],
+      "sign_offsets": [+5, -5],
+      "semantic_meaning": "Adjustment fork; latent karmic reconfiguration or hidden modulation"
+    },
+    {
+      "aspect_name": "Opposition",
+      "degree_ranges": [[180, 210]],
+      "sign_offsets": [+6],
+      "semantic_meaning": "Duality mirror; karmic polarity requiring balance and integration"
+    }
+  ]
+}

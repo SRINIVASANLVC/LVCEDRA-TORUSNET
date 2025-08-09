@@ -129,7 +129,204 @@
       "nakshatra_ruler": "Sun",
       "template_House": 7,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "001",
+        "score": 24.5,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [
+          "Shani",
+          "Chhaaya",
+          "Vimochana",
+          "Avidya"
+        ],
+        "mismatches": []
+      },
+      {
+        "archetype_id": "003",
+        "score": 24.5,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [
+          "Shani",
+          "Chhaaya",
+          "Vimochana",
+          "Avidya"
+        ],
+        "mismatches": []
+      },
+      {
+        "archetype_id": "010",
+        "score": 24.5,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [
+          "Shani",
+          "Chhaaya",
+          "Vimochana",
+          "Avidya"
+        ],
+        "mismatches": []
+      }
+    ]
   },
   "Dallas_Irving": {
     "Sun": {
@@ -261,7 +458,660 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "001",
+        "score": 3,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 3,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 11,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 13,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "002",
+        "score": 3,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 22,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 3,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 11,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 13,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 22,
+                "house": 7
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "003",
+        "score": 3,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 3,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 11,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 13,
+                "house": 5
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ]
+        ]
+      }
+    ]
   },
   "Dallas_Garland": {
     "Sun": {
@@ -393,7 +1243,638 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "004",
+        "score": 3.5,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 20,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [
+          "Avidya"
+        ],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 9,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 4,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 25,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "007",
+        "score": 3.5,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 20,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [
+          "Avidya"
+        ],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 9,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 4,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 25,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "001",
+        "score": 2,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 9,
+                "house": 3
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 4,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 25,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ]
+        ]
+      }
+    ]
   },
   "Austin": {
     "Sun": {
@@ -525,7 +2006,699 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "001",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 22,
+                "house": 8
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 27,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "002",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 22,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 22,
+                "house": 8
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 27,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 22,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "003",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 22,
+                "house": 8
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 27,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      }
+    ]
   },
   "Austin_Travis": {
     "Sun": {
@@ -657,6 +2830,698 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "001",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 33,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "002",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 22,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 33,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 22,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      },
+      {
+        "archetype_id": "003",
+        "score": 0,
+        "pattern": {
+          "Karta": {
+            "zone": 35,
+            "house": 12
+          },
+          "Karma": {
+            "zone": 29,
+            "house": 10
+          },
+          "Jnaata": {
+            "zone": 1,
+            "house": 1
+          },
+          "Prema": {
+            "zone": 32,
+            "house": 11
+          },
+          "Yoddha": {
+            "zone": 24,
+            "house": 8
+          },
+          "Guru": {
+            "zone": 2,
+            "house": 1
+          },
+          "Shani": {
+            "zone": 12,
+            "house": 4
+          },
+          "Antariksha": {
+            "zone": 8,
+            "house": 3
+          },
+          "Samudra": {
+            "zone": 2,
+            "house": 1
+          },
+          "Mrityu": {
+            "zone": 8,
+            "house": 3
+          },
+          "Chhaaya": {
+            "zone": 6,
+            "house": 2
+          },
+          "Vimochana": {
+            "zone": 24,
+            "house": 8
+          },
+          "Avidya": {
+            "zone": 21,
+            "house": 7
+          }
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 33,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
+          ],
+          [
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
+          ],
+          [
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
+          ],
+          [
+            "Shani",
+            {
+              "expected": {
+                "zone": 12,
+                "house": 4
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
+          ],
+          [
+            "Antariksha",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Samudra",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 35,
+                "house": 12
+              }
+            }
+          ],
+          [
+            "Mrityu",
+            {
+              "expected": {
+                "zone": 8,
+                "house": 3
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
+          ],
+          [
+            "Chhaaya",
+            {
+              "expected": {
+                "zone": 6,
+                "house": 2
+              },
+              "actual": {
+                "zone": 2,
+                "house": 1
+              }
+            }
+          ],
+          [
+            "Vimochana",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 20,
+                "house": 7
+              }
+            }
+          ],
+          [
+            "Avidya",
+            {
+              "expected": {
+                "zone": 21,
+                "house": 7
+              },
+              "actual": {
+                "zone": 28,
+                "house": 10
+              }
+            }
+          ]
+        ]
+      }
+    ]
   }
 }

@@ -3,7 +3,6 @@ from math import pi
 from datetime import datetime, timedelta
 
 from .load_bodies import load_bodies
-from .load_modulation_zones import load_modulation_zones
 
 
 def utc_to_fractional_year(utc_time_str):
@@ -126,10 +125,10 @@ def trace_all_variables():
         if not name.startswith("__") and not callable(val):
             print(f"{name} = {val} ({type(val).__name__})")
     
-def compute_planetary_info(utc_time):
+def compute_planetary_info(utc_time, modulation_zones):
     ayanamsa = lahiri_ayanamsa_from_utc(utc_time)
     bodies = load_bodies()
-    modulation_zones = load_modulation_zones()
+    # modulation_zones = load_modulation_zones()
     # print(f"Ayanamsa adjusted: {ayanamsa}")
 
     planet_info = {}

@@ -1,0 +1,705 @@
+[
+  {
+    "triadic_name": "Grand Trine",
+    "geometry_signature": ["Trine", "Trine", "Trine"],
+    "aspect_variants": [["Trine", "Trine", "Trine"]]
+  },
+  {
+    "triadic_name": "T-Square",
+    "geometry_signature": ["Square", "Square", "Opposition"],
+    "aspect_variants": [
+      ["Square", "Square", "Opposition"],
+      ["Square", "Opposition", "Square"],
+      ["Opposition", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Yod",
+    "geometry_signature": ["Quincunx", "Quincunx", "Sextile"],
+    "aspect_variants": [
+      ["Quincunx", "Quincunx", "Sextile"],
+      ["Quincunx", "Sextile", "Quincunx"],
+      ["Sextile", "Quincunx", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Karmic Fork",
+    "geometry_signature": ["Square", "Quincunx", "Trine"],
+    "aspect_variants": [
+      ["Square", "Quincunx", "Trine"],
+      ["Quincunx", "Square", "Trine"],
+      ["Trine", "Square", "Quincunx"],
+      ["Quincunx", "Trine", "Square"],
+      ["Trine", "Quincunx", "Square"],
+      ["Square", "Trine", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Resonant Bridge",
+    "geometry_signature": ["Sextile", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Sextile", "Trine", "Conjunction"],
+      ["Trine", "Sextile", "Conjunction"],
+      ["Conjunction", "Sextile", "Trine"],
+      ["Conjunction", "Trine", "Sextile"],
+      ["Trine", "Conjunction", "Sextile"],
+      ["Sextile", "Conjunction", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Tension Loop",
+    "geometry_signature": ["Square", "Square", "Square"],
+    "aspect_variants": [["Square", "Square", "Square"]]
+  },
+  {
+    "triadic_name": "Oppositional Axis",
+    "geometry_signature": ["Opposition", "Opposition", "Trine"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Trine"],
+      ["Opposition", "Trine", "Opposition"],
+      ["Trine", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx Spiral",
+    "geometry_signature": ["Quincunx", "Quincunx", "Quincunx"],
+    "aspect_variants": [["Quincunx", "Quincunx", "Quincunx"]]
+  },
+  {
+    "triadic_name": "Conjunctive Core",
+    "geometry_signature": ["Conjunction", "Conjunction", "Conjunction"],
+    "aspect_variants": [["Conjunction", "Conjunction", "Conjunction"]]
+  },
+  {
+    "triadic_name": "Sextile Weave",
+    "geometry_signature": ["Sextile", "Sextile", "Trine"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Trine"],
+      ["Sextile", "Trine", "Sextile"],
+      ["Trine", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Fractured T-Square",
+    "geometry_signature": ["Square", "Opposition", "Quincunx"],
+    "aspect_variants": [
+      ["Square", "Opposition", "Quincunx"],
+      ["Opposition", "Square", "Quincunx"],
+      ["Quincunx", "Square", "Opposition"],
+      ["Quincunx", "Opposition", "Square"],
+      ["Opposition", "Quincunx", "Square"],
+      ["Square", "Quincunx", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Square–Sextile",
+    "geometry_signature": ["Trine", "Square", "Sextile"],
+    "aspect_variants": [
+      ["Trine", "Square", "Sextile"],
+      ["Square", "Trine", "Sextile"],
+      ["Sextile", "Trine", "Square"],
+      ["Sextile", "Square", "Trine"],
+      ["Square", "Sextile", "Trine"],
+      ["Trine", "Sextile", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Quincunx–Trine",
+    "geometry_signature": ["Opposition", "Quincunx", "Trine"],
+    "aspect_variants": [
+      ["Opposition", "Quincunx", "Trine"],
+      ["Quincunx", "Opposition", "Trine"],
+      ["Trine", "Opposition", "Quincunx"],
+      ["Trine", "Quincunx", "Opposition"],
+      ["Quincunx", "Trine", "Opposition"],
+      ["Opposition", "Trine", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Sextile–Conjunction",
+    "geometry_signature": ["Square", "Sextile", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Sextile", "Conjunction"],
+      ["Sextile", "Square", "Conjunction"],
+      ["Conjunction", "Square", "Sextile"],
+      ["Conjunction", "Sextile", "Square"],
+      ["Sextile", "Conjunction", "Square"],
+      ["Square", "Conjunction", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Quincunx–Conjunction",
+    "geometry_signature": ["Trine", "Quincunx", "Conjunction"],
+    "aspect_variants": [
+      ["Trine", "Quincunx", "Conjunction"],
+      ["Quincunx", "Trine", "Conjunction"],
+      ["Conjunction", "Trine", "Quincunx"],
+      ["Conjunction", "Quincunx", "Trine"],
+      ["Quincunx", "Conjunction", "Trine"],
+      ["Trine", "Conjunction", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Sextile–Square",
+    "geometry_signature": ["Opposition", "Sextile", "Square"],
+    "aspect_variants": [
+      ["Opposition", "Sextile", "Square"],
+      ["Sextile", "Opposition", "Square"],
+      ["Square", "Opposition", "Sextile"],
+      ["Square", "Sextile", "Opposition"],
+      ["Sextile", "Square", "Opposition"],
+      ["Opposition", "Square", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Square–Sextile",
+    "geometry_signature": ["Quincunx", "Square", "Sextile"],
+    "aspect_variants": [
+      ["Quincunx", "Square", "Sextile"],
+      ["Square", "Quincunx", "Sextile"],
+      ["Sextile", "Quincunx", "Square"],
+      ["Sextile", "Square", "Quincunx"],
+      ["Square", "Sextile", "Quincunx"],
+      ["Quincunx", "Sextile", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Opposition–Conjunction",
+    "geometry_signature": ["Trine", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Trine", "Opposition", "Conjunction"],
+      ["Opposition", "Trine", "Conjunction"],
+      ["Conjunction", "Trine", "Opposition"],
+      ["Conjunction", "Opposition", "Trine"],
+      ["Opposition", "Conjunction", "Trine"],
+      ["Trine", "Conjunction", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Trine",
+    "geometry_signature": ["Square", "Square", "Trine"],
+    "aspect_variants": [
+      ["Square", "Square", "Trine"],
+      ["Square", "Trine", "Square"],
+      ["Trine", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Quincunx–Conjunction",
+    "geometry_signature": ["Sextile", "Quincunx", "Conjunction"],
+    "aspect_variants": [
+      ["Sextile", "Quincunx", "Conjunction"],
+      ["Quincunx", "Sextile", "Conjunction"],
+      ["Conjunction", "Sextile", "Quincunx"],
+      ["Conjunction", "Quincunx", "Sextile"],
+      ["Quincunx", "Conjunction", "Sextile"],
+      ["Sextile", "Conjunction", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Trine–Sextile",
+    "geometry_signature": ["Opposition", "Trine", "Sextile"],
+    "aspect_variants": [
+      ["Opposition", "Trine", "Sextile"],
+      ["Trine", "Opposition", "Sextile"],
+      ["Sextile", "Opposition", "Trine"],
+      ["Sextile", "Trine", "Opposition"],
+      ["Trine", "Sextile", "Opposition"],
+      ["Opposition", "Sextile", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Trine–Conjunction",
+    "geometry_signature": ["Square", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Trine", "Conjunction"],
+      ["Trine", "Square", "Conjunction"],
+      ["Conjunction", "Square", "Trine"],
+      ["Conjunction", "Trine", "Square"],
+      ["Trine", "Conjunction", "Square"],
+      ["Square", "Conjunction", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Opposition–Conjunction",
+    "geometry_signature": ["Quincunx", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Quincunx", "Opposition", "Conjunction"],
+      ["Opposition", "Quincunx", "Conjunction"],
+      ["Conjunction", "Quincunx", "Opposition"],
+      ["Conjunction", "Opposition", "Quincunx"],
+      ["Opposition", "Conjunction", "Quincunx"],
+      ["Quincunx", "Conjunction", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Trine–Square",
+    "geometry_signature": ["Trine", "Trine", "Square"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Square"],
+      ["Trine", "Square", "Trine"],
+      ["Square", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Opposition",
+    "geometry_signature": ["Sextile", "Sextile", "Opposition"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Opposition"],
+      ["Sextile", "Opposition", "Sextile"],
+      ["Opposition", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Quincunx–Conjunction",
+    "geometry_signature": ["Square", "Quincunx", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Quincunx", "Conjunction"],
+      ["Quincunx", "Square", "Conjunction"],
+      ["Conjunction", "Square", "Quincunx"],
+      ["Conjunction", "Quincunx", "Square"],
+      ["Quincunx", "Conjunction", "Square"],
+      ["Square", "Conjunction", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Square",
+    "geometry_signature": ["Opposition", "Opposition", "Square"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Square"],
+      ["Opposition", "Square", "Opposition"],
+      ["Square", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Sextile–Quincunx",
+    "geometry_signature": ["Trine", "Sextile", "Quincunx"],
+    "aspect_variants": [
+      ["Trine", "Sextile", "Quincunx"],
+      ["Sextile", "Trine", "Quincunx"],
+      ["Quincunx", "Trine", "Sextile"],
+      ["Quincunx", "Sextile", "Trine"],
+      ["Sextile", "Quincunx", "Trine"],
+      ["Trine", "Quincunx", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Opposition–Conjunction",
+    "geometry_signature": ["Square", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Opposition", "Conjunction"],
+      ["Opposition", "Square", "Conjunction"],
+      ["Conjunction", "Square", "Opposition"],
+      ["Conjunction", "Opposition", "Square"],
+      ["Opposition", "Conjunction", "Square"],
+      ["Square", "Conjunction", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Quincunx–Square",
+    "geometry_signature": ["Quincunx", "Quincunx", "Square"],
+    "aspect_variants": [
+      ["Quincunx", "Quincunx", "Square"],
+      ["Quincunx", "Square", "Quincunx"],
+      ["Square", "Quincunx", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Trine–Conjunction",
+    "geometry_signature": ["Trine", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Conjunction"],
+      ["Trine", "Conjunction", "Trine"],
+      ["Conjunction", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Sextile–Trine",
+    "geometry_signature": ["Square", "Sextile", "Trine"],
+    "aspect_variants": [
+      ["Square", "Sextile", "Trine"],
+      ["Sextile", "Square", "Trine"],
+      ["Trine", "Square", "Sextile"],
+      ["Trine", "Sextile", "Square"],
+      ["Sextile", "Trine", "Square"],
+      ["Square", "Trine", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Square–Conjunction",
+    "geometry_signature": ["Opposition", "Square", "Conjunction"],
+    "aspect_variants": [
+      ["Opposition", "Square", "Conjunction"],
+      ["Square", "Opposition", "Conjunction"],
+      ["Conjunction", "Opposition", "Square"],
+      ["Conjunction", "Square", "Opposition"],
+      ["Square", "Conjunction", "Opposition"],
+      ["Opposition", "Conjunction", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Trine–Conjunction",
+    "geometry_signature": ["Quincunx", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Quincunx", "Trine", "Conjunction"],
+      ["Trine", "Quincunx", "Conjunction"],
+      ["Conjunction", "Quincunx", "Trine"],
+      ["Conjunction", "Trine", "Quincunx"],
+      ["Trine", "Conjunction", "Quincunx"],
+      ["Quincunx", "Conjunction", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Opposition–Conjunction",
+    "geometry_signature": ["Sextile", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Sextile", "Opposition", "Conjunction"],
+      ["Opposition", "Sextile", "Conjunction"],
+      ["Conjunction", "Sextile", "Opposition"],
+      ["Conjunction", "Opposition", "Sextile"],
+      ["Opposition", "Conjunction", "Sextile"],
+      ["Sextile", "Conjunction", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Conjunction",
+    "geometry_signature": ["Square", "Square", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Square", "Conjunction"],
+      ["Square", "Conjunction", "Square"],
+      ["Conjunction", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Opposition–Quincunx",
+    "geometry_signature": ["Trine", "Opposition", "Quincunx"],
+    "aspect_variants": [
+      ["Trine", "Opposition", "Quincunx"],
+      ["Opposition", "Trine", "Quincunx"],
+      ["Quincunx", "Trine", "Opposition"],
+      ["Quincunx", "Opposition", "Trine"],
+      ["Opposition", "Quincunx", "Trine"],
+      ["Trine", "Quincunx", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Square",
+    "geometry_signature": ["Sextile", "Sextile", "Square"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Square"],
+      ["Sextile", "Square", "Sextile"],
+      ["Square", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Quincunx",
+    "geometry_signature": ["Opposition", "Opposition", "Quincunx"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Quincunx"],
+      ["Opposition", "Quincunx", "Opposition"],
+      ["Quincunx", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Trine–Quincunx",
+    "geometry_signature": ["Square", "Trine", "Quincunx"],
+    "aspect_variants": [
+      ["Square", "Trine", "Quincunx"],
+      ["Trine", "Square", "Quincunx"],
+      ["Quincunx", "Square", "Trine"],
+      ["Quincunx", "Trine", "Square"],
+      ["Trine", "Quincunx", "Square"],
+      ["Square", "Quincunx", "Trine"]
+    ]
+  }
+][
+  {
+    "triadic_name": "Trine–Trine–Conjunction",
+    "geometry_signature": ["Trine", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Conjunction"],
+      ["Trine", "Conjunction", "Trine"],
+      ["Conjunction", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Sextile–Trine",
+    "geometry_signature": ["Square", "Sextile", "Trine"],
+    "aspect_variants": [
+      ["Square", "Sextile", "Trine"],
+      ["Sextile", "Square", "Trine"],
+      ["Trine", "Square", "Sextile"],
+      ["Trine", "Sextile", "Square"],
+      ["Sextile", "Trine", "Square"],
+      ["Square", "Trine", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Square–Conjunction",
+    "geometry_signature": ["Opposition", "Square", "Conjunction"],
+    "aspect_variants": [
+      ["Opposition", "Square", "Conjunction"],
+      ["Square", "Opposition", "Conjunction"],
+      ["Conjunction", "Opposition", "Square"],
+      ["Conjunction", "Square", "Opposition"],
+      ["Square", "Conjunction", "Opposition"],
+      ["Opposition", "Conjunction", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Trine–Conjunction",
+    "geometry_signature": ["Quincunx", "Trine", "Conjunction"],
+    "aspect_variants": [
+      ["Quincunx", "Trine", "Conjunction"],
+      ["Trine", "Quincunx", "Conjunction"],
+      ["Conjunction", "Quincunx", "Trine"],
+      ["Conjunction", "Trine", "Quincunx"],
+      ["Trine", "Conjunction", "Quincunx"],
+      ["Quincunx", "Conjunction", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Opposition–Conjunction",
+    "geometry_signature": ["Sextile", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Sextile", "Opposition", "Conjunction"],
+      ["Opposition", "Sextile", "Conjunction"],
+      ["Conjunction", "Sextile", "Opposition"],
+      ["Conjunction", "Opposition", "Sextile"],
+      ["Opposition", "Conjunction", "Sextile"],
+      ["Sextile", "Conjunction", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Conjunction",
+    "geometry_signature": ["Square", "Square", "Conjunction"],
+    "aspect_variants": [
+      ["Square", "Square", "Conjunction"],
+      ["Square", "Conjunction", "Square"],
+      ["Conjunction", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Opposition–Quincunx",
+    "geometry_signature": ["Trine", "Opposition", "Quincunx"],
+    "aspect_variants": [
+      ["Trine", "Opposition", "Quincunx"],
+      ["Opposition", "Trine", "Quincunx"],
+      ["Quincunx", "Trine", "Opposition"],
+      ["Quincunx", "Opposition", "Trine"],
+      ["Opposition", "Quincunx", "Trine"],
+      ["Trine", "Quincunx", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Square",
+    "geometry_signature": ["Sextile", "Sextile", "Square"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Square"],
+      ["Sextile", "Square", "Sextile"],
+      ["Square", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Quincunx",
+    "geometry_signature": ["Opposition", "Opposition", "Quincunx"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Quincunx"],
+      ["Opposition", "Quincunx", "Opposition"],
+      ["Quincunx", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Trine–Quincunx",
+    "geometry_signature": ["Square", "Trine", "Quincunx"],
+    "aspect_variants": [
+      ["Square", "Trine", "Quincunx"],
+      ["Trine", "Square", "Quincunx"],
+      ["Quincunx", "Square", "Trine"],
+      ["Quincunx", "Trine", "Square"],
+      ["Trine", "Quincunx", "Square"],
+      ["Square", "Quincunx", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Conjunction–Conjunction–Square",
+    "geometry_signature": ["Conjunction", "Conjunction", "Square"],
+    "aspect_variants": [
+      ["Conjunction", "Conjunction", "Square"],
+      ["Conjunction", "Square", "Conjunction"],
+      ["Square", "Conjunction", "Conjunction"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Trine–Quincunx",
+    "geometry_signature": ["Trine", "Trine", "Quincunx"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Quincunx"],
+      ["Trine", "Quincunx", "Trine"],
+      ["Quincunx", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Quincunx",
+    "geometry_signature": ["Square", "Square", "Quincunx"],
+    "aspect_variants": [
+      ["Square", "Square", "Quincunx"],
+      ["Square", "Quincunx", "Square"],
+      ["Quincunx", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Conjunction",
+    "geometry_signature": ["Opposition", "Opposition", "Conjunction"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Conjunction"],
+      ["Opposition", "Conjunction", "Opposition"],
+      ["Conjunction", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Conjunction",
+    "geometry_signature": ["Sextile", "Sextile", "Conjunction"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Conjunction"],
+      ["Sextile", "Conjunction", "Sextile"],
+      ["Conjunction", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Quincunx–Conjunction",
+    "geometry_signature": ["Quincunx", "Quincunx", "Conjunction"],
+    "aspect_variants": [
+      ["Quincunx", "Quincunx", "Conjunction"],
+      ["Quincunx", "Conjunction", "Quincunx"],
+      ["Conjunction", "Quincunx", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Opposition–Sextile",
+    "geometry_signature": ["Square", "Opposition", "Sextile"],
+    "aspect_variants": [
+      ["Square", "Opposition", "Sextile"],
+      ["Opposition", "Square", "Sextile"],
+      ["Sextile", "Square", "Opposition"],
+      ["Sextile", "Opposition", "Square"],
+      ["Opposition", "Sextile", "Square"],
+      ["Square", "Sextile", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Trine–Opposition",
+    "geometry_signature": ["Trine", "Trine", "Opposition"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Opposition"],
+      ["Trine", "Opposition", "Trine"],
+      ["Opposition", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Quincunx–Sextile",
+    "geometry_signature": ["Quincunx", "Quincunx", "Sextile"],
+    "aspect_variants": [
+      ["Quincunx", "Quincunx", "Sextile"],
+      ["Quincunx", "Sextile", "Quincunx"],
+      ["Sextile", "Quincunx", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Sextile",
+    "geometry_signature": ["Square", "Square", "Sextile"],
+    "aspect_variants": [
+      ["Square", "Square", "Sextile"],
+      ["Square", "Sextile", "Square"],
+      ["Sextile", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Conjunction–Conjunction–Trine",
+    "geometry_signature": ["Conjunction", "Conjunction", "Trine"],
+    "aspect_variants": [
+      ["Conjunction", "Conjunction", "Trine"],
+      ["Conjunction", "Trine", "Conjunction"],
+      ["Trine", "Conjunction", "Conjunction"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Sextile",
+    "geometry_signature": ["Opposition", "Opposition", "Sextile"],
+    "aspect_variants": [
+      ["Opposition", "Opposition", "Sextile"],
+      ["Opposition", "Sextile", "Opposition"],
+      ["Sextile", "Opposition", "Opposition"]
+    ]
+  },
+  {
+    "triadic_name": "Square–Square–Opposition",
+    "geometry_signature": ["Square", "Square", "Opposition"],
+    "aspect_variants": [
+      ["Square", "Square", "Opposition"],
+      ["Square", "Opposition", "Square"],
+      ["Opposition", "Square", "Square"]
+    ]
+  },
+  {
+    "triadic_name": "Trine–Trine–Sextile",
+    "geometry_signature": ["Trine", "Trine", "Sextile"],
+    "aspect_variants": [
+      ["Trine", "Trine", "Sextile"],
+      ["Trine", "Sextile", "Trine"],
+      ["Sextile", "Trine", "Trine"]
+    ]
+  },
+  {
+    "triadic_name": "Quincunx–Quincunx–Opposition",
+    "geometry_signature": ["Quincunx", "Quincunx", "Opposition"],
+    "aspect_variants": [
+      ["Quincunx", "Quincunx", "Opposition"],
+      ["Quincunx", "Opposition", "Quincunx"],
+      ["Opposition", "Quincunx", "Quincunx"]
+    ]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Quincunx",
+    "geometry_signature": ["Sextile", "Sextile", "Quincunx"],
+    "aspect_variants": [
+      ["Sextile", "Sextile", "Quincunx"],
+      ["Sextile", "Quincunx", "Sextile"],
+      ["Quincunx", "Sextile", "Sextile"]
+    ]
+  },
+  {
+    "triadic_name": "Conjunction–Conjunction–Quincunx",
+    "geometry_signature": ["Conjunction", "Conjunction", "Quincunx"],
+    "aspect_variants": [
+      ["Conjunction", "Conjunction", "Quincunx"],
+      ["Conjunction", "Quincunx", "Conjunction"],
+      ["Quincunx", "Conjunction", "Conjunction"]
+    ]
+  },
+  {
+    "triadic_name": "Opposition–Opposition–Opposition",
+    "geometry_signature": ["Opposition", "Opposition", "Opposition"],
+    "aspect_variants": [["Opposition", "Opposition", "Opposition"]]
+  },
+  {
+    "triadic_name": "Sextile–Sextile–Sextile",
+    "geometry_signature": ["Sextile", "Sextile", "Sextile"],
+    "aspect_variants": [["Sextile", "Sextile", "Sextile"]]
+  },
+  {
+    "triadic_name": "Quincunx–Quincunx–Quincunx",
+    "geometry_signature": ["Quincunx", "Quincunx", "Quincunx"],
+    "aspect_variants": [["Quincunx", "Quincunx", "Quincunx"]]
+  },
+  {
+    "triadic_name": "Conjunction–Conjunction–Conjunction",
+    "geometry_signature": ["Conjunction", "Conjunction", "Conjunction"],
+    "aspect_variants": [["Conjunction", "Conjunction", "Conjunction"]]
+  },
+  {
+    "triadic_name": "Square–Square–Square",
+    "geometry_signature": ["Square", "Square", "Square"],
+    "aspect_variants": [["Square", "Square", "Square"]]
+  }
+]
