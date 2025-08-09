@@ -1,0 +1,624 @@
+{
+  "TRIAD-001": {
+    "roles": {
+      "Karta": "Sun",
+      "Karma": "Mars",
+      "Guru": "Jupiter"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Mars": "inductor",
+      "Jupiter": "amplifier"
+    },
+    "karmic_balance": {
+      "Saturn": { "balances": "Mars", "past_energy": "Aggression without structure" },
+      "Ketu": { "balances": "Sun", "past_energy": "Egoic overreach" }
+    },
+    "action_flow": ["Karta -> Karma -> Guru"],
+    "epistemic_validated": true,
+    "civic_resonance": "Leadership through disciplined action",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Karma": { "zone": 24, "house": 6 },
+      "Guru": { "zone": 2, "house": 9 }
+    },
+    "retrograde_roles": ["Shani", "Ketu"]
+  },
+
+  "TRIAD-002": {
+    "roles": {
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Antariksha": "Neptune"
+    },
+    "modulation_logic": {
+      "Mercury": "transceiver",
+      "Venus": "harmonic filter",
+      "Neptune": "dissolver"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Venus", "past_energy": "Emotional dependency" },
+      "Rahu": { "balances": "Neptune", "past_energy": "Illusory expansion" }
+    },
+    "action_flow": ["Jnaata -> Prema -> Antariksha"],
+    "epistemic_validated": true,
+    "civic_resonance": "Emotional diplomacy and hidden networks",
+    "match_pattern": {
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Antariksha": { "zone": 40, "house": 12 }
+    },
+    "retrograde_roles": ["Rahu", "Chhaaya"]
+  },
+
+  "TRIAD-003": {
+    "roles": {
+      "Yoddha": "Mars",
+      "Mrityu": "Saturn",
+      "Vimochana": "Ketu"
+    },
+    "modulation_logic": {
+      "Mars": "inductor",
+      "Saturn": "resistor",
+      "Ketu": "breaker"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Saturn", "past_energy": "Emotional suppression" },
+      "Sun": { "balances": "Ketu", "past_energy": "Detached ego" }
+    },
+    "action_flow": ["Yoddha -> Mrityu -> Vimochana"],
+    "epistemic_validated": true,
+    "civic_resonance": "Civic rupture and karmic release",
+    "match_pattern": {
+      "Yoddha": { "zone": 18, "house": 4 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Vimochana": { "zone": 39, "house": 12 }
+    },
+    "retrograde_roles": ["Shani", "Ketu", "Mrityu"]
+  },
+
+  "TRIAD-004": {
+    "roles": {
+      "Chhaaya": "Rahu",
+      "Avidya": "Pluto",
+      "Samudra": "Uranus"
+    },
+    "modulation_logic": {
+      "Rahu": "shadow amplifier",
+      "Pluto": "core disruptor",
+      "Uranus": "voltage spike"
+    },
+    "karmic_balance": {
+      "Jupiter": { "balances": "Rahu", "past_energy": "Expansion without ethics" },
+      "Venus": { "balances": "Pluto", "past_energy": "Desire for control" }
+    },
+    "action_flow": ["Chhaaya -> Avidya -> Samudra"],
+    "epistemic_validated": true,
+    "civic_resonance": "Hidden disruption and karmic inversion",
+    "match_pattern": {
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Avidya": { "zone": 41, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 }
+    },
+    "retrograde_roles": ["Chhaaya", "Avidya"]
+  },
+
+  "TRIAD-005": {
+    "roles": {
+      "Karta": "Sun",
+      "Jnaata": "Mercury",
+      "Prema": "Venus"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Mercury": "transceiver",
+      "Venus": "harmonic filter"
+    },
+    "karmic_balance": {
+      "Saturn": { "balances": "Sun", "past_energy": "Unstructured authority" },
+      "Moon": { "balances": "Venus", "past_energy": "Emotional indulgence" }
+    },
+    "action_flow": ["Karta -> Jnaata -> Prema"],
+    "epistemic_validated": true,
+    "civic_resonance": "Creative leadership and relational clarity",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 }
+    },
+    "retrograde_roles": ["Shani", "Chhaaya"]
+  },
+  "QUAD-006": {
+    "roles": {
+      "Yoddha": "Mars",
+      "Mrityu": "Saturn",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu"
+    },
+    "modulation_logic": {
+      "Mars": "inductor",
+      "Saturn": "resistor",
+      "Rahu": "shadow amplifier",
+      "Ketu": "breaker"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Saturn", "past_energy": "Emotional rigidity" },
+      "Sun": { "balances": "Ketu", "past_energy": "Detached will" }
+    },
+    "action_flow": ["Yoddha -> Mrityu -> Chhaaya -> Vimochana"],
+    "epistemic_validated": true,
+    "civic_resonance": "Civic rupture and karmic inversion",
+    "match_pattern": {
+      "Yoddha": { "zone": 18, "house": 4 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 }
+    },
+    "retrograde_roles": ["Shani", "Chhaaya", "Vimochana"]
+  },
+
+  "QUAD-007": {
+    "roles": {
+      "Karma": "Moon",
+      "Prema": "Venus",
+      "Samudra": "Uranus",
+      "Antariksha": "Neptune"
+    },
+    "modulation_logic": {
+      "Moon": "resistor",
+      "Venus": "harmonic filter",
+      "Uranus": "voltage spike",
+      "Neptune": "dissolver"
+    },
+    "karmic_balance": {
+      "Mars": { "balances": "Moon", "past_energy": "Emotional volatility" },
+      "Rahu": { "balances": "Neptune", "past_energy": "Illusory expansion" }
+    },
+    "action_flow": ["Karma -> Prema -> Samudra -> Antariksha"],
+    "epistemic_validated": true,
+    "civic_resonance": "Emotional rupture and collective healing",
+    "match_pattern": {
+      "Karma": { "zone": 29, "house": 10 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Samudra": { "zone": 38, "house": 11 },
+      "Antariksha": { "zone": 40, "house": 12 }
+    },
+    "retrograde_roles": ["Rahu", "Antariksha"]
+  },
+
+  "QUAD-008": {
+    "roles": {
+      "Karta": "Sun",
+      "Guru": "Jupiter",
+      "Avidya": "Pluto",
+      "Jnaata": "Mercury"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Jupiter": "amplifier",
+      "Pluto": "core disruptor",
+      "Mercury": "transceiver"
+    },
+    "karmic_balance": {
+      "Saturn": { "balances": "Sun", "past_energy": "Unstructured authority" },
+      "Venus": { "balances": "Pluto", "past_energy": "Desire for control" }
+    },
+    "action_flow": ["Karta -> Guru -> Avidya -> Jnaata"],
+    "epistemic_validated": true,
+    "civic_resonance": "Leadership through hidden knowledge and karmic inversion",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Avidya": { "zone": 41, "house": 12 },
+      "Jnaata": { "zone": 1, "house": 3 }
+    },
+    "retrograde_roles": ["Avidya", "Guru"]
+  },
+
+  "QUAD-009": {
+    "roles": {
+      "Karma": "Moon",
+      "Yoddha": "Mars",
+      "Mrityu": "Saturn",
+      "Guru": "Jupiter"
+    },
+    "modulation_logic": {
+      "Moon": "resistor",
+      "Mars": "inductor",
+      "Saturn": "resistor",
+      "Jupiter": "amplifier"
+    },
+    "karmic_balance": {
+      "Ketu": { "balances": "Moon", "past_energy": "Emotional illusion" },
+      "Sun": { "balances": "Saturn", "past_energy": "Detached authority" }
+    },
+    "action_flow": ["Karma -> Yoddha -> Mrityu -> Guru"],
+    "epistemic_validated": true,
+    "civic_resonance": "Civic tension and karmic leadership",
+    "match_pattern": {
+      "Karma": { "zone": 29, "house": 10 },
+      "Yoddha": { "zone": 18, "house": 4 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Guru": { "zone": 2, "house": 9 }
+    },
+    "retrograde_roles": ["Shani", "Mrityu"]
+  },
+
+  "QUAD-010": {
+    "roles": {
+      "Prema": "Venus",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu",
+      "Samudra": "Uranus"
+    },
+    "modulation_logic": {
+      "Venus": "harmonic filter",
+      "Rahu": "shadow amplifier",
+      "Ketu": "breaker",
+      "Uranus": "voltage spike"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Venus", "past_energy": "Emotional indulgence" },
+      "Jupiter": { "balances": "Rahu", "past_energy": "Expansion without ethics" }
+    },
+    "action_flow": ["Prema -> Chhaaya -> Vimochana -> Samudra"],
+    "epistemic_validated": true,
+    "civic_resonance": "Emotional rupture and karmic release",
+    "match_pattern": {
+      "Prema": { "zone": 32, "house": 4 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 }
+    },
+    "retrograde_roles": ["Chhaaya", "Vimochana"]
+  },
+  "HEXAD-011": {
+    "roles": {
+      "Karta": "Sun",
+      "Karma": "Moon",
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Yoddha": "Mars",
+      "Guru": "Jupiter"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Moon": "resistor",
+      "Mars": "inductor",
+      "Jupiter": "amplifier"
+    },
+    "karmic_balance": {
+      "Saturn": { "balances": "Moon", "past_energy": "Emotional rigidity" },
+      "Ketu": { "balances": "Sun", "past_energy": "Detached will" }
+    },
+    "action_flow": ["Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"],
+    "epistemic_validated": true,
+    "civic_resonance": "Leadership through emotional modulation",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Karma": { "zone": 29, "house": 10 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Yoddha": { "zone": 18, "house": 6 },
+      "Guru": { "zone": 2, "house": 9 }
+    },
+    "retrograde_roles": ["Shani", "Ketu"]
+  },
+
+  "HEXAD-012": {
+    "roles": {
+      "Mrityu": "Saturn",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu",
+      "Avidya": "Pluto",
+      "Samudra": "Uranus",
+      "Antariksha": "Neptune"
+    },
+    "modulation_logic": {
+      "Saturn": "resistor",
+      "Rahu": "shadow amplifier",
+      "Ketu": "breaker",
+      "Pluto": "core disruptor"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Saturn", "past_energy": "Emotional suppression" },
+      "Venus": { "balances": "Pluto", "past_energy": "Desire for control" }
+    },
+    "action_flow": ["Mrityu -> Chhaaya -> Vimochana -> Avidya -> Samudra -> Antariksha"],
+    "epistemic_validated": true,
+    "civic_resonance": "Karmic rupture and hidden transformation",
+    "match_pattern": {
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 },
+      "Avidya": { "zone": 41, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 },
+      "Antariksha": { "zone": 40, "house": 12 }
+    },
+    "retrograde_roles": ["Chhaaya", "Vimochana", "Avidya"]
+  },
+
+  "HEXAD-013": {
+    "roles": {
+      "Karta": "Sun",
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Guru": "Jupiter",
+      "Antariksha": "Neptune",
+      "Samudra": "Uranus"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Mercury": "transceiver",
+      "Venus": "harmonic filter",
+      "Neptune": "dissolver"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Venus", "past_energy": "Emotional indulgence" },
+      "Rahu": { "balances": "Neptune", "past_energy": "Illusory expansion" }
+    },
+    "action_flow": ["Karta -> Jnaata -> Prema -> Guru -> Antariksha -> Samudra"],
+    "epistemic_validated": true,
+    "civic_resonance": "Creative leadership and collective healing",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Antariksha": { "zone": 40, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 }
+    },
+    "retrograde_roles": ["Antariksha", "Samudra"]
+  },
+
+  "HEXAD-014": {
+    "roles": {
+      "Karma": "Moon",
+      "Yoddha": "Mars",
+      "Mrityu": "Saturn",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu",
+      "Avidya": "Pluto"
+    },
+    "modulation_logic": {
+      "Moon": "resistor",
+      "Mars": "inductor",
+      "Saturn": "resistor",
+      "Pluto": "core disruptor"
+    },
+    "karmic_balance": {
+      "Sun": { "balances": "Saturn", "past_energy": "Detached authority" },
+      "Jupiter": { "balances": "Rahu", "past_energy": "Expansion without ethics" }
+    },
+    "action_flow": ["Karma -> Yoddha -> Mrityu -> Chhaaya -> Vimochana -> Avidya"],
+    "epistemic_validated": true,
+    "civic_resonance": "Civic rupture and karmic inversion",
+    "match_pattern": {
+      "Karma": { "zone": 29, "house": 10 },
+      "Yoddha": { "zone": 18, "house": 4 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 },
+      "Avidya": { "zone": 41, "house": 12 }
+    },
+    "retrograde_roles": ["Shani", "Chhaaya", "Vimochana", "Avidya"]
+  },
+
+  "HEXAD-015": {
+    "roles": {
+      "Karta": "Sun",
+      "Karma": "Moon",
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Guru": "Jupiter",
+      "Mrityu": "Saturn"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Moon": "resistor",
+      "Mercury": "transceiver",
+      "Saturn": "resistor"
+    },
+    "karmic_balance": {
+      "Ketu": { "balances": "Moon", "past_energy": "Emotional illusion" },
+      "Mars": { "balances": "Saturn", "past_energy": "Unstructured aggression" }
+    },
+    "action_flow": ["Karta -> Karma -> Jnaata -> Prema -> Guru -> Mrityu"],
+    "epistemic_validated": true,
+    "civic_resonance": "Leadership through karmic modulation",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Karma": { "zone": 29, "house": 10 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Mrityu": { "zone": 26, "house": 8 }
+    },
+    "retrograde_roles": ["Shani", "Mrityu"]
+  },
+  "OCTAD-016": {
+    "roles": {
+      "Karta": "Sun",
+      "Karma": "Moon",
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Yoddha": "Mars",
+      "Guru": "Jupiter",
+      "Mrityu": "Saturn",
+      "Vimochana": "Ketu"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Moon": "resistor",
+      "Mars": "inductor",
+      "Ketu": "breaker"
+    },
+    "karmic_balance": {
+      "Rahu": { "balances": "Ketu", "past_energy": "Unresolved shadow loops" },
+      "Pluto": { "balances": "Mars", "past_energy": "Destructive assertion" }
+    },
+    "action_flow": ["Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru -> Mrityu -> Vimochana"],
+    "epistemic_validated": true,
+    "civic_resonance": "Leadership through karmic rupture and ethical assertion",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Karma": { "zone": 29, "house": 10 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Yoddha": { "zone": 18, "house": 6 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Vimochana": { "zone": 39, "house": 12 }
+    },
+    "retrograde_roles": ["Shani", "Vimochana"]
+  },
+
+  "OCTAD-017": {
+    "roles": {
+      "Mrityu": "Saturn",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu",
+      "Avidya": "Pluto",
+      "Samudra": "Uranus",
+      "Antariksha": "Neptune",
+      "Karma": "Moon",
+      "Prema": "Venus"
+    },
+    "modulation_logic": {
+      "Saturn": "resistor",
+      "Rahu": "shadow amplifier",
+      "Pluto": "core disruptor",
+      "Neptune": "dissolver"
+    },
+    "karmic_balance": {
+      "Sun": { "balances": "Saturn", "past_energy": "Detached authority" },
+      "Jupiter": { "balances": "Rahu", "past_energy": "Expansion without ethics" }
+    },
+    "action_flow": ["Mrityu -> Chhaaya -> Vimochana -> Avidya -> Samudra -> Antariksha -> Karma -> Prema"],
+    "epistemic_validated": true,
+    "civic_resonance": "Shadow modulation and emotional inversion",
+    "match_pattern": {
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 },
+      "Avidya": { "zone": 41, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 },
+      "Antariksha": { "zone": 40, "house": 12 },
+      "Karma": { "zone": 29, "house": 10 },
+      "Prema": { "zone": 32, "house": 4 }
+    },
+    "retrograde_roles": ["Chhaaya", "Vimochana", "Avidya", "Antariksha"]
+  },
+
+  "OCTAD-018": {
+    "roles": {
+      "Karta": "Sun",
+      "Jnaata": "Mercury",
+      "Guru": "Jupiter",
+      "Mrityu": "Saturn",
+      "Chhaaya": "Rahu",
+      "Vimochana": "Ketu",
+      "Avidya": "Pluto",
+      "Samudra": "Uranus"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Mercury": "transceiver",
+      "Saturn": "resistor",
+      "Pluto": "core disruptor"
+    },
+    "karmic_balance": {
+      "Moon": { "balances": "Saturn", "past_energy": "Emotional rigidity" },
+      "Venus": { "balances": "Pluto", "past_energy": "Desire for control" }
+    },
+    "action_flow": ["Karta -> Jnaata -> Guru -> Mrityu -> Chhaaya -> Vimochana -> Avidya -> Samudra"],
+    "epistemic_validated": true,
+    "civic_resonance": "Civic leadership through karmic inversion",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 1 },
+      "Jnaata": { "zone": 1, "house": 3 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Chhaaya": { "zone": 30, "house": 7 },
+      "Vimochana": { "zone": 39, "house": 12 },
+      "Avidya": { "zone": 41, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 }
+    },
+    "retrograde_roles": ["Shani", "Chhaaya", "Vimochana", "Avidya"]
+  },
+
+  "OCTAD-019": {
+    "roles": {
+      "Karma": "Moon",
+      "Yoddha": "Mars",
+      "Prema": "Venus",
+      "Guru": "Jupiter",
+      "Antariksha": "Neptune",
+      "Samudra": "Uranus",
+      "Mrityu": "Saturn",
+      "Avidya": "Pluto"
+    },
+    "modulation_logic": {
+      "Moon": "resistor",
+      "Mars": "inductor",
+      "Venus": "harmonic filter",
+      "Pluto": "core disruptor"
+    },
+    "karmic_balance": {
+      "Sun": { "balances": "Saturn", "past_energy": "Detached authority" },
+      "Mercury": { "balances": "Pluto", "past_energy": "Mental obsession" }
+    },
+    "action_flow": ["Karma -> Yoddha -> Prema -> Guru -> Antariksha -> Samudra -> Mrityu -> Avidya"],
+    "epistemic_validated": true,
+    "civic_resonance": "Emotional assertion and mythic dissolution",
+    "match_pattern": {
+      "Karma": { "zone": 29, "house": 10 },
+      "Yoddha": { "zone": 18, "house": 6 },
+      "Prema": { "zone": 32, "house": 4 },
+      "Guru": { "zone": 2, "house": 9 },
+      "Antariksha": { "zone": 40, "house": 12 },
+      "Samudra": { "zone": 38, "house": 11 },
+      "Mrityu": { "zone": 26, "house": 8 },
+      "Avidya": { "zone": 41, "house": 12 }
+    },
+    "retrograde_roles": ["Antariksha", "Avidya"]
+  },
+"OCTAD-020": {
+  "roles": {
+    "Karta": "Sun",
+    "Karma": "Moon",
+    "Jnaata": "Mercury",
+    "Prema": "Venus",
+    "Yoddha": "Mars",
+    "Guru": "Jupiter",
+    "Mrityu": "Saturn",
+    "Chhaaya": "Rahu"
+  },
+  "modulation_logic": {
+    "Sun": "capacitor",
+    "Moon": "resistor",
+    "Mars": "inductor",
+    "Rahu": "shadow amplifier"
+  },
+  "karmic_balance": {
+    "Ketu": { "balances": "Moon", "past_energy": "Emotional illusion" },
+    "Pluto": { "balances": "Mars", "past_energy": "Destructive assertion" }
+  },
+  "action_flow": [
+    "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru -> Mrityu -> Chhaaya"
+  ],
+  "epistemic_validated": true,
+  "civic_resonance": "Leadership through shadow modulation and karmic assertion",
+  "match_pattern": {
+    "Karta": { "zone": 35, "house": 1 },
+    "Karma": { "zone": 29, "house": 10 },
+    "Jnaata": { "zone": 1, "house": 3 },
+    "Prema": { "zone": 32, "house": 4 },
+    "Yoddha": { "zone": 18, "house": 6 },
+    "Guru": { "zone": 2, "house": 9 },
+    "Mrityu": { "zone": 26, "house": 8 },
+    "Chhaaya": { "zone": 30, "house": 7 }
+  },
+  "retrograde_roles": ["Shani", "Chhaaya"]
+ }
+}
