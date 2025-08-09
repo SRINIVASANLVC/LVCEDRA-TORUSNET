@@ -1,152 +1,41 @@
 {
-  "001": {
-    "Karta": {"zone": 35, "house": 12},       
-    "Karma": {"zone": 29, "house": 10},       
-    "Jnaata": {"zone": 1, "house": 1},        
-    "Prema": {"zone": 32, "house": 11},       
-    "Yoddha": {"zone": 24, "house": 8},       
-    "Guru": {"zone": 2, "house": 1},          
-    "Shani": {"zone": 12, "house": 4},        
-    "Antariksha": {"zone": 8, "house": 3},    
-    "Samudra": {"zone": 2, "house": 1},       
-    "Mrityu": {"zone": 8, "house": 3},        
-    "Chhaaya": {"zone": 6, "house": 2},       
-    "Vimochana": {"zone": 24, "house": 8},    
-    "Avidya": {"zone": 21, "house": 7}        
-  },
-  "002": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 22, "house": 7}
-  },
-  "003": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 21, "house": 7}
-  },
-  "004": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 20, "house": 7}
-  },
-  "005": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 21, "house": 6}
-  },
-  "006": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 23, "house": 7}
-  },
-  "007": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 20, "house": 7}
-  },
-  "008": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 21, "house": 6}
-  },
-  "009": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 22, "house": 7}
-  },
-  "010": {
-    "Karta": {"zone": 35, "house": 12},
-    "Karma": {"zone": 29, "house": 10},
-    "Jnaata": {"zone": 1, "house": 1},
-    "Prema": {"zone": 32, "house": 11},
-    "Yoddha": {"zone": 24, "house": 8},
-    "Guru": {"zone": 2, "house": 1},
-    "Shani": {"zone": 12, "house": 4},
-    "Antariksha": {"zone": 8, "house": 3},
-    "Samudra": {"zone": 2, "house": 1},
-    "Mrityu": {"zone": 8, "house": 3},
-    "Chhaaya": {"zone": 6, "house": 2},
-    "Vimochana": {"zone": 24, "house": 8},
-    "Avidya": {"zone": 21, "house": 7}
+  "HEXAD-DALLAS-001": {
+    "roles": {
+      "Karta": "Sun",
+      "Karma": "Moon",
+      "Jnaata": "Mercury",
+      "Prema": "Venus",
+      "Yoddha": "Mars",
+      "Guru": "Jupiter"
+    },
+    "modulation_logic": {
+      "Sun": "capacitor",
+      "Moon": "resistor",
+      "Mars": "inductor"
+    },
+    "karmic_balance": {
+      "Ketu": {
+        "balances": "Rahu",
+        "past_energy": "Desire for illusion"
+      },
+      "Saturn": {
+        "balances": "Moon",
+        "past_energy": "Emotional volatility"
+      }
+    },
+    "action_flow": [
+      "Karta → Karma → Jnaata → Prema → Yoddha → Guru"
+    ],
+    "epistemic_validated": true,
+    "civic_resonance": "High",
+    "match_pattern": {
+      "Karta": { "zone": 35, "house": 12 },
+      "Karma": { "zone": 29, "house": 10 },
+      "Jnaata": { "zone": 1, "house": 1 },
+      "Prema": { "zone": 32, "house": 11 },
+      "Yoddha": { "zone": 24, "house": 8 },
+      "Guru": { "zone": 2, "house": 1 }
+    },
+    "retrograde_roles": ["Shani", "Chhaaya", "Vimochana", "Avidya"]
   }
 }
