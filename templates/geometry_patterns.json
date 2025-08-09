@@ -23,9 +23,7 @@
         "past_energy": "Emotional volatility"
       }
     },
-    "action_flow": [
-      "Karta → Karma → Jnaata → Prema → Yoddha → Guru"
-    ],
+    "action_flow": ["Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"],
     "epistemic_validated": true,
     "civic_resonance": "High",
     "match_pattern": {

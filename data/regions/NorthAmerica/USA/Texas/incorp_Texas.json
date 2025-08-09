@@ -133,7 +133,7 @@
     "geometry_matches": [
       {
         "archetype_id": "HEXAD-DALLAS-001",
-        "score": 0,
+        "score": 14,
         "pattern": {
           "roles": {
             "Karta": "Sun",
@@ -159,7 +159,7 @@
             }
           },
           "action_flow": [
-            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+            "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"
           ],
           "epistemic_validated": true,
           "civic_resonance": "High",
@@ -197,40 +197,7 @@
           ]
         },
         "retrograde_roles": [],
-        "mismatches": [
-          [
-            "roles",
-            "missing planet"
-          ],
-          [
-            "modulation_logic",
-            "missing planet"
-          ],
-          [
-            "karmic_balance",
-            "missing planet"
-          ],
-          [
-            "action_flow",
-            "missing planet"
-          ],
-          [
-            "epistemic_validated",
-            "missing planet"
-          ],
-          [
-            "civic_resonance",
-            "missing planet"
-          ],
-          [
-            "match_pattern",
-            "missing planet"
-          ],
-          [
-            "retrograde_roles",
-            "missing planet"
-          ]
-        ]
+        "mismatches": []
       }
     ]
   },
@@ -368,7 +335,7 @@
     "geometry_matches": [
       {
         "archetype_id": "HEXAD-DALLAS-001",
-        "score": 0,
+        "score": 3,
         "pattern": {
           "roles": {
             "Karta": "Sun",
@@ -394,7 +361,7 @@
             }
           },
           "action_flow": [
-            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+            "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"
           ],
           "epistemic_validated": true,
           "civic_resonance": "High",
@@ -434,36 +401,69 @@
         "retrograde_roles": [],
         "mismatches": [
           [
-            "roles",
-            "missing planet"
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 5,
+                "house": 2
+              }
+            }
           ],
           [
-            "modulation_logic",
-            "missing planet"
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 3,
+                "house": 1
+              }
+            }
           ],
           [
-            "karmic_balance",
-            "missing planet"
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
           ],
           [
-            "action_flow",
-            "missing planet"
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 15,
+                "house": 5
+              }
+            }
           ],
           [
-            "epistemic_validated",
-            "missing planet"
-          ],
-          [
-            "civic_resonance",
-            "missing planet"
-          ],
-          [
-            "match_pattern",
-            "missing planet"
-          ],
-          [
-            "retrograde_roles",
-            "missing planet"
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
           ]
         ]
       }
@@ -603,7 +603,7 @@
     "geometry_matches": [
       {
         "archetype_id": "HEXAD-DALLAS-001",
-        "score": 0,
+        "score": 2,
         "pattern": {
           "roles": {
             "Karta": "Sun",
@@ -629,7 +629,7 @@
             }
           },
           "action_flow": [
-            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+            "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"
           ],
           "epistemic_validated": true,
           "civic_resonance": "High",
@@ -669,36 +669,69 @@
         "retrograde_roles": [],
         "mismatches": [
           [
-            "roles",
-            "missing planet"
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 8,
+                "house": 3
+              }
+            }
           ],
           [
-            "modulation_logic",
-            "missing planet"
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
           ],
           [
-            "karmic_balance",
-            "missing planet"
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 9,
+                "house": 3
+              }
+            }
           ],
           [
-            "action_flow",
-            "missing planet"
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 4,
+                "house": 2
+              }
+            }
           ],
           [
-            "epistemic_validated",
-            "missing planet"
-          ],
-          [
-            "civic_resonance",
-            "missing planet"
-          ],
-          [
-            "match_pattern",
-            "missing planet"
-          ],
-          [
-            "retrograde_roles",
-            "missing planet"
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
           ]
         ]
       }
@@ -864,7 +897,7 @@
             }
           },
           "action_flow": [
-            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+            "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"
           ],
           "epistemic_validated": true,
           "civic_resonance": "High",
@@ -904,36 +937,82 @@
         "retrograde_roles": [],
         "mismatches": [
           [
-            "roles",
-            "missing planet"
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
           ],
           [
-            "modulation_logic",
-            "missing planet"
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 22,
+                "house": 8
+              }
+            }
           ],
           [
-            "karmic_balance",
-            "missing planet"
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
           ],
           [
-            "action_flow",
-            "missing planet"
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 27,
+                "house": 9
+              }
+            }
           ],
           [
-            "epistemic_validated",
-            "missing planet"
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 34,
+                "house": 12
+              }
+            }
           ],
           [
-            "civic_resonance",
-            "missing planet"
-          ],
-          [
-            "match_pattern",
-            "missing planet"
-          ],
-          [
-            "retrograde_roles",
-            "missing planet"
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
           ]
         ]
       }
@@ -1099,7 +1178,7 @@
             }
           },
           "action_flow": [
-            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+            "Karta -> Karma -> Jnaata -> Prema -> Yoddha -> Guru"
           ],
           "epistemic_validated": true,
           "civic_resonance": "High",
@@ -1139,36 +1218,82 @@
         "retrograde_roles": [],
         "mismatches": [
           [
-            "roles",
-            "missing planet"
+            "Karta",
+            {
+              "expected": {
+                "zone": 35,
+                "house": 12
+              },
+              "actual": {
+                "zone": 33,
+                "house": 11
+              }
+            }
           ],
           [
-            "modulation_logic",
-            "missing planet"
+            "Karma",
+            {
+              "expected": {
+                "zone": 29,
+                "house": 10
+              },
+              "actual": {
+                "zone": 10,
+                "house": 4
+              }
+            }
           ],
           [
-            "karmic_balance",
-            "missing planet"
+            "Jnaata",
+            {
+              "expected": {
+                "zone": 1,
+                "house": 1
+              },
+              "actual": {
+                "zone": 32,
+                "house": 11
+              }
+            }
           ],
           [
-            "action_flow",
-            "missing planet"
+            "Prema",
+            {
+              "expected": {
+                "zone": 32,
+                "house": 11
+              },
+              "actual": {
+                "zone": 29,
+                "house": 10
+              }
+            }
           ],
           [
-            "epistemic_validated",
-            "missing planet"
+            "Yoddha",
+            {
+              "expected": {
+                "zone": 24,
+                "house": 8
+              },
+              "actual": {
+                "zone": 36,
+                "house": 12
+              }
+            }
           ],
           [
-            "civic_resonance",
-            "missing planet"
-          ],
-          [
-            "match_pattern",
-            "missing planet"
-          ],
-          [
-            "retrograde_roles",
-            "missing planet"
+            "Guru",
+            {
+              "expected": {
+                "zone": 2,
+                "house": 1
+              },
+              "actual": {
+                "zone": 26,
+                "house": 9
+              }
+            }
           ]
         ]
       }
