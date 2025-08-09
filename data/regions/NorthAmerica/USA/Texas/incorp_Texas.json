@@ -129,7 +129,110 @@
       "nakshatra_ruler": "Sun",
       "template_House": 7,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "HEXAD-DALLAS-001",
+        "score": 0,
+        "pattern": {
+          "roles": {
+            "Karta": "Sun",
+            "Karma": "Moon",
+            "Jnaata": "Mercury",
+            "Prema": "Venus",
+            "Yoddha": "Mars",
+            "Guru": "Jupiter"
+          },
+          "modulation_logic": {
+            "Sun": "capacitor",
+            "Moon": "resistor",
+            "Mars": "inductor"
+          },
+          "karmic_balance": {
+            "Ketu": {
+              "balances": "Rahu",
+              "past_energy": "Desire for illusion"
+            },
+            "Saturn": {
+              "balances": "Moon",
+              "past_energy": "Emotional volatility"
+            }
+          },
+          "action_flow": [
+            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+          ],
+          "epistemic_validated": true,
+          "civic_resonance": "High",
+          "match_pattern": {
+            "Karta": {
+              "zone": 35,
+              "house": 12
+            },
+            "Karma": {
+              "zone": 29,
+              "house": 10
+            },
+            "Jnaata": {
+              "zone": 1,
+              "house": 1
+            },
+            "Prema": {
+              "zone": 32,
+              "house": 11
+            },
+            "Yoddha": {
+              "zone": 24,
+              "house": 8
+            },
+            "Guru": {
+              "zone": 2,
+              "house": 1
+            }
+          },
+          "retrograde_roles": [
+            "Shani",
+            "Chhaaya",
+            "Vimochana",
+            "Avidya"
+          ]
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "roles",
+            "missing planet"
+          ],
+          [
+            "modulation_logic",
+            "missing planet"
+          ],
+          [
+            "karmic_balance",
+            "missing planet"
+          ],
+          [
+            "action_flow",
+            "missing planet"
+          ],
+          [
+            "epistemic_validated",
+            "missing planet"
+          ],
+          [
+            "civic_resonance",
+            "missing planet"
+          ],
+          [
+            "match_pattern",
+            "missing planet"
+          ],
+          [
+            "retrograde_roles",
+            "missing planet"
+          ]
+        ]
+      }
+    ]
   },
   "Dallas_Irving": {
     "Sun": {
@@ -261,7 +364,110 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "HEXAD-DALLAS-001",
+        "score": 0,
+        "pattern": {
+          "roles": {
+            "Karta": "Sun",
+            "Karma": "Moon",
+            "Jnaata": "Mercury",
+            "Prema": "Venus",
+            "Yoddha": "Mars",
+            "Guru": "Jupiter"
+          },
+          "modulation_logic": {
+            "Sun": "capacitor",
+            "Moon": "resistor",
+            "Mars": "inductor"
+          },
+          "karmic_balance": {
+            "Ketu": {
+              "balances": "Rahu",
+              "past_energy": "Desire for illusion"
+            },
+            "Saturn": {
+              "balances": "Moon",
+              "past_energy": "Emotional volatility"
+            }
+          },
+          "action_flow": [
+            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+          ],
+          "epistemic_validated": true,
+          "civic_resonance": "High",
+          "match_pattern": {
+            "Karta": {
+              "zone": 35,
+              "house": 12
+            },
+            "Karma": {
+              "zone": 29,
+              "house": 10
+            },
+            "Jnaata": {
+              "zone": 1,
+              "house": 1
+            },
+            "Prema": {
+              "zone": 32,
+              "house": 11
+            },
+            "Yoddha": {
+              "zone": 24,
+              "house": 8
+            },
+            "Guru": {
+              "zone": 2,
+              "house": 1
+            }
+          },
+          "retrograde_roles": [
+            "Shani",
+            "Chhaaya",
+            "Vimochana",
+            "Avidya"
+          ]
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "roles",
+            "missing planet"
+          ],
+          [
+            "modulation_logic",
+            "missing planet"
+          ],
+          [
+            "karmic_balance",
+            "missing planet"
+          ],
+          [
+            "action_flow",
+            "missing planet"
+          ],
+          [
+            "epistemic_validated",
+            "missing planet"
+          ],
+          [
+            "civic_resonance",
+            "missing planet"
+          ],
+          [
+            "match_pattern",
+            "missing planet"
+          ],
+          [
+            "retrograde_roles",
+            "missing planet"
+          ]
+        ]
+      }
+    ]
   },
   "Dallas_Garland": {
     "Sun": {
@@ -393,7 +599,110 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "HEXAD-DALLAS-001",
+        "score": 0,
+        "pattern": {
+          "roles": {
+            "Karta": "Sun",
+            "Karma": "Moon",
+            "Jnaata": "Mercury",
+            "Prema": "Venus",
+            "Yoddha": "Mars",
+            "Guru": "Jupiter"
+          },
+          "modulation_logic": {
+            "Sun": "capacitor",
+            "Moon": "resistor",
+            "Mars": "inductor"
+          },
+          "karmic_balance": {
+            "Ketu": {
+              "balances": "Rahu",
+              "past_energy": "Desire for illusion"
+            },
+            "Saturn": {
+              "balances": "Moon",
+              "past_energy": "Emotional volatility"
+            }
+          },
+          "action_flow": [
+            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+          ],
+          "epistemic_validated": true,
+          "civic_resonance": "High",
+          "match_pattern": {
+            "Karta": {
+              "zone": 35,
+              "house": 12
+            },
+            "Karma": {
+              "zone": 29,
+              "house": 10
+            },
+            "Jnaata": {
+              "zone": 1,
+              "house": 1
+            },
+            "Prema": {
+              "zone": 32,
+              "house": 11
+            },
+            "Yoddha": {
+              "zone": 24,
+              "house": 8
+            },
+            "Guru": {
+              "zone": 2,
+              "house": 1
+            }
+          },
+          "retrograde_roles": [
+            "Shani",
+            "Chhaaya",
+            "Vimochana",
+            "Avidya"
+          ]
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "roles",
+            "missing planet"
+          ],
+          [
+            "modulation_logic",
+            "missing planet"
+          ],
+          [
+            "karmic_balance",
+            "missing planet"
+          ],
+          [
+            "action_flow",
+            "missing planet"
+          ],
+          [
+            "epistemic_validated",
+            "missing planet"
+          ],
+          [
+            "civic_resonance",
+            "missing planet"
+          ],
+          [
+            "match_pattern",
+            "missing planet"
+          ],
+          [
+            "retrograde_roles",
+            "missing planet"
+          ]
+        ]
+      }
+    ]
   },
   "Austin": {
     "Sun": {
@@ -525,7 +834,110 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "HEXAD-DALLAS-001",
+        "score": 0,
+        "pattern": {
+          "roles": {
+            "Karta": "Sun",
+            "Karma": "Moon",
+            "Jnaata": "Mercury",
+            "Prema": "Venus",
+            "Yoddha": "Mars",
+            "Guru": "Jupiter"
+          },
+          "modulation_logic": {
+            "Sun": "capacitor",
+            "Moon": "resistor",
+            "Mars": "inductor"
+          },
+          "karmic_balance": {
+            "Ketu": {
+              "balances": "Rahu",
+              "past_energy": "Desire for illusion"
+            },
+            "Saturn": {
+              "balances": "Moon",
+              "past_energy": "Emotional volatility"
+            }
+          },
+          "action_flow": [
+            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+          ],
+          "epistemic_validated": true,
+          "civic_resonance": "High",
+          "match_pattern": {
+            "Karta": {
+              "zone": 35,
+              "house": 12
+            },
+            "Karma": {
+              "zone": 29,
+              "house": 10
+            },
+            "Jnaata": {
+              "zone": 1,
+              "house": 1
+            },
+            "Prema": {
+              "zone": 32,
+              "house": 11
+            },
+            "Yoddha": {
+              "zone": 24,
+              "house": 8
+            },
+            "Guru": {
+              "zone": 2,
+              "house": 1
+            }
+          },
+          "retrograde_roles": [
+            "Shani",
+            "Chhaaya",
+            "Vimochana",
+            "Avidya"
+          ]
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "roles",
+            "missing planet"
+          ],
+          [
+            "modulation_logic",
+            "missing planet"
+          ],
+          [
+            "karmic_balance",
+            "missing planet"
+          ],
+          [
+            "action_flow",
+            "missing planet"
+          ],
+          [
+            "epistemic_validated",
+            "missing planet"
+          ],
+          [
+            "civic_resonance",
+            "missing planet"
+          ],
+          [
+            "match_pattern",
+            "missing planet"
+          ],
+          [
+            "retrograde_roles",
+            "missing planet"
+          ]
+        ]
+      }
+    ]
   },
   "Austin_Travis": {
     "Sun": {
@@ -657,6 +1069,109 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "retrograde_status": "Retrograde"
-    }
+    },
+    "geometry_matches": [
+      {
+        "archetype_id": "HEXAD-DALLAS-001",
+        "score": 0,
+        "pattern": {
+          "roles": {
+            "Karta": "Sun",
+            "Karma": "Moon",
+            "Jnaata": "Mercury",
+            "Prema": "Venus",
+            "Yoddha": "Mars",
+            "Guru": "Jupiter"
+          },
+          "modulation_logic": {
+            "Sun": "capacitor",
+            "Moon": "resistor",
+            "Mars": "inductor"
+          },
+          "karmic_balance": {
+            "Ketu": {
+              "balances": "Rahu",
+              "past_energy": "Desire for illusion"
+            },
+            "Saturn": {
+              "balances": "Moon",
+              "past_energy": "Emotional volatility"
+            }
+          },
+          "action_flow": [
+            "Karta \u00e2\u2020\u2019 Karma \u00e2\u2020\u2019 Jnaata \u00e2\u2020\u2019 Prema \u00e2\u2020\u2019 Yoddha \u00e2\u2020\u2019 Guru"
+          ],
+          "epistemic_validated": true,
+          "civic_resonance": "High",
+          "match_pattern": {
+            "Karta": {
+              "zone": 35,
+              "house": 12
+            },
+            "Karma": {
+              "zone": 29,
+              "house": 10
+            },
+            "Jnaata": {
+              "zone": 1,
+              "house": 1
+            },
+            "Prema": {
+              "zone": 32,
+              "house": 11
+            },
+            "Yoddha": {
+              "zone": 24,
+              "house": 8
+            },
+            "Guru": {
+              "zone": 2,
+              "house": 1
+            }
+          },
+          "retrograde_roles": [
+            "Shani",
+            "Chhaaya",
+            "Vimochana",
+            "Avidya"
+          ]
+        },
+        "retrograde_roles": [],
+        "mismatches": [
+          [
+            "roles",
+            "missing planet"
+          ],
+          [
+            "modulation_logic",
+            "missing planet"
+          ],
+          [
+            "karmic_balance",
+            "missing planet"
+          ],
+          [
+            "action_flow",
+            "missing planet"
+          ],
+          [
+            "epistemic_validated",
+            "missing planet"
+          ],
+          [
+            "civic_resonance",
+            "missing planet"
+          ],
+          [
+            "match_pattern",
+            "missing planet"
+          ],
+          [
+            "retrograde_roles",
+            "missing planet"
+          ]
+        ]
+      }
+    ]
   }
 }
