@@ -63,6 +63,7 @@ def get_sidereal_longitude(body, utc_time, ayanamsa):
         return f"{body_title} requires extended support (e.g., Swiss Ephemeris)"
 
 def get_zone_info(longitude, zones):
+    longitude = longitude % 360  # Normalize wrap-around
     for zone in zones:
         if zone["start"] <= longitude < zone["end"]:
             return {
@@ -110,14 +111,26 @@ def get_sun_info(utc_time, ayanamsa, modulation_zones):
     sun.compute(utc_time)
     ecl = ephem.Ecliptic(sun)
     sun_longitude = ecl.lon * (180.0 / pi) - ayanamsa
+    sun_longitude = sun_longitude % 360
     sun_zone_data = get_zone_info(sun_longitude, modulation_zones)
     return sun_longitude, sun_zone_data
+
+def trace_all_variables():
+    print("\n--- Variable Trace (locals) ---")
+    for name, val in locals().items():
+        if not name.startswith("__"):
+            print(f"{name} = {val} ({type(val).__name__})")
+
+    print("\n--- Variable Trace (globals) ---")
+    for name, val in globals().items():
+        if not name.startswith("__") and not callable(val):
+            print(f"{name} = {val} ({type(val).__name__})")
     
 def compute_planetary_info(utc_time):
     ayanamsa = lahiri_ayanamsa_from_utc(utc_time)
     bodies = load_bodies()
     modulation_zones = load_modulation_zones()
-    print(f"Ayanamsa adjusted: {ayanamsa}")
+    # print(f"Ayanamsa adjusted: {ayanamsa}")
 
     planet_info = {}
 
@@ -143,7 +156,7 @@ def compute_planetary_info(utc_time):
         }
 
     # Optional: Print nicely
-    for body, info in planet_info.items():
-        print(f"{body}: {info['longitude']:.6f}°, Direction: {info['retrograde_status']}, {info}")
-
+    # for body, info in planet_info.items():
+    #     print(f"{body}: {info['longitude']:.6f}°, Direction: {info['retrograde_status']}, {info}")
+    # trace_all_variables()
     return planet_info
