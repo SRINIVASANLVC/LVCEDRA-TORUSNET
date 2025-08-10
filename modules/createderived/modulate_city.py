@@ -20,13 +20,14 @@ def load_utc_file(filepath, target_city=None):
             for row in reader:
                 city = row.get("city_name")
                 raw_ts = row.get("incorporation_timestamp_utc")
+                FoundingIntentCanonical = row.get("FoundingIntentCanonical")
                 if city and raw_ts:
                     if target_city and city.lower() != target_city.lower():
                         continue
                     try:
                         dt = datetime.strptime(raw_ts, "%Y-%m-%dT%H:%M:%SZ")
                         formatted_utc = dt.strftime("%Y/%m/%d %H:%M:%S")
-                        results.append((city, formatted_utc))
+                        results.append((city, formatted_utc, FoundingIntentCanonical))
                     except ValueError:
                         print(f"[WARN] Skipping invalid timestamp for {city}: {raw_ts}")
     except FileNotFoundError:
@@ -119,12 +120,17 @@ if __name__ == "__main__":
         print("[WARN] No valid cities found.")
     else:
         print("[INFO] Parsed Cities:")
-        for city, utc_time in cities:
+        for city, utc_time,FoundingIntentCanonical in cities:
+            
             print(f"[INFO] Computing planetary modulation for {city} at {utc_time}")
-            # planet_data = compute_planetary_info(utc_time, modulation_zones)
+            planet_data = compute_planetary_info(utc_time, modulation_zones)
+            planet_data["incorp_choice"] = [{
+                "FoundingIntentCanonical": FoundingIntentCanonical
+            }]
             # matches = match_geometry(planet_data, geometry_patterns, top_n=3)
             # planet_data["geometry_matches"] = matches 
             update_planetary_json(planet_data, city)
+
 
             # for body, info in planet_data.items():
             #     print(f"{body}: {info['longitude']}°, Direction: {info['retrograde_status']}, {info}")

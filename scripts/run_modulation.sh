@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# git bash here and run this script to set up the environment and run modulation scripts
+# chmod +x scripts/run_modulation.sh
+# ./scripts/run_modulation.sh
+
 # echo "📄 Displaying bodies.csv:"
 # cat templates/bodies.csv
 # echo ""
@@ -15,14 +19,17 @@
 # echo "📄 Displaying utc_Texas.csv (filtered for Dallas):"
 # grep -i "^Dallas" data/regions/NorthAmerica/USA/Texas/utc_Texas.csv
 
-# echo "🚀 Running modulation script for Texas..."
-# python3 modules/createderived/modulate_city.py data/regions/NorthAmerica/USA/Texas/utc_Texas.csv
 
 # echo "🚀 Running modulation script for Jiva..."
 # python3 modules/createderived/modulate_Jiva.py data/jiva/utc_Jiva.csv --name Srinivasan
 
-echo "🚀 Running modulation script for Jiva..."
-python3 modules/createderived/modulate_Jiva.py data/jiva/utc_Jiva.csv
-
 # echo "🚀 Running modulation script for Dallas..."
 # python modules/createderived/modulate_city.py data/regions/NorthAmerica/USA/Texas/utc_Texas.csv --city Dallas
+
+# echo "🚀 Running modulation script for Jiva..."
+# python3 modules/createderived/modulate_Jiva.py data/jiva/utc_Jiva.csv
+
+echo "🚀 Running modulation script for Texas..."
+python3 modules/createderived/modulate_city.py data/regions/NorthAmerica/USA/Texas/utc_Texas.csv
+
+

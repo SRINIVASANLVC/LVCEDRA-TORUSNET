@@ -1,9 +1,9 @@
-city_name,incorporation_timestamp_utc
-Dallas,1856-02-02T00:00:00Z
-Dallas_Irving,1914-04-14T00:00:00Z
-Dallas_Garland,1891-05-01T00:00:00Z
-Austin,1839-12-27T00:00:00Z
-Austin_Travis,1840-01-15T00:00:00Z
+city_name,incorporation_timestamp_utc,FoundingIntentCanonical
+Dallas,1856-02-02T00:00:00Z,Trade
+Dallas_Irving,1914-04-14T00:00:00Z,Frontier
+Dallas_Garland,1891-05-01T00:00:00Z,Bastion
+Austin,1839-12-27T00:00:00Z,Covenant
+Austin_Travis,1840-01-15T00:00:00Z,Witness
 
 
 
