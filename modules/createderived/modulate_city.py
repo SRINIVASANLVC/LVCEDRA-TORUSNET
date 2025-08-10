@@ -121,7 +121,12 @@ if __name__ == "__main__":
     geometry_shapes = {
         shape["name"]: shape
         for shape in geometry_shapes_raw
+<<<<<<< HEAD
         if "geometry_id" in shape
+=======
+        if "name" in shape
+
+>>>>>>> 93b07e5e78e1fbe4212f0b03ddf1ea5f17ca1508
     }
 
     with open("templates/semantic_fractal_48.json", "r") as f:
