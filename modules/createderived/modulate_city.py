@@ -8,7 +8,11 @@ import json
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
-from modules.planetary_modulation.match_geometry import match_geometry
+# from modules.planetary_modulation.match_geometry import match_geometry
+from modules.planetary_modulation.chart_router import route_chart
+from modules.planetary_modulation.chart_decomposer import decompose_chart
+
+
 from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
 
 
@@ -112,8 +116,30 @@ if __name__ == "__main__":
 #     "Vimochana": {"zone": 24, "house": 8},    // Ketu
 #     "Avidya": {"zone": 21, "house": 7}        // Lilith
 #   },
-    with open("templates/geometry_patterns.json", "r") as f:
-        geometry_patterns = json.load(f)
+    with open("templates/geometry_shapes.json", "r") as f:
+        geometry_shapes_raw = json.load(f)
+    geometry_shapes = {
+        shape["name"]: shape
+        for shape in geometry_shapes_raw
+        if "name" in shape
+
+    }
+
+    with open("templates/semantic_fractal_48.json", "r") as f:
+        semantic_fractal_48 = json.load(f)
+    with open("templates/composite_configurations.json", "r") as f:
+        composite_configurations = json.load(f)
+    with open("templates/geometry_crossmap.json", "r") as f:
+        geometry_crossmap = json.load(f)
+    with open("templates/aspect_pattern_router.json", "r") as f:
+        aspect_pattern_router = json.load(f)
+    with open("templates/semantic_dna.json", "r") as f:
+        semantic_dna = json.load(f)
+    with open("templates/admitted_configurations.json", "r") as f:
+        admitted_configurations = json.load(f)
+    with open("templates/fractal_cycle_map.json", "r") as f:
+        fractal_cycle_map = json.load(f)
+
 
 
     if not cities:
@@ -127,6 +153,14 @@ if __name__ == "__main__":
             planet_data["incorp_choice"] = [{
                 "FoundingIntentCanonical": FoundingIntentCanonical
             }]
+            routed_chart = route_chart(planet_data, geometry_shapes, semantic_fractal_48)
+            print(f"[DEBUG] Routed Chart: {routed_chart}")
+            decomposed = decompose_chart(routed_chart, composite_configurations)
+            print(f"[DEBUG] Decomposed Chart: {decomposed}")
+
+
+
+
             # matches = match_geometry(planet_data, geometry_patterns, top_n=3)
             # planet_data["geometry_matches"] = matches 
             update_planetary_json(planet_data, city)
