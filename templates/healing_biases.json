@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Containment",
+    "description": "A stabilizing bias that holds, shelters, and protects. Often found in cities with Saturn-Moon overlays and Shaiva lineage. Associated with the Refuge archetype.",
+    "associated_planets": ["Saturn", "Moon"],
+    "semantic_role": "Holding",
+    "mythic_lineage": "Shaiva",
+    "archetype_examples": ["Refuge", "Sanctum"]
+  },
+  {
+    "name": "Purification",
+    "description": "A catalytic bias that burns away impurities, initiates transformation, and forges new forms. Linked to Mars-Ketu overlays and Agni lineage. Associated with Crucible archetypes.",
+    "associated_planets": ["Mars", "Ketu"],
+    "semantic_role": "Catalysis",
+    "mythic_lineage": "Agni",
+    "archetype_examples": ["Crucible", "Forge"]
+  },
+  {
+    "name": "Clarity",
+    "description": "A revealing bias that illuminates, signals, and defines civic identity. Emerges from Sun-Mercury overlays and Solar lineage. Associated with Signal archetypes.",
+    "associated_planets": ["Sun", "Mercury"],
+    "semantic_role": "Illumination",
+    "mythic_lineage": "Solar",
+    "archetype_examples": ["Signal", "Beacon"]
+  },
+  {
+    "name": "Ambiguity",
+    "description": "A deepening bias that invites mystery, complexity, and nonlinear transformation. Linked to Rahu-Moon overlays and Tantric lineage. Associated with Labyrinth archetypes.",
+    "associated_planets": ["Rahu", "Moon"],
+    "semantic_role": "Initiation",
+    "mythic_lineage": "Tantric",
+    "archetype_examples": ["Labyrinth", "Mirror"]
+  },
+  {
+    "name": "Memory",
+    "description": "A preserving bias that archives lineage, semantic continuity, and ancestral logic. Found in Jupiter-Mercury overlays and Vedic lineage. Associated with Archive archetypes.",
+    "associated_planets": ["Jupiter", "Mercury"],
+    "semantic_role": "Preservation",
+    "mythic_lineage": "Vedic",
+    "archetype_examples": ["Archive", "Custodian"]
+  }
+]

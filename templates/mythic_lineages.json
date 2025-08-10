@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Shaiva",
+    "description": "The lineage of containment, dissolution, and sacred stillness. Associated with Saturn-Moon overlays and the Refuge archetype. Cities under Shaiva lineage often serve as sanctuaries or memory vaults.",
+    "associated_planets": ["Saturn", "Moon"],
+    "healing_bias": "Containment",
+    "civic_roles": ["Refuge", "Sanctum"]
+  },
+  {
+    "name": "Agni",
+    "description": "The lineage of fire, purification, and catalytic transformation. Linked to Mars-Ketu overlays and Crucible archetypes. Cities under Agni lineage often undergo intense civic rebirth.",
+    "associated_planets": ["Mars", "Ketu"],
+    "healing_bias": "Purification",
+    "civic_roles": ["Crucible", "Forge"]
+  },
+  {
+    "name": "Solar",
+    "description": "The lineage of illumination, clarity, and sovereign radiance. Associated with Sun-Mercury overlays and Signal archetypes. Cities under Solar lineage often serve as beacons or civic exemplars.",
+    "associated_planets": ["Sun", "Mercury"],
+    "healing_bias": "Clarity",
+    "civic_roles": ["Signal", "Beacon"]
+  },
+  {
+    "name": "Tantric",
+    "description": "The lineage of mystery, initiation, and nonlinear transformation. Linked to Rahu-Moon overlays and Labyrinth archetypes. Cities under Tantric lineage often host rites of passage and semantic ambiguity.",
+    "associated_planets": ["Rahu", "Moon"],
+    "healing_bias": "Ambiguity",
+    "civic_roles": ["Labyrinth", "Mirror"]
+  },
+  {
+    "name": "Vedic",
+    "description": "The lineage of memory, lineage preservation, and semantic continuity. Associated with Jupiter-Mercury overlays and Archive archetypes. Cities under Vedic lineage often serve as custodians of ancestral logic.",
+    "associated_planets": ["Jupiter", "Mercury"],
+    "healing_bias": "Memory",
+    "civic_roles": ["Archive", "Custodian"]
+  }
+]
