@@ -121,9 +121,9 @@ if __name__ == "__main__":
         print("[INFO] Parsed Cities:")
         for city, utc_time in cities:
             print(f"[INFO] Computing planetary modulation for {city} at {utc_time}")
-            planet_data = compute_planetary_info(utc_time, modulation_zones)
-            matches = match_geometry(planet_data, geometry_patterns, top_n=3)
-            planet_data["geometry_matches"] = matches
+            # planet_data = compute_planetary_info(utc_time, modulation_zones)
+            # matches = match_geometry(planet_data, geometry_patterns, top_n=3)
+            # planet_data["geometry_matches"] = matches 
             update_planetary_json(planet_data, city)
 
             # for body, info in planet_data.items():

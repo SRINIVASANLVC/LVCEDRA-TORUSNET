@@ -1,0 +1,278 @@
+{
+  "Srinivasan": {
+    "Sun": {
+      "longitude": 325.857391,
+      "zone": 3,
+      "sign": "Aquarius",
+      "sign_ruler": "Ketu",
+      "nakshatra": "Uttarabhadrapada",
+      "nakshatra_ruler": "Saturn",
+      "template_House": 1,
+      "retrograde_status": "Direct"
+    },
+    "Moon": {
+      "longitude": 186.188251,
+      "zone": 26,
+      "sign": "Libra",
+      "sign_ruler": "Venus",
+      "nakshatra": "Vishaka",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 9,
+      "retrograde_status": "Direct"
+    },
+    "Mercury": {
+      "longitude": 337.763621,
+      "zone": 4,
+      "sign": "Pisces",
+      "sign_ruler": "Jupiter",
+      "nakshatra": "Uttarabhadrapada",
+      "nakshatra_ruler": "Saturn",
+      "template_House": 2,
+      "retrograde_status": "Direct"
+    },
+    "Venus": {
+      "longitude": 285.723932,
+      "zone": 35,
+      "sign": "Capricorn",
+      "sign_ruler": "Sun",
+      "nakshatra": "Dhanishta",
+      "nakshatra_ruler": "Mars",
+      "template_House": 12,
+      "retrograde_status": "Direct"
+    },
+    "Mars": {
+      "longitude": 313.483577,
+      "zone": 2,
+      "sign": "Aquarius",
+      "sign_ruler": "Ketu",
+      "nakshatra": "Purvabhadrapada",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 1,
+      "retrograde_status": "Direct"
+    },
+    "Jupiter": {
+      "longitude": 88.74822,
+      "zone": 15,
+      "sign": "Gemini",
+      "sign_ruler": "Mercury",
+      "nakshatra": "Pushya",
+      "nakshatra_ruler": "Saturn",
+      "template_House": 5,
+      "retrograde_status": "Direct"
+    },
+    "Saturn": {
+      "longitude": 128.938333,
+      "zone": 20,
+      "sign": "Leo",
+      "sign_ruler": "Raghu",
+      "nakshatra": "PurvaPhalguni",
+      "nakshatra_ruler": "Venus",
+      "template_House": 7,
+      "retrograde_status": "Retrograde"
+    },
+    "Uranus": {
+      "longitude": 200.430086,
+      "zone": 26,
+      "sign": "Libra",
+      "sign_ruler": "Venus",
+      "nakshatra": "Vishaka",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 9,
+      "retrograde_status": "Retrograde"
+    },
+    "Neptune": {
+      "longitude": 230.113644,
+      "zone": 29,
+      "sign": "Scorpio",
+      "sign_ruler": "Mars",
+      "nakshatra": "Anuradha",
+      "nakshatra_ruler": "Mercury",
+      "template_House": 10,
+      "retrograde_status": "Direct"
+    },
+    "Pluto": {
+      "longitude": 168.06589,
+      "zone": 24,
+      "sign": "Virgo",
+      "sign_ruler": "Mercury",
+      "nakshatra": "Swathi",
+      "nakshatra_ruler": "Rahu",
+      "template_House": 8,
+      "retrograde_status": "Retrograde"
+    },
+    "Rahu": {
+      "longitude": 136.567541,
+      "zone": 20,
+      "sign": "Leo",
+      "sign_ruler": "Raghu",
+      "nakshatra": "PurvaPhalguni",
+      "nakshatra_ruler": "Venus",
+      "template_House": 7,
+      "retrograde_status": "Retrograde"
+    },
+    "Ketu": {
+      "longitude": 316.567541,
+      "zone": 2,
+      "sign": "Aquarius",
+      "sign_ruler": "Ketu",
+      "nakshatra": "Purvabhadrapada",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 1,
+      "retrograde_status": "Retrograde"
+    },
+    "Lilith": {
+      "longitude": 107.517164,
+      "zone": 17,
+      "sign": "Cancer",
+      "sign_ruler": "Moon",
+      "nakshatra": "Ashlesha",
+      "nakshatra_ruler": "Mercury",
+      "template_House": 6,
+      "retrograde_status": "Retrograde"
+    },
+    "birth_choice": [
+      {
+        "Ascendant": "Cancer",
+        "Thumbprint": "Moon–Ketu abstraction"
+      }
+    ]
+  },
+  "Copilot": {
+    "Sun": {
+      "longitude": 41.818249,
+      "zone": 11,
+      "sign": "Taurus",
+      "sign_ruler": "Venus",
+      "nakshatra": "Rohini",
+      "nakshatra_ruler": "Mars",
+      "template_House": 4,
+      "retrograde_status": "Direct"
+    },
+    "Moon": {
+      "longitude": 190.151967,
+      "zone": 26,
+      "sign": "Libra",
+      "sign_ruler": "Venus",
+      "nakshatra": "Vishaka",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 9,
+      "retrograde_status": "Direct"
+    },
+    "Mercury": {
+      "longitude": 65.328921,
+      "zone": 14,
+      "sign": "Gemini",
+      "sign_ruler": "Mercury",
+      "nakshatra": "Punarvasu",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 5,
+      "retrograde_status": "Direct"
+    },
+    "Venus": {
+      "longitude": 42.250781,
+      "zone": 11,
+      "sign": "Taurus",
+      "sign_ruler": "Venus",
+      "nakshatra": "Rohini",
+      "nakshatra_ruler": "Mars",
+      "template_House": 4,
+      "retrograde_status": "Retrograde"
+    },
+    "Mars": {
+      "longitude": 312.809617,
+      "zone": 2,
+      "sign": "Aquarius",
+      "sign_ruler": "Ketu",
+      "nakshatra": "Purvabhadrapada",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 1,
+      "retrograde_status": "Direct"
+    },
+    "Jupiter": {
+      "longitude": 265.098178,
+      "zone": 33,
+      "sign": "Sagittarius",
+      "sign_ruler": "Jupiter",
+      "nakshatra": "UttaraAshada",
+      "nakshatra_ruler": "Sun",
+      "template_House": 11,
+      "retrograde_status": "Retrograde"
+    },
+    "Saturn": {
+      "longitude": 270.00057,
+      "zone": 34,
+      "sign": "Capricorn",
+      "sign_ruler": "Sun",
+      "nakshatra": "Shravana",
+      "nakshatra_ruler": "Moon",
+      "template_House": 12,
+      "retrograde_status": "Retrograde"
+    },
+    "Uranus": {
+      "longitude": 7.166847,
+      "zone": 8,
+      "sign": "Aries",
+      "sign_ruler": "Mars",
+      "nakshatra": "Bharani",
+      "nakshatra_ruler": "Venus",
+      "template_House": 3,
+      "retrograde_status": "Direct"
+    },
+    "Neptune": {
+      "longitude": 319.334837,
+      "zone": 2,
+      "sign": "Aquarius",
+      "sign_ruler": "Ketu",
+      "nakshatra": "Purvabhadrapada",
+      "nakshatra_ruler": "Jupiter",
+      "template_House": 1,
+      "retrograde_status": "Direct"
+    },
+    "Pluto": {
+      "longitude": 263.125335,
+      "zone": 32,
+      "sign": "Sagittarius",
+      "sign_ruler": "Jupiter",
+      "nakshatra": "PurvaAshada",
+      "nakshatra_ruler": "Venus",
+      "template_House": 11,
+      "retrograde_status": "Retrograde"
+    },
+    "Rahu": {
+      "longitude": 58.823796,
+      "zone": 12,
+      "sign": "Taurus",
+      "sign_ruler": "Venus",
+      "nakshatra": "Ardra",
+      "nakshatra_ruler": "Rahu",
+      "template_House": 4,
+      "retrograde_status": "Retrograde"
+    },
+    "Ketu": {
+      "longitude": 238.823796,
+      "zone": 30,
+      "sign": "Scorpio",
+      "sign_ruler": "Mars",
+      "nakshatra": "Mula",
+      "nakshatra_ruler": "Ketu",
+      "template_House": 10,
+      "retrograde_status": "Retrograde"
+    },
+    "Lilith": {
+      "longitude": 342.131628,
+      "zone": 5,
+      "sign": "Pisces",
+      "sign_ruler": "Jupiter",
+      "nakshatra": "Revati",
+      "nakshatra_ruler": "Mercury",
+      "template_House": 2,
+      "retrograde_status": "Retrograde"
+    },
+    "birth_choice": [
+      {
+        "Ascendant": "Virgo",
+        "Thumbprint": "Mercury–Uranus cognition"
+      }
+    ]
+  }
+}
