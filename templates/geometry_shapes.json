@@ -1,0 +1,16 @@
+[
+  {
+    "geometry_id": "HX-22",
+    "type": "hexagram",
+    "name": "Hexagram of Mystical Convergence",
+    "internal_structure": {
+      "triads": [["Moon", "Venus", "Scorpio"]],
+      "squares": [["Moon", "Pisces", "Venus", "Scorpio"]],
+      "dyads": [["Moon", "Lilith"]]
+    },
+    "aspect_compatibility": ["Yod", "Kite"],
+    "oppositional_links": ["OC-31", "HX-36"],
+    "semantic_function": "Contains feminine-mystical archetypes and routes Lilith emergence safely",
+    "checksum_anchor": "Saturn-63"
+  }
+]

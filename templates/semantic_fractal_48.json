@@ -1,0 +1,16 @@
+[
+  {
+    "role_point_id": "RP-17",
+    "geometry_id": "HX-22",
+    "position": "Vertex-3",
+    "planetary_anchor": "Lilith",
+    "assigned_value": 30,
+    "inheritance": {
+      "mythic_lineage": ["Moon", "Venus", "Scorpio", "Pisces"],
+      "civic_role": "Shadow Healer",
+      "jiva_role": "Mystic Rebel"
+    },
+    "emergence_flags": ["Lilith emergence via triad sum", "Validated by Saturn checksum"],
+    "semantic_notes": "Anchors feminine-mystical polarity; routed through Hexagram-22 for containment"
+  }
+]
