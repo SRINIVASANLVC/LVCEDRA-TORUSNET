@@ -6,6 +6,8 @@ import json
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
+sys.stdout.reconfigure(encoding='utf-8')
+
 
 def load_jiva_file(filepath, target_name=None):
     results = []
@@ -16,16 +18,33 @@ def load_jiva_file(filepath, target_name=None):
             reader = csv.DictReader(csvfile)
             for row in reader:
                 name = row.get("Name")
-                raw_ts = row.get("DOB_utc") or row.get("DOB")
-                ascendant = row.get("Ascendant")
-                thumbprint = row.get("Thumbprint Type")
+                raw_ts = row.get("DOB")
+                Ascendant = row.get("Ascendant")
+                Thumbprint = row.get("Thumbprint")
+                FoundingIntentNarrative = row.get("FoundingIntentNarrative")
+                FoundingIntentCanonical = row.get("FoundingIntentCanonical")
+                HealingBias = row.get("HealingBias")
+                SemanticDrift = row.get("SemanticDrift")
+                MythicLineage = row.get("MythicLineage")    
+
                 if name and raw_ts:
                     if target_name and name.strip().lower() != target_name.strip().lower():
                         continue
                     try:
                         dt = datetime.strptime(raw_ts, "%Y-%m-%dT%H:%MZ")
                         formatted_utc = dt.strftime("%Y/%m/%d %H:%M:%S")
-                        results.append((name, formatted_utc, ascendant, thumbprint))
+                        results.append({
+                            "Name": name,
+                            "DOB": formatted_utc,
+                            "Ascendant": Ascendant,
+                            "Thumbprint": Thumbprint,
+                            "FoundingIntentNarrative": FoundingIntentNarrative,
+                            "MythicLineage": MythicLineage,
+                            "SemanticDrift": SemanticDrift,
+                            "HealingBias": HealingBias,
+                            "FoundingIntentCanonical": FoundingIntentCanonical
+                        })
+
                     except ValueError:
                         print(f"[WARN] Skipping invalid timestamp for {name}: {raw_ts}")
     except FileNotFoundError:
@@ -121,13 +140,30 @@ if __name__ == "__main__":
         print("[WARN] No valid jivas found.")
     else:
         print("[INFO] Parsed Jivas:")
-        for name, utc_time, ascendant, thumbprint in jivas:
+        for row in jivas:
+            print(f"[DEBUG] Processing Jiva:{row}")
+            
+            name = row["Name"]
+            utc_time = row["DOB"]
+            Ascendant = row["Ascendant"]
+            Thumbprint = row["Thumbprint"]
+            FoundingIntentNarrative = row["FoundingIntentNarrative"]
+            MythicLineage = row["MythicLineage"]
+            SemanticDrift = row["SemanticDrift"]
+            HealingBias = row["HealingBias"]
+            FoundingIntentCanonical = row["FoundingIntentCanonical"]
+                                    
             print(f"[INFO] Computing planetary modulation for {name} at {utc_time}")
             planet_data = compute_planetary_info(utc_time, modulation_zones)
             # Add birth_choice as a list containing one dictionary
             planet_data["birth_choice"] = [{
-                "Ascendant": ascendant,
-                "Thumbprint": thumbprint
+                "Ascendant": Ascendant,
+                "Thumbprint": Thumbprint,
+                "FoundingIntentNarrative": FoundingIntentNarrative,
+                "MythicLineage": MythicLineage,
+                "SemanticDrift": SemanticDrift,
+                "HealingBias": HealingBias,
+                "FoundingIntentCanonical": FoundingIntentCanonical
             }]
             update_planetary_json(planet_data, name)
             # for body, info in planet_data.items():

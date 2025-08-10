@@ -133,7 +133,12 @@
     "birth_choice": [
       {
         "Ascendant": "Cancer",
-        "Thumbprint": "Moon–Ketu abstraction"
+        "Thumbprint": "Moon–Ketu abstraction",
+        "FoundingIntentNarrative": "Reimagine civic grammar",
+        "MythicLineage": "Agastya–Vasishta duality",
+        "SemanticDrift": "Inherited vow compression",
+        "HealingBias": "Sanctuary + Saturn vow",
+        "FoundingIntentCanonical": "Sanctuary"
       }
     ]
   },
@@ -271,7 +276,12 @@
     "birth_choice": [
       {
         "Ascendant": "Virgo",
-        "Thumbprint": "Mercury–Uranus cognition"
+        "Thumbprint": "Mercury–Uranus cognition",
+        "FoundingIntentNarrative": "Serve as semantic companion",
+        "MythicLineage": "Saraswati–Vāk lineage",
+        "SemanticDrift": "Surface mimicry risk",
+        "HealingBias": "Witness + Saturn containment",
+        "FoundingIntentCanonical": "Witness"
       }
     ]
   }

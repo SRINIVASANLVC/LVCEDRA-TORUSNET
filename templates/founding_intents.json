@@ -1,0 +1,72 @@
+[
+  {
+    "intent": "Trade",
+    "planets": ["Mercury", "Jupiter"],
+    "semantic_role": "Exchange, expansion, negotiation",
+    "archetype_examples": ["Port city", "Merchant jiva"],
+    "drift_notes": "May evolve into 'Frontier' or 'Labyrinth' if trade becomes innovation or entanglement"
+  },
+  {
+    "intent": "Sanctuary",
+    "planets": ["Moon", "Saturn"],
+    "semantic_role": "Containment, healing, refuge",
+    "archetype_examples": ["Trauma basin", "Exile jiva"],
+    "drift_notes": "Can drift toward 'Custody' or 'Compression' depending on ancestral load or density"
+  },
+  {
+    "intent": "Vow",
+    "planets": ["Mars", "Saturn"],
+    "semantic_role": "Sacrifice, discipline, sacred duty",
+    "archetype_examples": ["Warrior city", "Ascetic jiva"],
+    "drift_notes": "Stable across time; may compress into 'Witness' or 'Covenant' under mythic pressure"
+  },
+  {
+    "intent": "Frontier",
+    "planets": ["Mars", "Uranus"],
+    "semantic_role": "Exploration, disruption, innovation",
+    "archetype_examples": ["Startup hub", "Rebel jiva"],
+    "drift_notes": "Can drift toward 'Trade' or 'Labyrinth' depending on outcome of innovation"
+  },
+  {
+    "intent": "Compression",
+    "planets": ["Saturn", "Pluto"],
+    "semantic_role": "Density, trauma, historical layering",
+    "archetype_examples": ["War-born city", "Karmic jiva"],
+    "drift_notes": "Often leads to 'Sanctuary' or 'Witness' as healing or mythic seeing emerges"
+  },
+  {
+    "intent": "Witness",
+    "planets": ["Sun", "Neptune"],
+    "semantic_role": "Observation, memory, mythic seeing",
+    "archetype_examples": ["Oracle city", "Seer jiva"],
+    "drift_notes": "Can evolve into 'Labyrinth' or 'Covenant' depending on depth of mythic recursion"
+  },
+  {
+    "intent": "Custody",
+    "planets": ["Moon", "Venus"],
+    "semantic_role": "Care, inheritance, ancestral logic",
+    "archetype_examples": ["Matrilineal city", "Lineage jiva"],
+    "drift_notes": "Stable; may drift toward 'Sanctuary' or 'Covenant' depending on mythic contract"
+  },
+  {
+    "intent": "Covenant",
+    "planets": ["Jupiter", "Neptune"],
+    "semantic_role": "Faith, mythic contract, divine law",
+    "archetype_examples": ["Pilgrimage city", "Devotee jiva"],
+    "drift_notes": "Can drift toward 'Vow' or 'Witness' depending on mythic clarity"
+  },
+  {
+    "intent": "Bastion",
+    "planets": ["Mars", "Sun"],
+    "semantic_role": "Defense, pride, mythic resistance",
+    "archetype_examples": ["Fortress city", "Protector jiva"],
+    "drift_notes": "May drift toward 'Vow' or 'Compression' under siege or trauma"
+  },
+  {
+    "intent": "Labyrinth",
+    "planets": ["Mercury", "Pluto"],
+    "semantic_role": "Complexity, entanglement, recursion",
+    "archetype_examples": ["Archive city", "Analyst jiva"],
+    "drift_notes": "Can evolve into 'Witness' or 'Compression' depending on mythic density"
+  }
+]
