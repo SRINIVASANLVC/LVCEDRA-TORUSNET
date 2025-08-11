@@ -1,0 +1,23 @@
+[
+  {
+    "pattern": "Yod",
+    "aspectual_overlay": ["Ketu", "Saturn", "Rahu"],
+    "containment_logic": "Thinning–Stabilization–Amplification",
+    "semantic_tags": ["Mystical polarity", "Rebellious triads", "Emergent containment"],
+    "routed_geometries": ["G07", "G13", "G21"]
+  },
+  {
+    "pattern": "Grand Cross",
+    "aspectual_overlay": ["Saturn", "Mars", "Rahu", "Venus"],
+    "containment_logic": "Stabilization–Assertion–Amplification–Softening",
+    "semantic_tags": ["Tension resolution", "Oppositional harmony", "Quadrant lock"],
+    "routed_geometries": ["G03", "G09", "G15", "G24"]
+  },
+  {
+    "pattern": "Mystic Rectangle",
+    "aspectual_overlay": ["Moon", "Neptune", "Ketu", "Venus"],
+    "containment_logic": "Reflection–Dissolution–Thinning–Softening",
+    "semantic_tags": ["Dream logic", "Hidden symmetry", "Dual emergence"],
+    "routed_geometries": ["G05", "G11", "G17", "G22"]
+  }
+]
