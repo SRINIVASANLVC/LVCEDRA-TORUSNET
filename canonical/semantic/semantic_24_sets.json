@@ -1,0 +1,381 @@
+{
+    {
+  "unit_id": "A01-U01",
+  "hexagons": [
+    [3, 6, 12],
+    [9, 15, 18],
+    [6, 9, 15],
+    [3, 12, 18]
+  ],
+  "octagons": [
+    [[3, 6, 9, 12], [15, 18, 3, 6]],
+    [[9, 12, 15, 18], [3, 6, 15, 18]],
+    [[3, 9, 12, 18], [6, 9, 15, 12]]
+  ],
+  "number_pool": [3, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit expresses cyclical refinement, lunar stewardship, and martial precision. It balances emotional depth (Cancer–Moon), strategic assertion (Scorpio–Mars), and karmic accounting (Capricorn–Sun). The repetition of 3, 6, 9, 12 suggests a harmonic structure rooted in mythic time and inner calibration.",
+  "urban_template_implication": "Ideal for zones of ritual governance, archival memory, and subterranean infrastructure. This unit supports cities with deep historical layering, hidden power centers, and lunar-martial tension.",
+  "family_template_implication": "Favors ancestral lineages with strong maternal figures, disciplined inheritance structures, and karmic reckoning. Useful in mapping families with hidden legacies, emotional depth, and mythic continuity."
+},
+{
+  "unit_id": "B01-U01",
+  "hexagons": [
+    [1, 5, 10],
+    [2, 7, 14],
+    [5, 10, 14],
+    [1, 2, 7]
+  ],
+  "octagons": [
+    [[1, 2, 5, 7], [10, 14, 1, 5]],
+    [[2, 5, 10, 14], [1, 7, 10, 14]],
+    [[1, 5, 7, 14], [2, 10, 5, 7]]
+  ],
+  "number_pool": [1, 2, 5, 7, 10, 14],
+  "philosophical_signature": "This unit embodies initiatory fire, mythic ascent, and solar individuation. It channels Aries–Sun, Leo–Jupiter, and Sagittarius–Mars archetypes. The structure emphasizes upward motion, heroic emergence, and mythic clarity—opposing the lunar-martial depth of A01-U01.",
+  "urban_template_implication": "Optimized for civic emergence, mythic storytelling zones, and solar plazas. Supports cities with strong public identity, heroic founding myths, and vertical architectural symbolism.",
+  "family_template_implication": "Maps lineages of solar prominence, heroic individuation, and mythic ascent. Useful for tracing dynasties with public legacy, initiatory rites, and generational ambition."
+},
+{
+  "unit_id": "C01-U01",
+  "hexagons": [
+    [0, 3, 6],
+    [9, 12, 15],
+    [3, 9, 12],
+    [0, 6, 15]
+  ],
+  "octagons": [
+    [[0, 3, 9, 6], [12, 15, 0, 3]],
+    [[6, 9, 12, 15], [0, 3, 15, 12]],
+    [[0, 9, 6, 12], [3, 6, 15, 9]]
+  ],
+  "number_pool": [0, 3, 6, 9, 12, 15],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Gemini–Mercury archetypes. The geometry reveals a cycle of emotional ignition and philosophical breadth, ideal for mythic systems that require recursive logic and expansive transmission.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+},
+{
+  "unit_id": "A01-U02",
+  "hexagons": [
+    [4, 7, 13],
+    [10, 16, 19],
+    [7, 10, 16],
+    [4, 13, 19]
+  ],
+  "octagons": [
+    [[4, 7, 10, 13], [16, 19, 4, 7]],
+    [[10, 13, 16, 19], [4, 7, 16, 19]],
+    [[4, 10, 13, 19], [7, 10, 16, 13]]
+  ],
+  "number_pool": [4, 7, 10, 13, 16, 19],
+  "philosophical_signature": "This unit encodes solar clarity, structural resilience, and lunar memory. It blends Leo–Rahu, Scorpio–Mars, and Virgo–Mercury archetypes. The geometry suggests a tension between sovereign expression and subterranean analysis, ideal for mythic systems that require both visibility and depth.",
+  "urban_template_implication": "Supports cities with strong symbolic architecture, hidden bureaucracies, and ritualized public spaces. Ideal for zones of mythic storytelling, civic memory, and strategic governance.",
+  "family_template_implication": "Favors lineages with dual inheritance—public legacy and private mastery. Useful for mapping families with generational tension between expression and containment."
+},
+{
+  "unit_id": "B01-U02",
+  "hexagons": [
+    [5, 8, 14],
+    [11, 17, 20],
+    [8, 11, 17],
+    [5, 14, 20]
+  ],
+  "octagons": [
+    [[5, 8, 11, 14], [17, 20, 5, 8]],
+    [[11, 14, 17, 20], [5, 8, 17, 20]],
+    [[5, 11, 14, 20], [8, 11, 17, 14]]
+  ],
+  "number_pool": [5, 8, 11, 14, 17, 20],
+  "philosophical_signature": "This unit encodes Saturnine discipline, Aquarian innovation, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of containment followed by transcendence, suitable for mythic systems that require both structure and release.",
+  "urban_template_implication": "Supports cities with layered infrastructure, experimental zones, and spiritual thresholds. Ideal for mapping regions of technological incubation, esoteric practice, and systemic reform.",
+  "family_template_implication": "Favors lineages with karmic burden and visionary potential. Useful for tracing families that oscillate between tradition and radical departure."
+},
+{
+  "unit_id": "C01-U02",
+  "hexagons": [
+    [6, 9, 15],
+    [12, 18, 0],
+    [9, 12, 18],
+    [6, 15, 0]
+  ],
+  "octagons": [
+    [[6, 9, 12, 15], [18, 0, 6, 9]],
+    [[12, 15, 18, 0], [6, 9, 18, 0]],
+    [[6, 12, 15, 0], [9, 12, 18, 15]]
+  ],
+  "number_pool": [6, 9, 12, 15, 18, 0],
+  "philosophical_signature": "This unit encodes lunar recursion, mutable synthesis, and mythic zero-point anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Aries–Mars archetypes. The geometry suggests a cycle of emotional memory, expansive logic, and primal ignition—ideal for mythic systems that require rebirth and recursive closure.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, philosophical transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+},
+{
+  "unit_id": "A01-U03",
+  "hexagons": [
+    [1, 4, 10],
+    [7, 13, 16],
+    [4, 7, 13],
+    [1, 10, 16]
+  ],
+  "octagons": [
+    [[1, 4, 7, 10], [13, 16, 1, 4]],
+    [[10, 13, 16, 1], [4, 7, 16, 13]],
+    [[1, 7, 10, 13], [4, 10, 16, 7]]
+  ],
+  "number_pool": [1, 4, 7, 10, 13, 16],
+  "philosophical_signature": "This unit encodes Martian initiative, solar radiance, and Mercurial synthesis. It blends Aries–Mars, Leo–Sun, and Virgo–Mercury archetypes. The geometry reveals a forward-driving logic tempered by analytical containment, ideal for mythic systems that require both ignition and refinement.",
+  "urban_template_implication": "Supports cities with bold civic identity, layered communication networks, and ritualized labor. Ideal for zones of mythic leadership, artisanal production, and symbolic clarity.",
+  "family_template_implication": "Favors lineages with heroic impulse and intellectual stewardship. Useful for mapping families that balance primal drive with semantic precision."
+},
+{
+  "unit_id": "B01-U03",
+  "hexagons": [
+    [2, 5, 11],
+    [8, 14, 17],
+    [5, 8, 14],
+    [2, 11, 17]
+  ],
+  "octagons": [
+    [[2, 5, 8, 11], [14, 17, 2, 5]],
+    [[11, 14, 17, 2], [5, 8, 17, 14]],
+    [[2, 8, 11, 14], [5, 11, 17, 8]]
+  ],
+  "number_pool": [2, 5, 8, 11, 14, 17],
+  "philosophical_signature": "This unit encodes Saturnine rigor, Aquarian disruption, and Piscean dissolution. It blends Taurus–Venus, Capricorn–Saturn, and Pisces–Neptune archetypes. The geometry suggests a tension between material stability and mythic transcendence, ideal for systems that require karmic anchoring and visionary release.",
+  "urban_template_implication": "Supports cities with economic depth, esoteric enclaves, and infrastructural experimentation. Ideal for zones of mythic finance, spiritual retreat, and systemic reform.",
+  "family_template_implication": "Favors lineages with karmic inheritance and mystical potential. Useful for mapping families that oscillate between grounded legacy and mythic escape."
+},
+{
+  "unit_id": "C01-U03",
+  "hexagons": [
+    [3, 6, 12],
+    [9, 15, 18],
+    [6, 9, 15],
+    [3, 12, 18]
+  ],
+  "octagons": [
+    [[3, 6, 9, 12], [15, 18, 3, 6]],
+    [[12, 15, 18, 3], [6, 9, 18, 15]],
+    [[3, 9, 12, 15], [6, 12, 18, 9]]
+  ],
+  "number_pool": [3, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Gemini–Mercury, Cancer–Moon, and Sagittarius–Jupiter archetypes. The geometry reveals a pattern of mutable synthesis and cyclical ignition, ideal for mythic systems that require recursive logic and philosophical breadth.",
+  "urban_template_implication": "Supports cities with educational sprawl, mythic gateways, and communicative density. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with intellectual recursion and mythic breadth. Useful for mapping families that transmit knowledge across generational cycles."
+},
+{
+  "unit_id": "A01-U04",
+  "hexagons": [
+    [0, 4, 13],
+    [7, 10, 19],
+    [4, 7, 10],
+    [0, 13, 19]
+  ],
+  "octagons": [
+    [[0, 4, 7, 13], [10, 19, 0, 4]],
+    [[10, 13, 19, 0], [4, 7, 19, 13]],
+    [[0, 7, 10, 13], [4, 10, 19, 7]]
+  ],
+  "number_pool": [0, 4, 7, 10, 13, 19],
+  "philosophical_signature": "This unit encodes solar memory, Martian ignition, and Rahuvian recursion. It blends Leo–Sun, Aries–Mars, and Scorpio–Rahu archetypes. The geometry reveals a looped ignition pattern, ideal for mythic systems that require cyclical assertion and hidden continuity.",
+  "urban_template_implication": "Supports cities with mythic thresholds, ritualized conflict zones, and radiant civic cores. Ideal for zones of heroic emergence, strategic secrecy, and symbolic architecture.",
+  "family_template_implication": "Favors lineages with mythic rebirth and strategic inheritance. Useful for mapping families that re-emerge across cycles with renewed potency."
+},
+{
+  "unit_id": "B01-U04",
+  "hexagons": [
+    [1, 5, 14],
+    [8, 11, 20],
+    [5, 8, 11],
+    [1, 14, 20]
+  ],
+  "octagons": [
+    [[1, 5, 8, 14], [11, 20, 1, 5]],
+    [[11, 14, 20, 1], [5, 8, 20, 14]],
+    [[1, 8, 11, 14], [5, 11, 20, 8]]
+  ],
+  "number_pool": [1, 5, 8, 11, 14, 20],
+  "philosophical_signature": "This unit encodes Saturnine legacy, Uranian disruption, and Neptunian dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of karmic tension and visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
+  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
+  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+},
+{
+  "unit_id": "C01-U04",
+  "hexagons": [
+    [2, 6, 15],
+    [9, 12, 18],
+    [6, 9, 12],
+    [2, 15, 18]
+  ],
+  "octagons": [
+    [[2, 6, 9, 15], [12, 18, 2, 6]],
+    [[12, 15, 18, 2], [6, 9, 18, 15]],
+    [[2, 9, 12, 15], [6, 12, 18, 9]]
+  ],
+  "number_pool": [2, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Aries–Mars archetypes. The geometry reveals a cycle of emotional ignition and philosophical breadth, ideal for mythic systems that require recursive logic and expansive transmission.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+},
+{
+  "unit_id": "A01-U05",
+  "hexagons": [
+    [3, 7, 10],
+    [4, 13, 16],
+    [7, 4, 13],
+    [3, 10, 16]
+  ],
+  "octagons": [
+    [[3, 7, 4, 10], [13, 16, 3, 7]],
+    [[10, 13, 16, 3], [4, 7, 16, 13]],
+    [[3, 4, 10, 13], [7, 10, 16, 4]]
+  ],
+  "number_pool": [3, 4, 7, 10, 13, 16],
+  "philosophical_signature": "This unit encodes solar ignition, Martian recursion, and Mercurial containment. It blends Leo–Sun, Aries–Mars, and Virgo–Mercury archetypes. The geometry reveals a looped assertion pattern with analytical closure, ideal for mythic systems that require radiant emergence and semantic discipline.",
+  "urban_template_implication": "Supports cities with symbolic architecture, ritualized labor, and strategic visibility. Ideal for zones of mythic leadership, artisanal production, and civic memory.",
+  "family_template_implication": "Favors lineages with heroic impulse and intellectual stewardship. Useful for mapping families that balance primal drive with semantic refinement."
+},
+{
+  "unit_id": "B01-U05",
+  "hexagons": [
+    [0, 5, 8],
+    [11, 14, 17],
+    [5, 11, 14],
+    [0, 8, 17]
+  ],
+  "octagons": [
+    [[0, 5, 11, 8], [14, 17, 0, 5]],
+    [[8, 11, 14, 17], [0, 5, 17, 14]],
+    [[0, 11, 8, 14], [5, 8, 17, 11]]
+  ],
+  "number_pool": [0, 5, 8, 11, 14, 17],
+  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of karmic anchoring and visionary release, ideal for mythic systems that require structural pressure and mythic escape.",
+  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
+  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+},
+{
+  "unit_id": "C01-U05",
+  "hexagons": [
+    [1, 6, 9],
+    [12, 15, 18],
+    [6, 12, 15],
+    [1, 9, 18]
+  ],
+  "octagons": [
+    [[1, 6, 12, 9], [15, 18, 1, 6]],
+    [[9, 12, 15, 18], [1, 6, 18, 15]],
+    [[1, 12, 9, 15], [6, 9, 18, 12]]
+  ],
+  "number_pool": [1, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Gemini–Mercury archetypes. The geometry reveals a pattern of emotional ignition and philosophical breadth, ideal for mythic systems that require recursive logic and expansive transmission.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+},
+{
+  "unit_id": "A01-U06",
+  "hexagons": [
+    [2, 4, 7],
+    [10, 13, 19],
+    [4, 10, 13],
+    [2, 7, 19]
+  ],
+  "octagons": [
+    [[2, 4, 10, 7], [13, 19, 2, 4]],
+    [[7, 10, 13, 19], [2, 4, 19, 13]],
+    [[2, 10, 7, 13], [4, 7, 19, 10]]
+  ],
+  "number_pool": [2, 4, 7, 10, 13, 19],
+  "philosophical_signature": "This unit encodes solar ignition, Martian recursion, and Rahuvian depth. It blends Leo–Sun, Aries–Mars, and Scorpio–Rahu archetypes. The geometry reveals a radiant emergence pattern with subterranean containment, ideal for mythic systems that require both visibility and strategic secrecy.",
+  "urban_template_implication": "Supports cities with symbolic architecture, ritualized conflict zones, and radiant civic cores. Ideal for zones of mythic leadership, strategic governance, and civic memory.",
+  "family_template_implication": "Favors lineages with heroic impulse and mythic inheritance. Useful for mapping families that balance primal drive with hidden continuity."
+},
+{
+  "unit_id": "B01-U06",
+  "hexagons": [
+    [3, 5, 8],
+    [11, 14, 20],
+    [5, 11, 14],
+    [3, 8, 20]
+  ],
+  "octagons": [
+    [[3, 5, 11, 8], [14, 20, 3, 5]],
+    [[8, 11, 14, 20], [3, 5, 20, 14]],
+    [[3, 11, 8, 14], [5, 8, 20, 11]]
+  ],
+  "number_pool": [3, 5, 8, 11, 14, 20],
+  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a karmic tension pattern with visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
+  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
+  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+},
+{
+  "unit_id": "C01-U06",
+  "hexagons": [
+    [0, 6, 12],
+    [9, 15, 18],
+    [6, 9, 15],
+    [0, 12, 18]
+  ],
+  "octagons": [
+    [[0, 6, 9, 12], [15, 18, 0, 6]],
+    [[12, 15, 18, 0], [6, 9, 18, 15]],
+    [[0, 9, 12, 15], [6, 12, 18, 9]]
+  ],
+  "number_pool": [0, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Aries–Mars archetypes. The geometry reveals a cycle of emotional ignition and philosophical breadth, ideal for mythic systems that require recursive logic and expansive transmission.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+},
+{
+  "unit_id": "A01-U07",
+  "hexagons": [
+    [1, 4, 13],
+    [7, 10, 19],
+    [4, 7, 10],
+    [1, 13, 19]
+  ],
+  "octagons": [
+    [[1, 4, 7, 13], [10, 19, 1, 4]],
+    [[10, 13, 19, 1], [4, 7, 19, 13]],
+    [[1, 7, 10, 13], [4, 10, 19, 7]]
+  ],
+  "number_pool": [1, 4, 7, 10, 13, 19],
+  "philosophical_signature": "This unit encodes solar clarity, Martian recursion, and Rahuvian depth. It blends Leo–Sun, Aries–Mars, and Scorpio–Rahu archetypes. The geometry reveals a radiant containment pattern with mythic tension, ideal for systems that require visible leadership and hidden continuity.",
+  "urban_template_implication": "Supports cities with symbolic architecture, ritualized conflict zones, and radiant civic cores. Ideal for zones of mythic leadership, strategic governance, and civic memory.",
+  "family_template_implication": "Favors lineages with heroic impulse and mythic inheritance. Useful for mapping families that balance primal drive with hidden continuity."
+},
+{
+  "unit_id": "B01-U07",
+  "hexagons": [
+    [2, 5, 14],
+    [8, 11, 20],
+    [5, 8, 11],
+    [2, 14, 20]
+  ],
+  "octagons": [
+    [[2, 5, 8, 14], [11, 20, 2, 5]],
+    [[11, 14, 20, 2], [5, 8, 20, 14]],
+    [[2, 8, 11, 14], [5, 11, 20, 8]]
+  ],
+  "number_pool": [2, 5, 8, 11, 14, 20],
+  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a karmic tension pattern with visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
+  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
+  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+},
+{
+  "unit_id": "C01-U07",
+  "hexagons": [
+    [3, 6, 15],
+    [9, 12, 18],
+    [6, 9, 12],
+    [3, 15, 18]
+  ],
+  "octagons": [
+    [[3, 6, 9, 15], [12, 18, 3, 6]],
+    [[12, 15, 18, 3], [6, 9, 18, 15]],
+    [[3, 9, 12, 15], [6, 12, 18, 9]]
+  ],
+  "number_pool": [3, 6, 9, 12, 15, 18],
+  "philosophical_signature": "This unit encodes lunar recursion, Sagittarian expansion, and mythic anchoring. It blends Cancer–Moon, Sagittarius–Jupiter, and Gemini–Mercury archetypes. The geometry reveals a cycle of emotional ignition and philosophical breadth, ideal for mythic systems that require recursive logic and expansive transmission.",
+  "urban_template_implication": "Supports cities with mythic gateways, educational sprawl, and ancestral anchoring. Ideal for zones of pilgrimage, semantic transmission, and foundational myth.",
+  "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
+}
+
+}
