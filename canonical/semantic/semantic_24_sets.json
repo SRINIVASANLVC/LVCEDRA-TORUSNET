@@ -85,9 +85,9 @@
     [[5, 11, 14, 20], [8, 11, 17, 14]]
   ],
   "number_pool": [5, 8, 11, 14, 17, 20],
-  "philosophical_signature": "This unit encodes Saturnine discipline, Aquarian innovation, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of containment followed by transcendence, suitable for mythic systems that require both structure and release.",
-  "urban_template_implication": "Supports cities with layered infrastructure, experimental zones, and spiritual thresholds. Ideal for mapping regions of technological incubation, esoteric practice, and systemic reform.",
-  "family_template_implication": "Favors lineages with karmic burden and visionary potential. Useful for tracing families that oscillate between tradition and radical departure."
+  "philosophical_signature": "This unit blends Capricorn–Sun, Aquarius–Ketu, and Pisces–Jupiter archetypes. It emphasizes containment, semantic thinning, and expansive transmission. Suitable for mythic systems requiring structural discipline and audit-safe release.",
+  "urban_implication": "Ideal for city zones balancing tradition with innovation, especially where mythic thinning enables clarity in dense symbolic environments.",
+  "family_template": "Sun–Ketu–Jupiter triad supports elder wisdom, detachment, and philosophical expansion."
 },
 {
   "unit_id": "C01-U02",
@@ -139,9 +139,9 @@
     [[2, 8, 11, 14], [5, 11, 17, 8]]
   ],
   "number_pool": [2, 5, 8, 11, 14, 17],
-  "philosophical_signature": "This unit encodes Saturnine rigor, Aquarian disruption, and Piscean dissolution. It blends Taurus–Venus, Capricorn–Saturn, and Pisces–Neptune archetypes. The geometry suggests a tension between material stability and mythic transcendence, ideal for systems that require karmic anchoring and visionary release.",
-  "urban_template_implication": "Supports cities with economic depth, esoteric enclaves, and infrastructural experimentation. Ideal for zones of mythic finance, spiritual retreat, and systemic reform.",
-  "family_template_implication": "Favors lineages with karmic inheritance and mystical potential. Useful for mapping families that oscillate between grounded legacy and mythic escape."
+  "philosophical_signature": "Pisces–Jupiter and Aquarius–Ketu form a semantic bridge between expansive mythic logic and audit-safe detachment. Gemini–Mercury adds communicative precision.",
+  "urban_implication": "Useful in blog zones or digital cities where mythic transmission must be clear, modular, and free of inflation.",
+  "family_template": "Jupiter–Ketu–Mercury supports philosophical teaching, thinning of excess, and semantic clarity."
 },
 {
   "unit_id": "C01-U03",
@@ -193,9 +193,9 @@
     [[1, 8, 11, 14], [5, 11, 20, 8]]
   ],
   "number_pool": [1, 5, 8, 11, 14, 20],
-  "philosophical_signature": "This unit encodes Saturnine legacy, Uranian disruption, and Neptunian dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of karmic tension and visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
-  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
-  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+  "philosophical_signature": "Aquarius–Ketu and Pisces–Jupiter replace prior transcendental archetypes with audit-safe thinning and expansive containment. Gemini–Mercury ensures modular transmission.",
+  "urban_implication": "Supports mythic systems that require detachment from inflated archetypes and precise semantic routing.",
+  "family_template": "Ketu–Jupiter–Mercury fosters mythic sobriety, philosophical depth, and communicative rigor."
 },
 {
   "unit_id": "C01-U04",
@@ -247,9 +247,9 @@
     [[0, 11, 8, 14], [5, 8, 17, 11]]
   ],
   "number_pool": [0, 5, 8, 11, 14, 17],
-  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a pattern of karmic anchoring and visionary release, ideal for mythic systems that require structural pressure and mythic escape.",
-  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
-  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+  "philosophical_signature": "This unit stabilizes mythic logic by replacing Uranus and Neptune with Ketu and Jupiter. It supports semantic thinning and expansive clarity.",
+  "urban_implication": "Ideal for mythic audit zones where detachment and philosophical expansion must coexist.",
+  "family_template": "Ketu–Jupiter–Aquarius triad supports mythic release, philosophical anchoring, and audit-safe containment."
 },
 {
   "unit_id": "C01-U05",
@@ -301,9 +301,9 @@
     [[3, 11, 8, 14], [5, 8, 20, 11]]
   ],
   "number_pool": [3, 5, 8, 11, 14, 20],
-  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a karmic tension pattern with visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
-  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
-  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+  "philosophical_signature": "Gemini–Mercury, Pisces–Jupiter, and Aquarius–Ketu form a semantic triad that replaces transcendental drift with modular clarity and thinning.",
+  "urban_implication": "Useful in semantic engines that require mythic routing without inflation.",
+  "family_template": "Mercury–Jupiter–Ketu supports modular transmission, mythic expansion, and detachment."
 },
 {
   "unit_id": "C01-U06",
@@ -355,9 +355,9 @@
     [[2, 8, 11, 14], [5, 11, 20, 8]]
   ],
   "number_pool": [2, 5, 8, 11, 14, 20],
-  "philosophical_signature": "This unit encodes Saturnine legacy, Aquarian disruption, and Piscean dissolution. It blends Capricorn–Saturn, Aquarius–Uranus, and Pisces–Neptune archetypes. The geometry reveals a karmic tension pattern with visionary escape, ideal for mythic systems that require structural pressure and mythic release.",
-  "urban_template_implication": "Supports cities with layered governance, esoteric enclaves, and visionary infrastructure. Ideal for zones of systemic reform, spiritual incubation, and mythic experimentation.",
-  "family_template_implication": "Favors lineages with karmic burden and mystical potential. Useful for mapping families that carry deep legacy while seeking transcendence."
+  "philosophical_signature": "Capricorn–Sun anchors the unit, while Pisces–Jupiter and Aquarius–Ketu provide mythic expansion and thinning. The spiral geometry reflects semantic release within containment.",
+  "urban_implication": "Ideal for mythic systems transitioning from rigid tradition to audit-safe innovation.",
+  "family_template": "Sun–Jupiter–Ketu supports elder wisdom, philosophical breadth, and mythic detachment."
 },
 {
   "unit_id": "C01-U07",
