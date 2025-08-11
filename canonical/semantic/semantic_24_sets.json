@@ -85,9 +85,9 @@
     [[5, 11, 14, 20], [8, 11, 17, 14]]
   ],
   "number_pool": [5, 8, 11, 14, 17, 20],
-  "philosophical_signature": "This unit blends Capricorn–Sun, Aquarius–Ketu, and Pisces–Jupiter archetypes. It emphasizes containment, semantic thinning, and expansive transmission. Suitable for mythic systems requiring structural discipline and audit-safe release.",
-  "urban_implication": "Ideal for city zones balancing tradition with innovation, especially where mythic thinning enables clarity in dense symbolic environments.",
-  "family_template": "Sun–Ketu–Jupiter triad supports elder wisdom, detachment, and philosophical expansion."
+  "philosophical_signature": "This unit blends Aries–Mars, Capricorn–Sun, Leo–Rahu, Taurus–Venus, Aquarius–Ketu, and Gemini–Mercury. It emphasizes dynamic assertion, solar containment, mythic amplification, aesthetic grounding, semantic thinning, and modular transmission.",
+  "urban_template_implication": "Ideal for zones requiring mythic propulsion with audit-safe containment. Supports systems that balance ambition, clarity, and communicative precision.",
+  "family_template_implication": "Mars–Sun–Rahu–Venus–Ketu–Mercury fosters energetic drive, solar discipline, mythic expansion, aesthetic refinement, detachment, and semantic agility."
 },
 {
   "unit_id": "C01-U02",
@@ -139,9 +139,9 @@
     [[2, 8, 11, 14], [5, 11, 17, 8]]
   ],
   "number_pool": [2, 5, 8, 11, 14, 17],
-  "philosophical_signature": "Pisces–Jupiter and Aquarius–Ketu form a semantic bridge between expansive mythic logic and audit-safe detachment. Gemini–Mercury adds communicative precision.",
-  "urban_implication": "Useful in blog zones or digital cities where mythic transmission must be clear, modular, and free of inflation.",
-  "family_template": "Jupiter–Ketu–Mercury supports philosophical teaching, thinning of excess, and semantic clarity."
+  "philosophical_signature": "This unit integrates Pisces–Jupiter, Aquarius–Ketu, Gemini–Mercury, and Taurus–Venus. It supports expansive mythic logic, semantic thinning, modular transmission, and aesthetic grounding.",
+  "urban_template_implication": "Useful in zones where mythic systems require clarity, detachment, and expressive refinement without drift.",
+  "family_template_implication": "Jupiter–Ketu–Mercury–Venus fosters philosophical breadth, audit-safe detachment, communicative precision, and aesthetic balance."
 },
 {
   "unit_id": "C01-U03",
@@ -193,9 +193,9 @@
     [[1, 8, 11, 14], [5, 11, 20, 8]]
   ],
   "number_pool": [1, 5, 8, 11, 14, 20],
-  "philosophical_signature": "Aquarius–Ketu and Pisces–Jupiter replace prior transcendental archetypes with audit-safe thinning and expansive containment. Gemini–Mercury ensures modular transmission.",
-  "urban_implication": "Supports mythic systems that require detachment from inflated archetypes and precise semantic routing.",
-  "family_template": "Ketu–Jupiter–Mercury fosters mythic sobriety, philosophical depth, and communicative rigor."
+"philosophical_signature": "Aquarius–Ketu and Pisces–Jupiter replace prior transcendental archetypes with audit-safe thinning and expansive containment. Gemini–Mercury and Taurus–Venus reinforce modular clarity and aesthetic anchoring.",
+"urban_template_implication": "Supports mythic systems that require detachment from inflated archetypes and precise semantic routing.",
+"family_template_implication": "Ketu–Jupiter–Mercury–Venus fosters mythic sobriety, philosophical depth, communicative rigor, and aesthetic refinement."
 },
 {
   "unit_id": "C01-U04",
@@ -247,9 +247,9 @@
     [[0, 11, 8, 14], [5, 8, 17, 11]]
   ],
   "number_pool": [0, 5, 8, 11, 14, 17],
-  "philosophical_signature": "This unit stabilizes mythic logic by replacing Uranus and Neptune with Ketu and Jupiter. It supports semantic thinning and expansive clarity.",
-  "urban_implication": "Ideal for mythic audit zones where detachment and philosophical expansion must coexist.",
-  "family_template": "Ketu–Jupiter–Aquarius triad supports mythic release, philosophical anchoring, and audit-safe containment."
+"philosophical_signature": "This unit stabilizes mythic logic by replacing Uranus and Neptune with Ketu and Jupiter. It supports semantic thinning, expansive clarity, and modular transmission.",
+"urban_template_implication": "Ideal for mythic audit zones where detachment and philosophical expansion must coexist.",
+"family_template_implication": "Ketu–Jupiter–Mercury–Gemini supports mythic release, philosophical anchoring, and communicative agility."
 },
 {
   "unit_id": "C01-U05",
@@ -301,9 +301,9 @@
     [[3, 11, 8, 14], [5, 8, 20, 11]]
   ],
   "number_pool": [3, 5, 8, 11, 14, 20],
-  "philosophical_signature": "Gemini–Mercury, Pisces–Jupiter, and Aquarius–Ketu form a semantic triad that replaces transcendental drift with modular clarity and thinning.",
-  "urban_implication": "Useful in semantic engines that require mythic routing without inflation.",
-  "family_template": "Mercury–Jupiter–Ketu supports modular transmission, mythic expansion, and detachment."
+"philosophical_signature": "Gemini–Mercury, Pisces–Jupiter, and Aquarius–Ketu form a semantic triad that replaces transcendental drift with modular clarity and thinning. Taurus–Venus adds aesthetic containment.",
+"urban_template_implication": "Useful in semantic engines that require mythic routing without inflation.",
+"family_template_implication": "Mercury–Jupiter–Ketu–Venus supports modular transmission, mythic expansion, detachment, and aesthetic precision."
 },
 {
   "unit_id": "C01-U06",
@@ -355,9 +355,9 @@
     [[2, 8, 11, 14], [5, 11, 20, 8]]
   ],
   "number_pool": [2, 5, 8, 11, 14, 20],
-  "philosophical_signature": "Capricorn–Sun anchors the unit, while Pisces–Jupiter and Aquarius–Ketu provide mythic expansion and thinning. The spiral geometry reflects semantic release within containment.",
-  "urban_implication": "Ideal for mythic systems transitioning from rigid tradition to audit-safe innovation.",
-  "family_template": "Sun–Jupiter–Ketu supports elder wisdom, philosophical breadth, and mythic detachment."
+  "philosophical_signature": "Capricorn–Sun anchors the unit, while Pisces–Jupiter and Aquarius–Ketu provide mythic expansion and thinning. Gemini–Mercury and Taurus–Venus reinforce modular clarity and aesthetic containment.",
+  "urban_template_implication": "Ideal for mythic systems transitioning from rigid tradition to audit-safe innovation.",
+  "family_template_implication": "Sun–Jupiter–Ketu–Mercury–Venus fosters elder wisdom, philosophical breadth, mythic detachment, communicative precision, and aesthetic refinement."
 },
 {
   "unit_id": "C01-U07",
