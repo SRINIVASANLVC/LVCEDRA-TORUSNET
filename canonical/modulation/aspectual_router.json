@@ -1,5 +1,33 @@
 [
   {
+    "pattern": "Cradle",
+    "aspectual_overlay": ["Venus", "Mercury", "Moon", "Sun"],
+    "containment_logic": "Softening–Articulation–Reflection–Authority",
+    "semantic_tags": ["Protective ambiguity", "Semantic incubation", "Mythic shelter"],
+    "routed_geometries": ["G02", "G08", "G14", "G20"]
+  },
+  {
+    "pattern": "Solar Kite",
+    "aspectual_overlay": ["Moon", "Jupiter", "Sun", "Mars"],
+    "containment_logic": "Reflection–Expansion–Authority–Assertion",
+    "semantic_tags": ["Emergent propulsion", "Civic ascent", "Mythic drive"],
+    "routed_geometries": ["G04", "G10", "G16", "G23"]
+  },
+  {
+    "pattern": "Mystic Rectangle",
+    "aspectual_overlay": ["Moon", "Mercury", "Ketu", "Venus"],
+    "containment_logic": "Reflection–Articulation–Thinning–Softening",
+    "semantic_tags": ["Dream logic", "Hidden symmetry", "Dual emergence"],
+    "routed_geometries": ["G05", "G11", "G17", "G22"]
+  },
+  {
+    "pattern": "T-Square",
+    "aspectual_overlay": ["Mars", "Saturn", "Rahu"],
+    "containment_logic": "Assertion–Stabilization–Amplification",
+    "semantic_tags": ["Dynamic tension", "Conflict resolution", "Mythic compression"],
+    "routed_geometries": ["G06", "G12", "G18"]
+  },
+  {
     "pattern": "Yod",
     "aspectual_overlay": ["Ketu", "Saturn", "Rahu"],
     "containment_logic": "Thinning–Stabilization–Amplification",
@@ -14,10 +42,80 @@
     "routed_geometries": ["G03", "G09", "G15", "G24"]
   },
   {
-    "pattern": "Mystic Rectangle",
-    "aspectual_overlay": ["Moon", "Neptune", "Ketu", "Venus"],
-    "containment_logic": "Reflection–Dissolution–Thinning–Softening",
-    "semantic_tags": ["Dream logic", "Hidden symmetry", "Dual emergence"],
-    "routed_geometries": ["G05", "G11", "G17", "G22"]
+    "pattern": "Sanctuary Ring",
+    "aspectual_overlay": ["Venus", "Sun", "Jupiter"],
+    "containment_logic": "Softening–Authority–Expansion",
+    "semantic_tags": ["Civic refuge", "Mythic benevolence", "Semantic elevation"],
+    "routed_geometries": ["G01", "G19"]
+  },
+  {
+    "pattern": "Grid Square",
+    "aspectual_overlay": ["Mercury", "Mars", "Moon", "Ketu"],
+    "containment_logic": "Articulation–Assertion–Reflection–Thinning",
+    "semantic_tags": ["Corner polarity", "Semantic distillation", "Mythic grid tension"],
+    "routed_geometries": ["G25", "G26", "G27", "G28"]
+  },
+  {
+    "pattern": "Axis Cross",
+    "aspectual_overlay": ["Venus", "Sun", "Jupiter", "Rahu"],
+    "containment_logic": "Softening–Authority–Expansion–Amplification",
+    "semantic_tags": ["Vertical polarity", "Civic tension", "Mythic amplification"],
+    "routed_geometries": ["G29", "G30", "G31", "G32"]
+  },
+  {
+    "pattern": "Agency Chain",
+    "aspectual_overlay": ["Sun", "Mars", "Mercury"],
+    "containment_logic": "Authority–Assertion–Articulation",
+    "semantic_tags": ["Directed agency", "Semantic execution", "Mythic will"],
+    "routed_geometries": ["G33", "G34", "G35"]
+  },
+  {
+    "pattern": "Dharmic Drive",
+    "aspectual_overlay": ["Jupiter", "Mars", "Mercury"],
+    "containment_logic": "Expansion–Assertion–Articulation",
+    "semantic_tags": ["Purposeful action", "Semantic drive", "Dharmic execution"],
+    "routed_geometries": ["G36", "G37", "G38"]
+  },
+  {
+    "pattern": "Emotive Relay",
+    "aspectual_overlay": ["Moon", "Mercury", "Mars"],
+    "containment_logic": "Reflection–Articulation–Assertion",
+    "semantic_tags": ["Emotional parsing", "Semantic emergence", "Mythic impulse"],
+    "routed_geometries": ["G39", "G40", "G41"]
+  },
+  {
+    "pattern": "Desire Loop",
+    "aspectual_overlay": ["Ketu", "Venus", "Rahu"],
+    "containment_logic": "Thinning–Softening–Amplification",
+    "semantic_tags": ["Mythic recursion", "Sensory tension", "Karmic invocation"],
+    "routed_geometries": ["G42", "G43", "G44"]
+  },
+  {
+    "pattern": "Agency Field",
+    "aspectual_overlay": ["Sun", "Mars", "Mercury", "Jupiter"],
+    "containment_logic": "Authority–Assertion–Articulation–Expansion",
+    "semantic_tags": ["Directed agency", "Dharmic execution", "Semantic drive"],
+    "routed_geometries": ["G45", "G46", "G47", "G48"]
+  },
+  {
+    "pattern": "Desire Field",
+    "aspectual_overlay": ["Ketu", "Venus", "Rahu", "Moon"],
+    "containment_logic": "Thinning–Softening–Amplification–Reflection",
+    "semantic_tags": ["Sensory recursion", "Karmic invocation", "Emotional tension"],
+    "routed_geometries": ["G49", "G50", "G51", "G52"]
+  },
+  {
+    "pattern": "Modulation Field",
+    "aspectual_overlay": ["Mars", "Mercury", "Rahu", "Saturn"],
+    "containment_logic": "Assertion–Articulation–Amplification–Stabilization",
+    "semantic_tags": ["Semantic propulsion", "Karmic modulation", "Mythic drive"],
+    "routed_geometries": ["G53", "G54", "G55", "G56"]
+  },
+  {
+    "pattern": "Governance Field",
+    "aspectual_overlay": ["Sun", "Ketu", "Jupiter", "Saturn"],
+    "containment_logic": "Authority–Thinning–Expansion–Stabilization",
+    "semantic_tags": ["Karmic closure", "Dharmic detachment", "Mythic governance"],
+    "routed_geometries": ["G57", "G58", "G59", "G60"]
   }
 ]
