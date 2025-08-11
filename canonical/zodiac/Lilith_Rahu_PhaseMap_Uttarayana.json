@@ -1,0 +1,64 @@
+{
+  "Lilith_Rahu_PhaseMap_Uttarayana": {
+    "0": {
+      "semantic_signature": "Wild emergence, ego amplification, shadow fusion",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Semantic inflation, containment breach, mythic overexposure"
+    },
+    "1": {
+      "semantic_signature": "Instinctual divergence, lunar tension, perceptual dissonance",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Oppositional drift, unstable containment, role-point friction"
+    },
+    "2": {
+      "semantic_signature": "Autonomy surge, sensory wildness, mythic inversion",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Containment thinning, archetypal inversion, audit volatility"
+    },
+    "3": {
+      "semantic_signature": "Subconscious rebellion, karmic echo, lunar dislocation",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Semantic shadowing, mythic recursion, drift onset"
+    },
+    "4": {
+      "semantic_signature": "Instinctual independence, mythic contrast, perceptual breakthrough",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Containment stretch, role-point ambiguity, audit tension"
+    },
+    "5": {
+      "semantic_signature": "Lunar wildness, ego recoil, karmic turbulence",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Semantic instability, mythic fragmentation, drift amplification"
+    },
+    "6": {
+      "semantic_signature": "Shadow confrontation, karmic polarity, mythic reset",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Audit gate activation, containment reversal, semantic rebalancing"
+    },
+    "7": {
+      "semantic_signature": "Instinctual withdrawal, perceptual thinning, lunar retreat",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Containment collapse, role-point fading, mythic silence"
+    },
+    "8": {
+      "semantic_signature": "Subtle inversion, karmic residue, mythic echo",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Semantic recursion, containment softening, audit drift"
+    },
+    "9": {
+      "semantic_signature": "Instinctual memory, lunar ancestry, shadow layering",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Containment overlap, mythic depth, audit complexity"
+    },
+    "10": {
+      "semantic_signature": "Wild reflection, perceptual mirroring, karmic shimmer",
+      "ayana_influence": "Uttarayana",
+      "audit_implication": "Containment distortion, semantic shimmer, audit ambiguity"
+    },
+    "11": {
+      "semantic_signature": "Subtle rebellion, mythic residue, lunar inversion",
+      "ayana_influence": "Dakshinayana",
+      "audit_implication": "Semantic shadowing, containment echo, audit softening"
+    }
+  }
+}
