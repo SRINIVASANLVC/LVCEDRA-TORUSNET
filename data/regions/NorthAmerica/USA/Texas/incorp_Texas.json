@@ -2,6 +2,7 @@
   "Dallas": {
     "Sun": {
       "longitude": 285.458729,
+      "planet_number": 12,
       "zone": 35,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -9,6 +10,7 @@
       "nakshatra_ruler": "Mars",
       "template_House": 12,
       "modulation_stage": "Sustain",
+      "zodiac_number": 8,
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -27,6 +29,7 @@
     },
     "Moon": {
       "longitude": 226.40185,
+      "planet_number": 9,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -34,6 +37,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -52,6 +56,7 @@
     },
     "Mercury": {
       "longitude": 303.746404,
+      "planet_number": 18,
       "zone": 1,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -59,6 +64,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 1,
       "modulation_stage": "Initiate",
+      "zodiac_number": 17,
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -77,6 +83,7 @@
     },
     "Venus": {
       "longitude": 244.296976,
+      "planet_number": 6,
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -84,6 +91,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 11,
       "modulation_stage": "Sustain",
+      "zodiac_number": 1,
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -102,6 +110,7 @@
     },
     "Mars": {
       "longitude": 172.010169,
+      "planet_number": 15,
       "zone": 24,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -109,6 +118,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 8,
       "modulation_stage": "End",
+      "zodiac_number": 19,
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -127,6 +137,7 @@
     },
     "Jupiter": {
       "longitude": 310.68078,
+      "planet_number": 3,
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -134,6 +145,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
       "modulation_stage": "Sustain",
+      "zodiac_number": 17,
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -152,6 +164,7 @@
     },
     "Saturn": {
       "longitude": 56.577642,
+      "planet_number": 21,
       "zone": 12,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -159,6 +172,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 4,
       "modulation_stage": "End",
+      "zodiac_number": 11,
       "retrograde_status": "Retrograde",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -175,41 +189,9 @@
       "washer_semantic_city_role": "systemic stress",
       "washer_semantic_family_role": "inherited stress"
     },
-    "Uranus": {
-      "longitude": 19.93172,
-      "zone": 8,
-      "sign": "Aries",
-      "sign_ruler": "Mars",
-      "nakshatra": "Bharani",
-      "nakshatra_ruler": "Venus",
-      "template_House": 3,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Neptune": {
-      "longitude": 319.672053,
-      "zone": 2,
-      "sign": "Aquarius",
-      "sign_ruler": "Ketu",
-      "nakshatra": "Purvabhadrapada",
-      "nakshatra_ruler": "Jupiter",
-      "template_House": 1,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Pluto": {
-      "longitude": 5.83798,
-      "zone": 8,
-      "sign": "Aries",
-      "sign_ruler": "Mars",
-      "nakshatra": "Bharani",
-      "nakshatra_ruler": "Venus",
-      "template_House": 3,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
     "Rahu": {
       "longitude": 359.538867,
+      "planet_number": 14,
       "zone": 6,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -217,6 +199,7 @@
       "nakshatra_ruler": "Ketu",
       "template_House": 2,
       "modulation_stage": "End",
+      "zodiac_number": 2,
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -230,6 +213,7 @@
     },
     "Ketu": {
       "longitude": 179.538867,
+      "planet_number": 7,
       "zone": 24,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -237,6 +221,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 8,
       "modulation_stage": "End",
+      "zodiac_number": 19,
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -255,6 +240,7 @@
     },
     "Lilith": {
       "longitude": 145.220195,
+      "planet_number": 0,
       "zone": 21,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -262,6 +248,7 @@
       "nakshatra_ruler": "Sun",
       "template_House": 7,
       "modulation_stage": "End",
+      "zodiac_number": 4,
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -278,8 +265,8 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "assertion",
-          "containment breach"
+          "containment breach",
+          "assertion"
         ],
         "zone": 35,
         "house": 12
@@ -326,50 +313,26 @@
       },
       "Saturn": {
         "containment_logic": [
-          "amplification",
           "volatility",
+          "amplification",
           "containment breach"
         ],
         "zone": 12,
         "house": 4
       },
-      "Uranus": {
-        "containment_logic": [
-          "softening",
-          "narrative branching"
-        ],
-        "zone": 8,
-        "house": 3
-      },
-      "Neptune": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Pluto": {
-        "containment_logic": [
-          "softening",
-          "narrative branching"
-        ],
-        "zone": 8,
-        "house": 3
-      },
       "Rahu": {
         "containment_logic": [
           "thinning",
-          "volatility",
-          "semantic anchoring"
+          "semantic anchoring",
+          "volatility"
         ],
         "zone": 6,
         "house": 2
       },
       "Ketu": {
         "containment_logic": [
-          "amplification",
           "volatility",
+          "amplification",
           "containment breach"
         ],
         "zone": 24,
@@ -377,9 +340,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "oppositional containment",
+          "illumination",
           "volatility",
-          "illumination"
+          "oppositional containment"
         ],
         "zone": 21,
         "house": 7
@@ -396,6 +359,7 @@
   "Dallas_Irving": {
     "Sun": {
       "longitude": 354.647174,
+      "planet_number": 12,
       "zone": 5,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -403,6 +367,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
       "modulation_stage": "Sustain",
+      "zodiac_number": 2,
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -421,6 +386,7 @@
     },
     "Moon": {
       "longitude": 222.719921,
+      "planet_number": 9,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -428,6 +394,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -446,6 +413,7 @@
     },
     "Mercury": {
       "longitude": 327.950396,
+      "planet_number": 18,
       "zone": 3,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -453,6 +421,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 1,
       "modulation_stage": "End",
+      "zodiac_number": 17,
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -471,6 +440,7 @@
     },
     "Venus": {
       "longitude": 9.833749,
+      "planet_number": 6,
       "zone": 8,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -478,6 +448,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 3,
       "modulation_stage": "Sustain",
+      "zodiac_number": 5,
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -496,6 +467,7 @@
     },
     "Mars": {
       "longitude": 83.100344,
+      "planet_number": 15,
       "zone": 15,
       "sign": "Gemini",
       "sign_ruler": "Mercury",
@@ -503,6 +475,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 5,
       "modulation_stage": "End",
+      "zodiac_number": 20,
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -521,6 +494,7 @@
     },
     "Jupiter": {
       "longitude": 288.760981,
+      "planet_number": 3,
       "zone": 36,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -528,6 +502,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 12,
       "modulation_stage": "End",
+      "zodiac_number": 8,
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -546,6 +521,7 @@
     },
     "Saturn": {
       "longitude": 45.894058,
+      "planet_number": 21,
       "zone": 11,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -553,6 +529,7 @@
       "nakshatra_ruler": "Mars",
       "template_House": 4,
       "modulation_stage": "Sustain",
+      "zodiac_number": 11,
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -569,41 +546,9 @@
       "washer_semantic_city_role": "systemic stress",
       "washer_semantic_family_role": "inherited stress"
     },
-    "Uranus": {
-      "longitude": 282.609529,
-      "zone": 35,
-      "sign": "Capricorn",
-      "sign_ruler": "Sun",
-      "nakshatra": "Dhanishta",
-      "nakshatra_ruler": "Mars",
-      "template_House": 12,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Neptune": {
-      "longitude": 86.883108,
-      "zone": 15,
-      "sign": "Gemini",
-      "sign_ruler": "Mercury",
-      "nakshatra": "Pushya",
-      "nakshatra_ruler": "Saturn",
-      "template_House": 5,
-      "modulation_stage": "End",
-      "retrograde_status": "Direct"
-    },
-    "Pluto": {
-      "longitude": 60.693051,
-      "zone": 13,
-      "sign": "Gemini",
-      "sign_ruler": "Mercury",
-      "nakshatra": "Ardra",
-      "nakshatra_ruler": "Rahu",
-      "template_House": 5,
-      "modulation_stage": "Initiate",
-      "retrograde_status": "Direct"
-    },
     "Rahu": {
       "longitude": 313.191001,
+      "planet_number": 14,
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -611,6 +556,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
       "modulation_stage": "Sustain",
+      "zodiac_number": 17,
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -624,6 +570,7 @@
     },
     "Ketu": {
       "longitude": 133.191001,
+      "planet_number": 7,
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -631,6 +578,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "modulation_stage": "Sustain",
+      "zodiac_number": 4,
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -649,6 +597,7 @@
     },
     "Lilith": {
       "longitude": 349.630743,
+      "planet_number": 0,
       "zone": 5,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -656,6 +605,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
       "modulation_stage": "Sustain",
+      "zodiac_number": 2,
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -672,8 +622,8 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "reflection",
-          "semantic anchoring"
+          "semantic anchoring",
+          "reflection"
         ],
         "zone": 5,
         "house": 2
@@ -696,8 +646,8 @@
       },
       "Venus": {
         "containment_logic": [
-          "softening",
-          "narrative branching"
+          "narrative branching",
+          "softening"
         ],
         "zone": 8,
         "house": 3
@@ -720,59 +670,35 @@
       },
       "Saturn": {
         "containment_logic": [
-          "assertion",
-          "containment breach"
+          "containment breach",
+          "assertion"
         ],
         "zone": 11,
         "house": 4
       },
-      "Uranus": {
-        "containment_logic": [
-          "assertion",
-          "containment breach"
-        ],
-        "zone": 35,
-        "house": 12
-      },
-      "Neptune": {
-        "containment_logic": [
-          "semantic emergence",
-          "stabilization"
-        ],
-        "zone": 15,
-        "house": 5
-      },
-      "Pluto": {
-        "containment_logic": [
-          "semantic emergence",
-          "amplification"
-        ],
-        "zone": 13,
-        "house": 5
-      },
       "Rahu": {
         "containment_logic": [
           "semantic emergence",
-          "volatility",
-          "expansion"
+          "expansion",
+          "volatility"
         ],
         "zone": 2,
         "house": 1
       },
       "Ketu": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
       },
       "Lilith": {
         "containment_logic": [
-          "reflection",
+          "semantic anchoring",
           "volatility",
-          "semantic anchoring"
+          "reflection"
         ],
         "zone": 5,
         "house": 2
@@ -789,6 +715,7 @@
   "Dallas_Garland": {
     "Sun": {
       "longitude": 12.41272,
+      "planet_number": 12,
       "zone": 8,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -796,6 +723,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 3,
       "modulation_stage": "Sustain",
+      "zodiac_number": 5,
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -814,6 +742,7 @@
     },
     "Moon": {
       "longitude": 274.895484,
+      "planet_number": 9,
       "zone": 34,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -821,6 +750,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 12,
       "modulation_stage": "Initiate",
+      "zodiac_number": 8,
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -839,6 +769,7 @@
     },
     "Mercury": {
       "longitude": 25.266258,
+      "planet_number": 18,
       "zone": 9,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -846,6 +777,7 @@
       "nakshatra_ruler": "Sun",
       "template_House": 3,
       "modulation_stage": "End",
+      "zodiac_number": 5,
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -864,6 +796,7 @@
     },
     "Venus": {
       "longitude": 336.292751,
+      "planet_number": 6,
       "zone": 4,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -871,6 +804,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 2,
       "modulation_stage": "Initiate",
+      "zodiac_number": 2,
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -889,6 +823,7 @@
     },
     "Mars": {
       "longitude": 39.497351,
+      "planet_number": 15,
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -896,6 +831,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 4,
       "modulation_stage": "Initiate",
+      "zodiac_number": 11,
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -914,6 +850,7 @@
     },
     "Jupiter": {
       "longitude": 313.498879,
+      "planet_number": 3,
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -921,6 +858,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
       "modulation_stage": "Sustain",
+      "zodiac_number": 17,
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -939,6 +877,7 @@
     },
     "Saturn": {
       "longitude": 132.523233,
+      "planet_number": 21,
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -946,6 +885,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "modulation_stage": "Sustain",
+      "zodiac_number": 4,
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -962,41 +902,9 @@
       "washer_semantic_city_role": "systemic stress",
       "washer_semantic_family_role": "inherited stress"
     },
-    "Uranus": {
-      "longitude": 180.988036,
-      "zone": 25,
-      "sign": "Libra",
-      "sign_ruler": "Venus",
-      "nakshatra": "Swathi",
-      "nakshatra_ruler": "Rahu",
-      "template_House": 9,
-      "modulation_stage": "Initiate",
-      "retrograde_status": "Retrograde"
-    },
-    "Neptune": {
-      "longitude": 37.600665,
-      "zone": 10,
-      "sign": "Taurus",
-      "sign_ruler": "Venus",
-      "nakshatra": "Mrigashirsha",
-      "nakshatra_ruler": "Moon",
-      "template_House": 4,
-      "modulation_stage": "Initiate",
-      "retrograde_status": "Direct"
-    },
-    "Pluto": {
-      "longitude": 38.832608,
-      "zone": 10,
-      "sign": "Taurus",
-      "sign_ruler": "Venus",
-      "nakshatra": "Mrigashirsha",
-      "nakshatra_ruler": "Moon",
-      "template_House": 4,
-      "modulation_stage": "Initiate",
-      "retrograde_status": "Direct"
-    },
     "Rahu": {
       "longitude": 37.423935,
+      "planet_number": 14,
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -1004,6 +912,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 4,
       "modulation_stage": "Initiate",
+      "zodiac_number": 11,
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -1017,6 +926,7 @@
     },
     "Ketu": {
       "longitude": 217.423935,
+      "planet_number": 7,
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1024,6 +934,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "modulation_stage": "Initiate",
+      "zodiac_number": 10,
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -1042,6 +953,7 @@
     },
     "Lilith": {
       "longitude": 137.104127,
+      "planet_number": 0,
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -1049,6 +961,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "modulation_stage": "Sustain",
+      "zodiac_number": 4,
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -1065,16 +978,16 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "softening",
-          "narrative branching"
+          "narrative branching",
+          "softening"
         ],
         "zone": 8,
         "house": 3
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 34,
         "house": 12
@@ -1097,8 +1010,8 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
@@ -1113,42 +1026,17 @@
       },
       "Saturn": {
         "containment_logic": [
-          "oppositional containment",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
       },
-      "Uranus": {
-        "containment_logic": [
-          "semantic emergence",
-          "amplification",
-          "volatility"
-        ],
-        "zone": 25,
-        "house": 9
-      },
-      "Neptune": {
-        "containment_logic": [
-          "containment breach",
-          "dissolution"
-        ],
-        "zone": 10,
-        "house": 4
-      },
-      "Pluto": {
-        "containment_logic": [
-          "containment breach",
-          "dissolution"
-        ],
-        "zone": 10,
-        "house": 4
-      },
       "Rahu": {
         "containment_logic": [
-          "containment breach",
+          "dissolution",
           "volatility",
-          "dissolution"
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
@@ -1156,17 +1044,17 @@
       "Ketu": {
         "containment_logic": [
           "volatility",
-          "stabilization",
-          "semantic projection"
+          "semantic projection",
+          "stabilization"
         ],
         "zone": 28,
         "house": 10
       },
       "Lilith": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
@@ -1183,6 +1071,7 @@
   "Austin": {
     "Sun": {
       "longitude": 248.130352,
+      "planet_number": 12,
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1190,6 +1079,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 11,
       "modulation_stage": "Sustain",
+      "zodiac_number": 1,
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -1208,6 +1098,7 @@
     },
     "Moon": {
       "longitude": 150.270104,
+      "planet_number": 9,
       "zone": 22,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -1215,6 +1106,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 8,
       "modulation_stage": "Initiate",
+      "zodiac_number": 19,
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -1233,6 +1125,7 @@
     },
     "Mercury": {
       "longitude": 231.955298,
+      "planet_number": 18,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1240,6 +1133,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -1258,6 +1152,7 @@
     },
     "Venus": {
       "longitude": 201.616995,
+      "planet_number": 6,
       "zone": 27,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1265,6 +1160,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 9,
       "modulation_stage": "End",
+      "zodiac_number": 16,
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -1283,6 +1179,7 @@
     },
     "Mars": {
       "longitude": 277.818565,
+      "planet_number": 15,
       "zone": 34,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -1290,6 +1187,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 12,
       "modulation_stage": "Initiate",
+      "zodiac_number": 8,
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -1308,6 +1206,7 @@
     },
     "Jupiter": {
       "longitude": 195.780925,
+      "planet_number": 3,
       "zone": 26,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1315,6 +1214,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
       "modulation_stage": "Sustain",
+      "zodiac_number": 16,
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -1333,6 +1233,7 @@
     },
     "Saturn": {
       "longitude": 228.82679,
+      "planet_number": 21,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1340,6 +1241,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -1356,41 +1258,9 @@
       "washer_semantic_city_role": "systemic stress",
       "washer_semantic_family_role": "inherited stress"
     },
-    "Uranus": {
-      "longitude": 316.510963,
-      "zone": 2,
-      "sign": "Aquarius",
-      "sign_ruler": "Ketu",
-      "nakshatra": "Purvabhadrapada",
-      "nakshatra_ruler": "Jupiter",
-      "template_House": 1,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Neptune": {
-      "longitude": 284.493071,
-      "zone": 35,
-      "sign": "Capricorn",
-      "sign_ruler": "Sun",
-      "nakshatra": "Dhanishta",
-      "nakshatra_ruler": "Mars",
-      "template_House": 12,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Pluto": {
-      "longitude": 350.447089,
-      "zone": 5,
-      "sign": "Pisces",
-      "sign_ruler": "Jupiter",
-      "nakshatra": "Revati",
-      "nakshatra_ruler": "Mercury",
-      "template_House": 2,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
     "Rahu": {
       "longitude": 311.185862,
+      "planet_number": 14,
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -1398,6 +1268,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
       "modulation_stage": "Sustain",
+      "zodiac_number": 17,
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -1411,6 +1282,7 @@
     },
     "Ketu": {
       "longitude": 131.185862,
+      "planet_number": 7,
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -1418,6 +1290,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "modulation_stage": "Sustain",
+      "zodiac_number": 4,
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -1436,6 +1309,7 @@
     },
     "Lilith": {
       "longitude": 211.016543,
+      "planet_number": 0,
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1443,6 +1317,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "modulation_stage": "Initiate",
+      "zodiac_number": 10,
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -1467,8 +1342,8 @@
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 22,
         "house": 8
@@ -1491,8 +1366,8 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 34,
         "house": 12
@@ -1513,44 +1388,20 @@
         "zone": 29,
         "house": 10
       },
-      "Uranus": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Neptune": {
-        "containment_logic": [
-          "assertion",
-          "containment breach"
-        ],
-        "zone": 35,
-        "house": 12
-      },
-      "Pluto": {
-        "containment_logic": [
-          "reflection",
-          "semantic anchoring"
-        ],
-        "zone": 5,
-        "house": 2
-      },
       "Rahu": {
         "containment_logic": [
           "semantic emergence",
-          "volatility",
-          "expansion"
+          "expansion",
+          "volatility"
         ],
         "zone": 2,
         "house": 1
       },
       "Ketu": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
@@ -1558,8 +1409,8 @@
       "Lilith": {
         "containment_logic": [
           "volatility",
-          "stabilization",
-          "semantic projection"
+          "semantic projection",
+          "stabilization"
         ],
         "zone": 28,
         "house": 10
@@ -1576,6 +1427,7 @@
   "Austin_Travis": {
     "Sun": {
       "longitude": 267.496837,
+      "planet_number": 12,
       "zone": 33,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1583,6 +1435,7 @@
       "nakshatra_ruler": "Sun",
       "template_House": 11,
       "modulation_stage": "End",
+      "zodiac_number": 1,
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -1601,6 +1454,7 @@
     },
     "Moon": {
       "longitude": 32.887039,
+      "planet_number": 9,
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -1608,6 +1462,7 @@
       "nakshatra_ruler": "Moon",
       "template_House": 4,
       "modulation_stage": "Initiate",
+      "zodiac_number": 11,
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -1626,6 +1481,7 @@
     },
     "Mercury": {
       "longitude": 244.951932,
+      "planet_number": 18,
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1633,6 +1489,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 11,
       "modulation_stage": "Sustain",
+      "zodiac_number": 1,
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -1651,6 +1508,7 @@
     },
     "Venus": {
       "longitude": 222.813605,
+      "planet_number": 6,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1658,6 +1516,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -1676,6 +1535,7 @@
     },
     "Mars": {
       "longitude": 292.790752,
+      "planet_number": 15,
       "zone": 36,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -1683,6 +1543,7 @@
       "nakshatra_ruler": "Rahu",
       "template_House": 12,
       "modulation_stage": "End",
+      "zodiac_number": 8,
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -1701,6 +1562,7 @@
     },
     "Jupiter": {
       "longitude": 198.71038,
+      "planet_number": 3,
       "zone": 26,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1708,6 +1570,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
       "modulation_stage": "Sustain",
+      "zodiac_number": 16,
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -1726,6 +1589,7 @@
     },
     "Saturn": {
       "longitude": 230.892172,
+      "planet_number": 21,
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1733,6 +1597,7 @@
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
       "modulation_stage": "Sustain",
+      "zodiac_number": 10,
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -1749,41 +1614,9 @@
       "washer_semantic_city_role": "systemic stress",
       "washer_semantic_family_role": "inherited stress"
     },
-    "Uranus": {
-      "longitude": 317.181346,
-      "zone": 2,
-      "sign": "Aquarius",
-      "sign_ruler": "Ketu",
-      "nakshatra": "Purvabhadrapada",
-      "nakshatra_ruler": "Jupiter",
-      "template_House": 1,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Neptune": {
-      "longitude": 285.148334,
-      "zone": 35,
-      "sign": "Capricorn",
-      "sign_ruler": "Sun",
-      "nakshatra": "Dhanishta",
-      "nakshatra_ruler": "Mars",
-      "template_House": 12,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
-    "Pluto": {
-      "longitude": 350.478642,
-      "zone": 5,
-      "sign": "Pisces",
-      "sign_ruler": "Jupiter",
-      "nakshatra": "Revati",
-      "nakshatra_ruler": "Mercury",
-      "template_House": 2,
-      "modulation_stage": "Sustain",
-      "retrograde_status": "Direct"
-    },
     "Rahu": {
       "longitude": 310.179011,
+      "planet_number": 14,
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -1791,6 +1624,7 @@
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
       "modulation_stage": "Sustain",
+      "zodiac_number": 17,
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -1804,6 +1638,7 @@
     },
     "Ketu": {
       "longitude": 130.179011,
+      "planet_number": 7,
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -1811,6 +1646,7 @@
       "nakshatra_ruler": "Venus",
       "template_House": 7,
       "modulation_stage": "Sustain",
+      "zodiac_number": 4,
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -1829,6 +1665,7 @@
     },
     "Lilith": {
       "longitude": 213.130107,
+      "planet_number": 0,
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1836,6 +1673,7 @@
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
       "modulation_stage": "Initiate",
+      "zodiac_number": 10,
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -1860,8 +1698,8 @@
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
@@ -1906,44 +1744,20 @@
         "zone": 29,
         "house": 10
       },
-      "Uranus": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Neptune": {
-        "containment_logic": [
-          "assertion",
-          "containment breach"
-        ],
-        "zone": 35,
-        "house": 12
-      },
-      "Pluto": {
-        "containment_logic": [
-          "reflection",
-          "semantic anchoring"
-        ],
-        "zone": 5,
-        "house": 2
-      },
       "Rahu": {
         "containment_logic": [
           "semantic emergence",
-          "volatility",
-          "expansion"
+          "expansion",
+          "volatility"
         ],
         "zone": 2,
         "house": 1
       },
       "Ketu": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
@@ -1951,8 +1765,8 @@
       "Lilith": {
         "containment_logic": [
           "volatility",
-          "stabilization",
-          "semantic projection"
+          "semantic projection",
+          "stabilization"
         ],
         "zone": 28,
         "house": 10

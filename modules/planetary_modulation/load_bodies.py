@@ -5,5 +5,7 @@ def load_bodies(filepath="canonical/zodiac/bodies.csv"):
     with open(filepath, newline='') as csvfile:
         reader = csv.DictReader(csvfile)
         for row in reader:
-            bodies.append(row["body_name"].strip())
+            body = row["body_name"].strip()
+            planet_number = int(row["planet_number"].strip())
+            bodies.append((body, planet_number))
     return bodies

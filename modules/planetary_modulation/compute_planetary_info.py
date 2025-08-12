@@ -72,7 +72,8 @@ def get_zone_info(longitude, zones):
                 "nakshatra": zone["nakshatra"],
                 "nakshatra_ruler": zone["nak_ruler"],
                 "template_House": zone["house"],
-                'modulation_stage': zone["stage"]
+                'modulation_stage': zone["stage"],
+                'zodiac_number': zone["zodiac_number"]
             }
     return None  # if no match found
 
@@ -141,7 +142,7 @@ def compute_planetary_info(utc_time, modulation_zones):
     sun_longitude = ecl.lon * (180.0 / pi) - ayanamsa
     sun_zone = get_zone_info(sun_longitude, modulation_zones)["zone"]          
 
-    for body in bodies:
+    for body, planet_number in bodies:
         lon = get_sidereal_longitude(body, utc_time, ayanamsa)
         zone_data = get_zone_info(lon, modulation_zones)
         planet_zone = zone_data["zone"]
@@ -151,6 +152,7 @@ def compute_planetary_info(utc_time, modulation_zones):
         # Store all details
         planet_info[body] = {
             "longitude": lon,
+            "planet_number": planet_number,
             **zone_data,
             "retrograde_status": retrograde_status
         }

@@ -26,8 +26,8 @@
 # echo "🚀 Running modulation script for Dallas..."
 # python modules/createderived/modulate_city.py data/regions/NorthAmerica/USA/Texas/utc_Texas.csv --city Dallas
 
-# echo "🚀 Running modulation script for Jiva..."
-# python3 modules/createderived/modulate_Jiva.py data/jiva/utc_Jiva.csv
+echo "🚀 Running modulation script for Jiva..."
+python3 modules/createderived/modulate_Jiva.py data/jiva/utc_Jiva.csv
 
 echo "🚀 Running modulation script for Texas..."
 python3 modules/createderived/modulate_city.py data/regions/NorthAmerica/USA/Texas/utc_Texas.csv
