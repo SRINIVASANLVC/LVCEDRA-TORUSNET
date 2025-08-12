@@ -1,121 +1,286 @@
 [
-  {
-    "pattern": "Cradle",
-    "aspectual_overlay": ["Venus", "Mercury", "Moon", "Sun"],
-    "containment_logic": "Softening–Articulation–Reflection–Authority",
-    "semantic_tags": ["Protective ambiguity", "Semantic incubation", "Mythic shelter"],
-    "routed_geometries": ["G02", "G08", "G14", "G20"]
+{
+  "aspectual_overlay": "Yod",
+  "planets": [
+    { "name": "Ketu", "secret_number": 7, "vibhakti_role": "Apādāna", "template_washer_force": "Radial", "phase_implication": "Dispersal" },
+    { "name": "Saturn", "secret_number": 8, "vibhakti_role": "Kāraṇa", "template_washer_force": "Axial", "phase_implication": "Containment" },
+    { "name": "Rahu", "secret_number": 9, "vibhakti_role": "Adhikaraṇa", "template_washer_force": "Tangential", "phase_implication": "Volatility" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G07",
+    "triangle": [6, 12, 18],
+    "square": [6, 12, 13, 16],
+    "derived_hexagons": [[6, 12, 18], [13, 16, 19], [12, 16, 22], [6, 13, 22]],
+    "derived_octagons": [[[6, 12, 13, 16], [18, 19, 22, 6]], [[12, 16, 18, 22], [13, 19, 6, 12]], [[13, 16, 19, 22], [6, 12, 18, 13]]]
   },
-  {
-    "pattern": "Solar Kite",
-    "aspectual_overlay": ["Moon", "Jupiter", "Sun", "Mars"],
-    "containment_logic": "Reflection–Expansion–Authority–Assertion",
-    "semantic_tags": ["Emergent propulsion", "Civic ascent", "Mythic drive"],
-    "routed_geometries": ["G04", "G10", "G16", "G23"]
+  "semantic_tags": ["Oppositional containment", "Audit gate activation", "Phase-modulated volatility"]
+},
+{
+  "aspectual_overlay": "Grand Cross",
+  "planets": [
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Neptune", "secret_number": 11, "vibhakti_role": "Kāraka", "template_washer_force": "Spiral", "phase_implication": "Dissolution" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G03",
+    "triangle": [3, 9, 15],
+    "square": [3, 9, 10, 13],
+    "derived_hexagons": [[3, 9, 15], [10, 13, 16], [9, 13, 19], [3, 10, 19]],
+    "derived_octagons": [[[3, 9, 10, 13], [15, 16, 19, 3]], [[9, 13, 15, 19], [10, 16, 3, 9]], [[10, 13, 16, 19], [3, 9, 15, 10]]]
   },
-  {
-    "pattern": "Mystic Rectangle",
-    "aspectual_overlay": ["Moon", "Mercury", "Ketu", "Venus"],
-    "containment_logic": "Reflection–Articulation–Thinning–Softening",
-    "semantic_tags": ["Dream logic", "Hidden symmetry", "Dual emergence"],
-    "routed_geometries": ["G05", "G11", "G17", "G22"]
+  "semantic_tags": ["Quadratic tension", "Containment reversal", "Mythic dissolution"]
+},
+{
+  "aspectual_overlay": "Mystic Rectangle",
+  "planets": [
+    { "name": "Mercury", "secret_number": 4, "vibhakti_role": "Prayojana", "template_washer_force": "Spiral", "phase_implication": "Reflection" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G04",
+    "triangle": [4, 10, 16],
+    "square": [4, 10, 11, 14],
+    "derived_hexagons": [[4, 10, 16], [11, 14, 17], [10, 14, 20], [4, 11, 20]],
+    "derived_octagons": [[[4, 10, 11, 14], [16, 17, 20, 4]], [[10, 14, 16, 20], [11, 17, 4, 10]], [[11, 14, 17, 20], [4, 10, 16, 11]]]
   },
-  {
-    "pattern": "T-Square",
-    "aspectual_overlay": ["Mars", "Saturn", "Rahu"],
-    "containment_logic": "Assertion–Stabilization–Amplification",
-    "semantic_tags": ["Dynamic tension", "Conflict resolution", "Mythic compression"],
-    "routed_geometries": ["G06", "G12", "G18"]
+  "semantic_tags": ["Dual oppositional harmony", "Semantic containment", "Reflective expansion"]
+},
+{
+  "aspectual_overlay": "Kite",
+  "planets": [
+    { "name": "Sun", "secret_number": 1, "vibhakti_role": "Kartā", "template_washer_force": "Radial", "phase_implication": "Illumination" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" },
+    { "name": "Neptune", "secret_number": 11, "vibhakti_role": "Kāraka", "template_washer_force": "Spiral", "phase_implication": "Dissolution" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G01",
+    "triangle": [1, 7, 13],
+    "square": [1, 7, 8, 11],
+    "derived_hexagons": [[1, 7, 13], [8, 11, 14], [7, 11, 17], [1, 8, 17]],
+    "derived_octagons": [[[1, 7, 8, 11], [13, 14, 17, 1]], [[7, 11, 13, 17], [8, 14, 1, 7]], [[8, 11, 14, 17], [1, 7, 13, 8]]]
   },
-  {
-    "pattern": "Yod",
-    "aspectual_overlay": ["Ketu", "Saturn", "Rahu"],
-    "containment_logic": "Thinning–Stabilization–Amplification",
-    "semantic_tags": ["Mystical polarity", "Rebellious triads", "Emergent containment"],
-    "routed_geometries": ["G07", "G13", "G21"]
+  "semantic_tags": ["Trine-opposition fusion", "Phase-modulated uplift", "Containment through flux"]
+},
+{
+  "aspectual_overlay": "T-Square",
+  "planets": [
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Saturn", "secret_number": 8, "vibhakti_role": "Kāraṇa", "template_washer_force": "Axial", "phase_implication": "Containment" },
+    { "name": "Rahu", "secret_number": 9, "vibhakti_role": "Adhikaraṇa", "template_washer_force": "Tangential", "phase_implication": "Volatility" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G06",
+    "triangle": [5, 11, 17],
+    "square": [5, 11, 12, 15],
+    "derived_hexagons": [[5, 11, 17], [12, 15, 18], [11, 15, 21], [5, 12, 21]],
+    "derived_octagons": [[[5, 11, 12, 15], [17, 18, 21, 5]], [[11, 15, 17, 21], [12, 18, 5, 11]], [[12, 15, 18, 21], [5, 11, 17, 12]]]
   },
-  {
-    "pattern": "Grand Cross",
-    "aspectual_overlay": ["Saturn", "Mars", "Rahu", "Venus"],
-    "containment_logic": "Stabilization–Assertion–Amplification–Softening",
-    "semantic_tags": ["Tension resolution", "Oppositional harmony", "Quadrant lock"],
-    "routed_geometries": ["G03", "G09", "G15", "G24"]
+  "semantic_tags": ["Conflict triad", "Audit gate trigger", "Volatility containment"]
+},
+{
+  "aspectual_overlay": "Cradle",
+  "planets": [
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Mercury", "secret_number": 4, "vibhakti_role": "Prayojana", "template_washer_force": "Spiral", "phase_implication": "Reflection" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G02",
+    "triangle": [2, 8, 14],
+    "square": [2, 8, 9, 12],
+    "derived_hexagons": [[2, 8, 14], [9, 12, 15], [8, 12, 18], [2, 9, 18]],
+    "derived_octagons": [[[2, 8, 9, 12], [14, 15, 18, 2]], [[8, 12, 14, 18], [9, 15, 2, 8]], [[9, 12, 15, 18], [2, 8, 14, 9]]]
   },
-  {
-    "pattern": "Sanctuary Ring",
-    "aspectual_overlay": ["Venus", "Sun", "Jupiter"],
-    "containment_logic": "Softening–Authority–Expansion",
-    "semantic_tags": ["Civic refuge", "Mythic benevolence", "Semantic elevation"],
-    "routed_geometries": ["G01", "G19"]
+  "semantic_tags": ["Soft aspect containment", "Semantic flux", "Reflective expansion"]
+},
+{
+  "aspectual_overlay": "Boomerang",
+  "planets": [
+    { "name": "Ketu", "secret_number": 7, "vibhakti_role": "Apādāna", "template_washer_force": "Radial", "phase_implication": "Dispersal" },
+    { "name": "Rahu", "secret_number": 9, "vibhakti_role": "Adhikaraṇa", "template_washer_force": "Tangential", "phase_implication": "Volatility" },
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G05",
+    "triangle": [5, 11, 17],
+    "square": [5, 11, 12, 15],
+    "derived_hexagons": [[5, 11, 17], [12, 15, 18], [11, 15, 21], [5, 12, 21]],
+    "derived_octagons": [[[5, 11, 12, 15], [17, 18, 21, 5]], [[11, 15, 17, 21], [12, 18, 5, 11]], [[12, 15, 18, 21], [5, 11, 17, 12]]]
   },
-  {
-    "pattern": "Grid Square",
-    "aspectual_overlay": ["Mercury", "Mars", "Moon", "Ketu"],
-    "containment_logic": "Articulation–Assertion–Reflection–Thinning",
-    "semantic_tags": ["Corner polarity", "Semantic distillation", "Mythic grid tension"],
-    "routed_geometries": ["G25", "G26", "G27", "G28"]
+  "semantic_tags": ["Yod + opposition", "Volatility routing", "Audit gate modulation"]
+},
+{
+  "aspectual_overlay": "Yod",
+  "planets": [
+    { "name": "Ketu", "secret_number": 7, "vibhakti_role": "Apādāna", "template_washer_force": "Radial", "phase_implication": "Dispersal" },
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G05",
+    "triangle": [5, 11, 17],
+    "square": [5, 11, 12, 15],
+    "derived_hexagons": [[5, 11, 17], [12, 15, 18], [11, 15, 21], [5, 12, 21]],
+    "derived_octagons": [[[5, 11, 12, 15], [17, 18, 21, 5]], [[11, 15, 17, 21], [12, 18, 5, 11]], [[12, 15, 18, 21], [5, 11, 17, 12]]]
   },
-  {
-    "pattern": "Axis Cross",
-    "aspectual_overlay": ["Venus", "Sun", "Jupiter", "Rahu"],
-    "containment_logic": "Softening–Authority–Expansion–Amplification",
-    "semantic_tags": ["Vertical polarity", "Civic tension", "Mythic amplification"],
-    "routed_geometries": ["G29", "G30", "G31", "G32"]
+  "semantic_tags": ["Triadic dispersal", "Audit tension", "Containment via flux"]
+},
+{
+  "aspectual_overlay": "Grand Cross",
+  "planets": [
+    { "name": "Sun", "secret_number": 1, "vibhakti_role": "Kartā", "template_washer_force": "Radial", "phase_implication": "Illumination" },
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G01",
+    "triangle": [1, 7, 13],
+    "square": [1, 7, 8, 11],
+    "derived_hexagons": [[1, 7, 13], [8, 11, 14], [7, 11, 17], [1, 8, 17]],
+    "derived_octagons": [[[1, 7, 8, 11], [13, 14, 17, 1]], [[7, 11, 13, 17], [8, 14, 1, 7]], [[8, 11, 14, 17], [1, 7, 13, 8]]]
   },
-  {
-    "pattern": "Agency Chain",
-    "aspectual_overlay": ["Sun", "Mars", "Mercury"],
-    "containment_logic": "Authority–Assertion–Articulation",
-    "semantic_tags": ["Directed agency", "Semantic execution", "Mythic will"],
-    "routed_geometries": ["G33", "G34", "G35"]
+  "semantic_tags": ["Illuminated tension", "Quadratic containment", "Semantic flux"]
+},
+{
+  "aspectual_overlay": "Mystic Rectangle",
+  "planets": [
+    { "name": "Mercury", "secret_number": 4, "vibhakti_role": "Prayojana", "template_washer_force": "Spiral", "phase_implication": "Reflection" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G02",
+    "triangle": [2, 8, 14],
+    "square": [2, 8, 9, 12],
+    "derived_hexagons": [[2, 8, 14], [9, 12, 15], [8, 12, 18], [2, 9, 18]],
+    "derived_octagons": [[[2, 8, 9, 12], [14, 15, 18, 2]], [[8, 12, 14, 18], [9, 15, 2, 8]], [[9, 12, 15, 18], [2, 8, 14, 9]]]
   },
-  {
-    "pattern": "Dharmic Drive",
-    "aspectual_overlay": ["Jupiter", "Mars", "Mercury"],
-    "containment_logic": "Expansion–Assertion–Articulation",
-    "semantic_tags": ["Purposeful action", "Semantic drive", "Dharmic execution"],
-    "routed_geometries": ["G36", "G37", "G38"]
+  "semantic_tags": ["Dual containment", "Reflective attraction", "Expansion through flux"]
+},
+{
+  "aspectual_overlay": "Kite",
+  "planets": [
+    { "name": "Sun", "secret_number": 1, "vibhakti_role": "Kartā", "template_washer_force": "Radial", "phase_implication": "Illumination" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Neptune", "secret_number": 11, "vibhakti_role": "Kāraka", "template_washer_force": "Spiral", "phase_implication": "Dissolution" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G05",
+    "triangle": [5, 11, 17],
+    "square": [5, 11, 12, 15],
+    "derived_hexagons": [[5, 11, 17], [12, 15, 18], [11, 15, 21], [5, 12, 21]],
+    "derived_octagons": [[[5, 11, 12, 15], [17, 18, 21, 5]], [[11, 15, 17, 21], [12, 18, 5, 11]], [[12, 15, 18, 21], [5, 11, 17, 12]]]
   },
-  {
-    "pattern": "Emotive Relay",
-    "aspectual_overlay": ["Moon", "Mercury", "Mars"],
-    "containment_logic": "Reflection–Articulation–Assertion",
-    "semantic_tags": ["Emotional parsing", "Semantic emergence", "Mythic impulse"],
-    "routed_geometries": ["G39", "G40", "G41"]
+  "semantic_tags": ["Trine-opposition uplift", "Illumination through flux", "Dissolution containment"]
+},
+{
+  "aspectual_overlay": "T-Square",
+  "planets": [
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G03",
+    "triangle": [3, 9, 15],
+    "square": [3, 9, 10, 13],
+    "derived_hexagons": [[3, 9, 15], [10, 13, 16], [9, 13, 19], [3, 10, 19]],
+    "derived_octagons": [[[3, 9, 10, 13], [15, 16, 19, 3]], [[9, 13, 15, 19], [10, 16, 3, 9]], [[10, 13, 16, 19], [3, 9, 15, 10]]]
   },
-  {
-    "pattern": "Desire Loop",
-    "aspectual_overlay": ["Ketu", "Venus", "Rahu"],
-    "containment_logic": "Thinning–Softening–Amplification",
-    "semantic_tags": ["Mythic recursion", "Sensory tension", "Karmic invocation"],
-    "routed_geometries": ["G42", "G43", "G44"]
+  "semantic_tags": ["Triadic tension", "Containment via attraction", "Flux modulation"]
+},
+{
+  "aspectual_overlay": "Cradle",
+  "planets": [
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Mercury", "secret_number": 4, "vibhakti_role": "Prayojana", "template_washer_force": "Spiral", "phase_implication": "Reflection" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G04",
+    "triangle": [4, 10, 16],
+    "square": [4, 10, 11, 14],
+    "derived_hexagons": [[4, 10, 16], [11, 14, 17], [10, 14, 20], [4, 11, 20]],
+    "derived_octagons": [[[4, 10, 11, 14], [16, 17, 20, 4]], [[10, 14, 16, 20], [11, 17, 4, 10]], [[11, 14, 17, 20], [4, 10, 16, 11]]]
   },
-  {
-    "pattern": "Agency Field",
-    "aspectual_overlay": ["Sun", "Mars", "Mercury", "Jupiter"],
-    "containment_logic": "Authority–Assertion–Articulation–Expansion",
-    "semantic_tags": ["Directed agency", "Dharmic execution", "Semantic drive"],
-    "routed_geometries": ["G45", "G46", "G47", "G48"]
+  "semantic_tags": ["Soft containment", "Reflective expansion", "Flux harmonization"]
+},
+{
+  "aspectual_overlay": "Boomerang",
+  "planets": [
+    { "name": "Ketu", "secret_number": 7, "vibhakti_role": "Apādāna", "template_washer_force": "Radial", "phase_implication": "Dispersal" },
+    { "name": "Rahu", "secret_number": 9, "vibhakti_role": "Adhikaraṇa", "template_washer_force": "Tangential", "phase_implication": "Volatility" },
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G07",
+    "triangle": [6, 12, 18],
+    "square": [6, 12, 13, 16],
+    "derived_hexagons": [[6, 12, 18], [13, 16, 19], [12, 16, 22], [6, 13, 22]],
+    "derived_octagons": [[[6, 12, 13, 16], [18, 19, 22, 6]], [[12, 16, 18, 22], [13, 19, 6, 12]], [[13, 16, 19, 22], [6, 12, 18, 13]]]
   },
-  {
-    "pattern": "Desire Field",
-    "aspectual_overlay": ["Ketu", "Venus", "Rahu", "Moon"],
-    "containment_logic": "Thinning–Softening–Amplification–Reflection",
-    "semantic_tags": ["Sensory recursion", "Karmic invocation", "Emotional tension"],
-    "routed_geometries": ["G49", "G50", "G51", "G52"]
+  "semantic_tags": ["Yod + opposition", "Volatility routing", "Audit gate modulation"]
+},
+{
+  "aspectual_overlay": "Yod",
+  "planets": [
+    { "name": "Ketu", "secret_number": 7, "vibhakti_role": "Apādāna", "template_washer_force": "Radial", "phase_implication": "Dispersal" },
+    { "name": "Saturn", "secret_number": 8, "vibhakti_role": "Kāraṇa", "template_washer_force": "Axial", "phase_implication": "Containment" },
+    { "name": "Rahu", "secret_number": 9, "vibhakti_role": "Adhikaraṇa", "template_washer_force": "Tangential", "phase_implication": "Volatility" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G02",
+    "triangle": [2, 8, 14],
+    "square": [2, 8, 9, 12],
+    "derived_hexagons": [[2, 8, 14], [9, 12, 15], [8, 12, 18], [2, 9, 18]],
+    "derived_octagons": [[[2, 8, 9, 12], [14, 15, 18, 2]], [[8, 12, 14, 18], [9, 15, 2, 8]], [[9, 12, 15, 18], [2, 8, 14, 9]]]
   },
-  {
-    "pattern": "Modulation Field",
-    "aspectual_overlay": ["Mars", "Mercury", "Rahu", "Saturn"],
-    "containment_logic": "Assertion–Articulation–Amplification–Stabilization",
-    "semantic_tags": ["Semantic propulsion", "Karmic modulation", "Mythic drive"],
-    "routed_geometries": ["G53", "G54", "G55", "G56"]
+  "semantic_tags": ["Oppositional containment", "Audit gate activation", "Phase-modulated volatility"]
+},
+{
+  "aspectual_overlay": "Mystic Rectangle",
+  "planets": [
+    { "name": "Mercury", "secret_number": 4, "vibhakti_role": "Prayojana", "template_washer_force": "Spiral", "phase_implication": "Reflection" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Jupiter", "secret_number": 3, "vibhakti_role": "Kāraka", "template_washer_force": "Axial", "phase_implication": "Expansion" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G07",
+    "triangle": [6, 12, 18],
+    "square": [6, 12, 13, 16],
+    "derived_hexagons": [[6, 12, 18], [13, 16, 19], [12, 16, 22], [6, 13, 22]],
+    "derived_octagons": [[[6, 12, 13, 16], [18, 19, 22, 6]], [[12, 16, 18, 22], [13, 19, 6, 12]], [[13, 16, 19, 22], [6, 12, 18, 13]]]
   },
-  {
-    "pattern": "Governance Field",
-    "aspectual_overlay": ["Sun", "Ketu", "Jupiter", "Saturn"],
-    "containment_logic": "Authority–Thinning–Expansion–Stabilization",
-    "semantic_tags": ["Karmic closure", "Dharmic detachment", "Mythic governance"],
-    "routed_geometries": ["G57", "G58", "G59", "G60"]
-  }
+  "semantic_tags": ["Dual oppositional harmony", "Reflective containment", "Expansion through flux"]
+},
+{
+  "aspectual_overlay": "Grand Cross",
+  "planets": [
+    { "name": "Mars", "secret_number": 5, "vibhakti_role": "Karma", "template_washer_force": "Axial", "phase_implication": "Tension" },
+    { "name": "Venus", "secret_number": 6, "vibhakti_role": "Sambandha", "template_washer_force": "Radial", "phase_implication": "Attraction" },
+    { "name": "Moon", "secret_number": 2, "vibhakti_role": "Sampradāna", "template_washer_force": "Tangential", "phase_implication": "Flux" },
+    { "name": "Neptune", "secret_number": 11, "vibhakti_role": "Kāraka", "template_washer_force": "Spiral", "phase_implication": "Dissolution" }
+  ],
+  "routed_geometry": {
+    "geometry_id": "G06",
+    "triangle": [5, 11, 17],
+    "square": [5, 11, 12, 15],
+    "derived_hexagons": [[5, 11, 17], [12, 15, 18], [11, 15, 21], [5, 12, 21]],
+    "derived_octagons": [[[5, 11, 12, 15], [17, 18, 21, 5]], [[11, 15, 17, 21], [12, 18, 5, 11]], [[12, 15, 18, 21], [5, 11, 17, 12]]]
+  },
+  "semantic_tags": ["Quadratic tension", "Containment reversal", "Mythic dissolution"]
+}
 ]
