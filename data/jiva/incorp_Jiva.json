@@ -12,7 +12,12 @@
       "role": "Kartā",
       "deity": "Varuṇa",
       "semantic_function": "Identity, rulership, cosmic law",
-      "vibhakti": "Prathamā"
+      "vibhakti": "Prathamā",
+      "civic_role": "Signal",
+      "civic_function": "Clarity",
+      "civic_lineage": "Solar",
+      "civic_opposite": "Labyrinth",
+      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility."
     },
     "Moon": {
       "longitude": 186.188251,
@@ -26,7 +31,12 @@
       "role": "Adhikaraṇa",
       "deity": "Vāyu",
       "semantic_function": "Emotion, fluctuation, experiential field",
-      "vibhakti": "Saptamī"
+      "vibhakti": "Saptamī",
+      "civic_role": "Refuge",
+      "civic_function": "Containment",
+      "civic_lineage": "Shaiva",
+      "civic_opposite": "Crucible",
+      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias."
     },
     "Mercury": {
       "longitude": 337.763621,
@@ -40,7 +50,12 @@
       "role": "Karaṇa",
       "deity": "Īśāna",
       "semantic_function": "Means, logic, semantic parsing",
-      "vibhakti": "Tṛtīyā"
+      "vibhakti": "Tṛtīyā",
+      "civic_role": "Signal",
+      "civic_function": "Clarity",
+      "civic_lineage": "Solar",
+      "civic_opposite": "Labyrinth",
+      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions."
     },
     "Venus": {
       "longitude": 285.723932,
@@ -54,7 +69,12 @@
       "role": "Sambandha",
       "deity": "Indra",
       "semantic_function": "Possession, beauty, sensory rulership",
-      "vibhakti": "Ṣaṣṭhī"
+      "vibhakti": "Ṣaṣṭhī",
+      "civic_role": "Sanctuary",
+      "civic_function": "Harmony",
+      "civic_lineage": "Lakshmi–Bhargava",
+      "civic_opposite": "Crucible",
+      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage."
     },
     "Mars": {
       "longitude": 313.483577,
@@ -68,7 +88,12 @@
       "role": "Karma",
       "deity": "Agni",
       "semantic_function": "Action, impulse, transformation",
-      "vibhakti": "Dvitīyā"
+      "vibhakti": "Dvitīyā",
+      "civic_role": "Crucible",
+      "civic_function": "Purification",
+      "civic_lineage": "Agni",
+      "civic_opposite": "Refuge",
+      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension."
     },
     "Jupiter": {
       "longitude": 88.74822,
@@ -82,7 +107,12 @@
       "role": "Sampradāna",
       "deity": "Yama",
       "semantic_function": "Purpose, dharma, boundary",
-      "vibhakti": "Caturthī"
+      "vibhakti": "Caturthī",
+      "civic_role": "Archive",
+      "civic_function": "Memory",
+      "civic_lineage": "Vedic",
+      "civic_opposite": "Crucible",
+      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives."
     },
     "Saturn": {
       "longitude": 128.938333,
@@ -96,7 +126,12 @@
       "role": "Niyamaka",
       "deity": "Shani / Yama",
       "semantic_function": "Routing, delay, karmic modulation",
-      "vibhakti": "Karma-Sthāna"
+      "vibhakti": "Karma-Sthāna",
+      "civic_role": "Refuge",
+      "civic_function": "Containment",
+      "civic_lineage": "Shaiva",
+      "civic_opposite": "Crucible",
+      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage."
     },
     "Uranus": {
       "longitude": 200.430086,
@@ -140,7 +175,12 @@
       "role": "Āhva",
       "deity": "Kubera",
       "semantic_function": "Desire, invocation, expansion",
-      "vibhakti": "Sambodhana"
+      "vibhakti": "Sambodhana",
+      "civic_role": "Labyrinth",
+      "civic_function": "Ambiguity",
+      "civic_lineage": "Tantric",
+      "civic_opposite": "Signal",
+      "civic_description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation."
     },
     "Ketu": {
       "longitude": 316.567541,
@@ -154,7 +194,12 @@
       "role": "Apādāna",
       "deity": "Nirṛti",
       "semantic_function": "Liberation, detachment, dissolution",
-      "vibhakti": "Pañcamī"
+      "vibhakti": "Pañcamī",
+      "civic_role": "Crucible",
+      "civic_function": "Purification",
+      "civic_lineage": "Agni",
+      "civic_opposite": "Refuge",
+      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts."
     },
     "Lilith": {
       "longitude": 107.517164,
@@ -186,24 +231,24 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "semantic emergence",
-          "stabilization"
+          "stabilization",
+          "semantic emergence"
         ],
         "zone": 3,
         "house": 1
       },
       "Moon": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 26,
         "house": 9
       },
       "Mercury": {
         "containment_logic": [
-          "semantic anchoring",
-          "stabilization"
+          "stabilization",
+          "semantic anchoring"
         ],
         "zone": 4,
         "house": 2
@@ -218,16 +263,16 @@
       },
       "Mars": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Jupiter": {
         "containment_logic": [
-          "semantic emergence",
-          "stabilization"
+          "stabilization",
+          "semantic emergence"
         ],
         "zone": 15,
         "house": 5
@@ -235,8 +280,8 @@
       "Saturn": {
         "containment_logic": [
           "volatility",
-          "softening",
-          "oppositional containment"
+          "oppositional containment",
+          "softening"
         ],
         "zone": 20,
         "house": 7
@@ -252,17 +297,17 @@
       },
       "Neptune": {
         "containment_logic": [
-          "semantic projection",
-          "reflection"
+          "reflection",
+          "semantic projection"
         ],
         "zone": 29,
         "house": 10
       },
       "Pluto": {
         "containment_logic": [
-          "containment breach",
+          "amplification",
           "volatility",
-          "amplification"
+          "containment breach"
         ],
         "zone": 24,
         "house": 8
@@ -270,8 +315,8 @@
       "Rahu": {
         "containment_logic": [
           "volatility",
-          "softening",
-          "oppositional containment"
+          "oppositional containment",
+          "softening"
         ],
         "zone": 20,
         "house": 7
@@ -287,9 +332,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "volatility",
+          "reflection",
           "healing crucible",
-          "reflection"
+          "volatility"
         ],
         "zone": 17,
         "house": 6
@@ -316,7 +361,12 @@
       "role": "Kartā",
       "deity": "Varuṇa",
       "semantic_function": "Identity, rulership, cosmic law",
-      "vibhakti": "Prathamā"
+      "vibhakti": "Prathamā",
+      "civic_role": "Signal",
+      "civic_function": "Clarity",
+      "civic_lineage": "Solar",
+      "civic_opposite": "Labyrinth",
+      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility."
     },
     "Moon": {
       "longitude": 190.151967,
@@ -330,7 +380,12 @@
       "role": "Adhikaraṇa",
       "deity": "Vāyu",
       "semantic_function": "Emotion, fluctuation, experiential field",
-      "vibhakti": "Saptamī"
+      "vibhakti": "Saptamī",
+      "civic_role": "Refuge",
+      "civic_function": "Containment",
+      "civic_lineage": "Shaiva",
+      "civic_opposite": "Crucible",
+      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias."
     },
     "Mercury": {
       "longitude": 65.328921,
@@ -344,7 +399,12 @@
       "role": "Karaṇa",
       "deity": "Īśāna",
       "semantic_function": "Means, logic, semantic parsing",
-      "vibhakti": "Tṛtīyā"
+      "vibhakti": "Tṛtīyā",
+      "civic_role": "Signal",
+      "civic_function": "Clarity",
+      "civic_lineage": "Solar",
+      "civic_opposite": "Labyrinth",
+      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions."
     },
     "Venus": {
       "longitude": 42.250781,
@@ -358,7 +418,12 @@
       "role": "Sambandha",
       "deity": "Indra",
       "semantic_function": "Possession, beauty, sensory rulership",
-      "vibhakti": "Ṣaṣṭhī"
+      "vibhakti": "Ṣaṣṭhī",
+      "civic_role": "Sanctuary",
+      "civic_function": "Harmony",
+      "civic_lineage": "Lakshmi–Bhargava",
+      "civic_opposite": "Crucible",
+      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage."
     },
     "Mars": {
       "longitude": 312.809617,
@@ -372,7 +437,12 @@
       "role": "Karma",
       "deity": "Agni",
       "semantic_function": "Action, impulse, transformation",
-      "vibhakti": "Dvitīyā"
+      "vibhakti": "Dvitīyā",
+      "civic_role": "Crucible",
+      "civic_function": "Purification",
+      "civic_lineage": "Agni",
+      "civic_opposite": "Refuge",
+      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension."
     },
     "Jupiter": {
       "longitude": 265.098178,
@@ -386,7 +456,12 @@
       "role": "Sampradāna",
       "deity": "Yama",
       "semantic_function": "Purpose, dharma, boundary",
-      "vibhakti": "Caturthī"
+      "vibhakti": "Caturthī",
+      "civic_role": "Archive",
+      "civic_function": "Memory",
+      "civic_lineage": "Vedic",
+      "civic_opposite": "Crucible",
+      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives."
     },
     "Saturn": {
       "longitude": 270.00057,
@@ -400,7 +475,12 @@
       "role": "Niyamaka",
       "deity": "Shani / Yama",
       "semantic_function": "Routing, delay, karmic modulation",
-      "vibhakti": "Karma-Sthāna"
+      "vibhakti": "Karma-Sthāna",
+      "civic_role": "Refuge",
+      "civic_function": "Containment",
+      "civic_lineage": "Shaiva",
+      "civic_opposite": "Crucible",
+      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage."
     },
     "Uranus": {
       "longitude": 7.166847,
@@ -444,7 +524,12 @@
       "role": "Āhva",
       "deity": "Kubera",
       "semantic_function": "Desire, invocation, expansion",
-      "vibhakti": "Sambodhana"
+      "vibhakti": "Sambodhana",
+      "civic_role": "Labyrinth",
+      "civic_function": "Ambiguity",
+      "civic_lineage": "Tantric",
+      "civic_opposite": "Signal",
+      "civic_description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation."
     },
     "Ketu": {
       "longitude": 238.823796,
@@ -458,7 +543,12 @@
       "role": "Apādāna",
       "deity": "Nirṛti",
       "semantic_function": "Liberation, detachment, dissolution",
-      "vibhakti": "Pañcamī"
+      "vibhakti": "Pañcamī",
+      "civic_role": "Crucible",
+      "civic_function": "Purification",
+      "civic_lineage": "Agni",
+      "civic_opposite": "Refuge",
+      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts."
     },
     "Lilith": {
       "longitude": 342.131628,
@@ -498,16 +588,16 @@
       },
       "Moon": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 26,
         "house": 9
       },
       "Mercury": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 14,
         "house": 5
@@ -523,17 +613,17 @@
       },
       "Mars": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Jupiter": {
         "containment_logic": [
-          "illumination",
+          "modular expansion",
           "volatility",
-          "modular expansion"
+          "illumination"
         ],
         "zone": 33,
         "house": 11
@@ -557,34 +647,34 @@
       },
       "Neptune": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Pluto": {
         "containment_logic": [
+          "modular expansion",
           "volatility",
-          "softening",
-          "modular expansion"
+          "softening"
         ],
         "zone": 32,
         "house": 11
       },
       "Rahu": {
         "containment_logic": [
-          "containment breach",
+          "amplification",
           "volatility",
-          "amplification"
+          "containment breach"
         ],
         "zone": 12,
         "house": 4
       },
       "Ketu": {
         "containment_logic": [
-          "semantic projection",
           "volatility",
+          "semantic projection",
           "thinning"
         ],
         "zone": 30,
@@ -592,8 +682,8 @@
       },
       "Lilith": {
         "containment_logic": [
-          "volatility",
           "reflection",
+          "volatility",
           "semantic anchoring"
         ],
         "zone": 5,

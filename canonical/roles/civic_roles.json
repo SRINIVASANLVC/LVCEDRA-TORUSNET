@@ -1,42 +1,65 @@
-[
-  {
+{
+  "Saturn": {
     "name": "Refuge",
-    "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn-Moon overlays and Shaiva lineage.",
-    "opposite": "Crucible",
-    "associated_planets": ["Saturn", "Moon"],
     "semantic_role": "Containment",
-    "mythic_lineage": "Shaiva"
-  },
-  {
-    "name": "Crucible",
-    "description": "A forge archetype where transformation occurs through conflict, pressure, or innovation. Linked to Mars-Ketu overlays and Agni lineage.",
-    "opposite": "Refuge",
-    "associated_planets": ["Mars", "Ketu"],
-    "semantic_role": "Purification",
-    "mythic_lineage": "Agni"
-  },
-  {
-    "name": "Signal",
-    "description": "A beacon archetype that radiates clarity, direction, and civic identity. Associated with Sun-Mercury overlays and Solar lineage.",
-    "opposite": "Labyrinth",
-    "associated_planets": ["Sun", "Mercury"],
-    "semantic_role": "Clarity",
-    "mythic_lineage": "Solar"
-  },
-  {
-    "name": "Labyrinth",
-    "description": "An initiation archetype that invites ambiguity, depth, and transformation through mystery. Linked to Rahu-Moon overlays and Tantric lineage.",
-    "opposite": "Signal",
-    "associated_planets": ["Rahu", "Moon"],
-    "semantic_role": "Ambiguity",
-    "mythic_lineage": "Tantric"
-  },
-  {
-    "name": "Archive",
-    "description": "A custodian archetype that preserves memory, lineage, and semantic continuity. Often emerges in cities with Jupiter-Mercury overlays and Vedic lineage.",
+    "mythic_lineage": "Shaiva",
     "opposite": "Crucible",
-    "associated_planets": ["Jupiter", "Mercury"],
+    "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage."
+  },
+  "Moon": {
+    "name": "Refuge",
+    "semantic_role": "Containment",
+    "mythic_lineage": "Shaiva",
+    "opposite": "Crucible",
+    "description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias."
+  },
+  "Mars": {
+    "name": "Crucible",
+    "semantic_role": "Purification",
+    "mythic_lineage": "Agni",
+    "opposite": "Refuge",
+    "description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension."
+  },
+  "Ketu": {
+    "name": "Crucible",
+    "semantic_role": "Purification",
+    "mythic_lineage": "Agni",
+    "opposite": "Refuge",
+    "description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts."
+  },
+  "Sun": {
+    "name": "Signal",
+    "semantic_role": "Clarity",
+    "mythic_lineage": "Solar",
+    "opposite": "Labyrinth",
+    "description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility."
+  },
+  "Mercury": {
+    "name": "Signal",
+    "semantic_role": "Clarity",
+    "mythic_lineage": "Solar",
+    "opposite": "Labyrinth",
+    "description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions."
+  },
+  "Rahu": {
+    "name": "Labyrinth",
+    "semantic_role": "Ambiguity",
+    "mythic_lineage": "Tantric",
+    "opposite": "Signal",
+    "description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation."
+  },
+  "Jupiter": {
+    "name": "Archive",
     "semantic_role": "Memory",
-    "mythic_lineage": "Vedic"
+    "mythic_lineage": "Vedic",
+    "opposite": "Crucible",
+    "description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives."
+  },
+  "Venus": {
+    "name": "Sanctuary",
+    "semantic_role": "Harmony",
+    "mythic_lineage": "Lakshmi–Bhargava",
+    "opposite": "Crucible",
+    "description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage."
   }
-]
+}

@@ -83,6 +83,18 @@ def enrich_roles_from_vibakthi(dallas_chart: dict, vibakthi_data: dict) -> dict:
     
     return dallas_chart
 
+
+def enrich_roles_from_civic_roles(dallas_chart: dict, civic_roles: dict) -> dict:
+    for planet, pdata in dallas_chart.items():
+        if planet in civic_roles and isinstance(pdata, dict):
+            role_info = civic_roles[planet]
+            pdata["civic_role"] = role_info["name"]
+            pdata["civic_function"] = role_info["semantic_role"]
+            pdata["civic_lineage"] = role_info["mythic_lineage"]
+            pdata["civic_opposite"] = role_info["opposite"]
+            pdata["civic_description"] = role_info["description"]
+    return dallas_chart
+
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
     for name, val in locals().items():
@@ -145,6 +157,9 @@ if __name__ == "__main__":
 
     with open("canonical/roles/vibakthi.json", encoding="utf-8") as f:
         vibakthi = json.load(f)
+    
+    with open("canonical/roles/civic_roles.json", encoding="utf-8") as f:
+        civic_roles = json.load(f)
 
     with open("canonical/semantic/semantic_24_sets.json", encoding="utf-8") as f:
         semantic_24_sets = json.load(f)
@@ -161,7 +176,9 @@ if __name__ == "__main__":
                 "FoundingIntentCanonical": FoundingIntentCanonical
             }]
             planet_data = enrich_roles_from_vibakthi(planet_data, vibakthi)
-            
+            # Enrich with civic roles
+            planet_data = enrich_roles_from_civic_roles(planet_data, civic_roles)    
+
             containment_enrichment = derive_containment(planet_data)
             planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
             # routed_chart = route_chart(planet_data, geometry_shapes, semantic_fractal_48)
