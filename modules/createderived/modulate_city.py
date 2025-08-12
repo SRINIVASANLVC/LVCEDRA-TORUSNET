@@ -117,7 +117,7 @@ if __name__ == "__main__":
 #     "Vimochana": {"zone": 24, "house": 8},    // Ketu
 #     "Avidya": {"zone": 21, "house": 7}        // Lilith
 #   },
-    with open("canonical/geometry/geometry_shapes.json", "r") as f:
+    with open("canonical/geometry/geometry_7_sets.json", "r") as f:
         geometry_shapes_raw = json.load(f)
     # geometry_shapes = {
     #     shape["name"]: shape
@@ -126,7 +126,7 @@ if __name__ == "__main__":
 
     # }
 
-    with open("canonical/modulation/aspectual_router.json", "r") as f:
+    with open("canonical/modulation/aspectual_router.json", encoding="utf-8") as f:
         aspectual_router = json.load(f)
 
     with open("canonical/roles/vibakthi.json", encoding="utf-8") as f:
@@ -134,13 +134,6 @@ if __name__ == "__main__":
 
     with open("canonical/semantic/semantic_24_sets.json", encoding="utf-8") as f:
         semantic_24_sets = json.load(f)
-
-
-    # with open("templates/semantic_dna.json", "r") as f:
-    #     semantic_dna = json.load(f)
-
-
-
 
     if not cities:
         print("[WARN] No valid cities found.")

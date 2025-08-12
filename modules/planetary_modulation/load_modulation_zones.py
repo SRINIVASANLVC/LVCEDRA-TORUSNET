@@ -1,6 +1,6 @@
 import csv
 
-def load_modulation_zones(filepath="templates/modulation_zones.csv"):
+def load_modulation_zones(filepath="canonical/modulation/modulation_zones.csv"):
     modulation_zones = []
     with open(filepath, newline='') as csvfile:
         reader = csv.DictReader(csvfile)

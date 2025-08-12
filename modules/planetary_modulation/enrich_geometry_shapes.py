@@ -47,10 +47,10 @@ def enrich_geometry_shapes(geometry_data):
 import json
 
 
-with open("canonical/geometry/geometry_shapes.json", "r") as f:
-    geometry_data = json.load(f)
+with open("canonical/geometry/geometry_7_sets.json", "r") as f:
+    geometry_7_sets = json.load(f)
 
-enriched_geometry = enrich_geometry_shapes(geometry_data)
+enriched_geometry = enrich_geometry_shapes(geometry_7_sets)
 
 with open("canonical/geometry/geometry_shapes_enriched.json", "w") as f:
     json.dump(enriched_geometry, f, indent=2)

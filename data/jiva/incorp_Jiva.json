@@ -158,32 +158,32 @@
       },
       "Moon": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 26,
         "house": 9
       },
       "Mercury": {
         "containment_logic": [
-          "semantic anchoring",
-          "stabilization"
+          "stabilization",
+          "semantic anchoring"
         ],
         "zone": 4,
         "house": 2
       },
       "Venus": {
         "containment_logic": [
-          "containment breach",
-          "assertion"
+          "assertion",
+          "containment breach"
         ],
         "zone": 35,
         "house": 12
       },
       "Mars": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
@@ -198,9 +198,9 @@
       },
       "Saturn": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
@@ -208,8 +208,8 @@
       "Uranus": {
         "containment_logic": [
           "volatility",
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 26,
         "house": 9
@@ -225,17 +225,17 @@
       "Pluto": {
         "containment_logic": [
           "amplification",
-          "containment breach",
-          "volatility"
+          "volatility",
+          "containment breach"
         ],
         "zone": 24,
         "house": 8
       },
       "Rahu": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
-          "softening"
+          "softening",
+          "oppositional containment"
         ],
         "zone": 20,
         "house": 7
@@ -243,17 +243,17 @@
       "Ketu": {
         "containment_logic": [
           "volatility",
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Lilith": {
         "containment_logic": [
-          "healing crucible",
           "volatility",
-          "reflection"
+          "reflection",
+          "healing crucible"
         ],
         "zone": 17,
         "house": 6
@@ -418,84 +418,84 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "containment breach",
-          "assertion"
+          "assertion",
+          "containment breach"
         ],
         "zone": 11,
         "house": 4
       },
       "Moon": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 26,
         "house": 9
       },
       "Mercury": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 14,
         "house": 5
       },
       "Venus": {
         "containment_logic": [
-          "containment breach",
           "volatility",
-          "assertion"
+          "assertion",
+          "containment breach"
         ],
         "zone": 11,
         "house": 4
       },
       "Mars": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Jupiter": {
         "containment_logic": [
-          "illumination",
+          "modular expansion",
           "volatility",
-          "modular expansion"
+          "illumination"
         ],
         "zone": 33,
         "house": 11
       },
       "Saturn": {
         "containment_logic": [
-          "containment breach",
+          "dissolution",
           "volatility",
-          "dissolution"
+          "containment breach"
         ],
         "zone": 34,
         "house": 12
       },
       "Uranus": {
         "containment_logic": [
-          "narrative branching",
-          "softening"
+          "softening",
+          "narrative branching"
         ],
         "zone": 8,
         "house": 3
       },
       "Neptune": {
         "containment_logic": [
-          "semantic emergence",
-          "expansion"
+          "expansion",
+          "semantic emergence"
         ],
         "zone": 2,
         "house": 1
       },
       "Pluto": {
         "containment_logic": [
+          "modular expansion",
           "volatility",
-          "softening",
-          "modular expansion"
+          "softening"
         ],
         "zone": 32,
         "house": 11
@@ -503,26 +503,26 @@
       "Rahu": {
         "containment_logic": [
           "amplification",
-          "containment breach",
-          "volatility"
+          "volatility",
+          "containment breach"
         ],
         "zone": 12,
         "house": 4
       },
       "Ketu": {
         "containment_logic": [
-          "thinning",
+          "semantic projection",
           "volatility",
-          "semantic projection"
+          "thinning"
         ],
         "zone": 30,
         "house": 10
       },
       "Lilith": {
         "containment_logic": [
-          "semantic anchoring",
           "volatility",
-          "reflection"
+          "reflection",
+          "semantic anchoring"
         ],
         "zone": 5,
         "house": 2
