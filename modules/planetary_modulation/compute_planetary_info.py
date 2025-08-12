@@ -71,7 +71,8 @@ def get_zone_info(longitude, zones):
                 "sign_ruler": zone["ruler"],
                 "nakshatra": zone["nakshatra"],
                 "nakshatra_ruler": zone["nak_ruler"],
-                "template_House": zone["house"]
+                "template_House": zone["house"],
+                'modulation_stage': zone["stage"]
             }
     return None  # if no match found
 

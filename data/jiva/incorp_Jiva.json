@@ -8,6 +8,7 @@
       "nakshatra": "Uttarabhadrapada",
       "nakshatra_ruler": "Saturn",
       "template_House": 1,
+      "modulation_stage": "End",
       "retrograde_status": "Direct",
       "role": "Kartā",
       "deity": "Varuṇa",
@@ -27,6 +28,7 @@
       "nakshatra": "Vishaka",
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Adhikaraṇa",
       "deity": "Vāyu",
@@ -46,6 +48,7 @@
       "nakshatra": "Uttarabhadrapada",
       "nakshatra_ruler": "Saturn",
       "template_House": 2,
+      "modulation_stage": "Initiate",
       "retrograde_status": "Direct",
       "role": "Karaṇa",
       "deity": "Īśāna",
@@ -65,6 +68,7 @@
       "nakshatra": "Dhanishta",
       "nakshatra_ruler": "Mars",
       "template_House": 12,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -84,6 +88,7 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -103,6 +108,7 @@
       "nakshatra": "Pushya",
       "nakshatra_ruler": "Saturn",
       "template_House": 5,
+      "modulation_stage": "End",
       "retrograde_status": "Direct",
       "role": "Sampradāna",
       "deity": "Yama",
@@ -122,6 +128,7 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -141,6 +148,7 @@
       "nakshatra": "Vishaka",
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde"
     },
     "Neptune": {
@@ -151,6 +159,7 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct"
     },
     "Pluto": {
@@ -161,6 +170,7 @@
       "nakshatra": "Swathi",
       "nakshatra_ruler": "Rahu",
       "template_House": 8,
+      "modulation_stage": "End",
       "retrograde_status": "Retrograde"
     },
     "Rahu": {
@@ -171,6 +181,7 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde",
       "role": "Āhva",
       "deity": "Kubera",
@@ -190,6 +201,7 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde",
       "role": "Apādāna",
       "deity": "Nirṛti",
@@ -209,6 +221,7 @@
       "nakshatra": "Ashlesha",
       "nakshatra_ruler": "Mercury",
       "template_House": 6,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -255,8 +268,8 @@
       },
       "Venus": {
         "containment_logic": [
-          "containment breach",
-          "assertion"
+          "assertion",
+          "containment breach"
         ],
         "zone": 35,
         "house": 12
@@ -279,8 +292,8 @@
       },
       "Saturn": {
         "containment_logic": [
-          "volatility",
           "oppositional containment",
+          "volatility",
           "softening"
         ],
         "zone": 20,
@@ -288,8 +301,8 @@
       },
       "Uranus": {
         "containment_logic": [
-          "volatility",
           "expansion",
+          "volatility",
           "semantic emergence"
         ],
         "zone": 26,
@@ -297,8 +310,8 @@
       },
       "Neptune": {
         "containment_logic": [
-          "reflection",
-          "semantic projection"
+          "semantic projection",
+          "reflection"
         ],
         "zone": 29,
         "house": 10
@@ -314,8 +327,8 @@
       },
       "Rahu": {
         "containment_logic": [
-          "volatility",
           "oppositional containment",
+          "volatility",
           "softening"
         ],
         "zone": 20,
@@ -323,8 +336,8 @@
       },
       "Ketu": {
         "containment_logic": [
-          "volatility",
           "expansion",
+          "volatility",
           "semantic emergence"
         ],
         "zone": 2,
@@ -332,9 +345,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "reflection",
           "healing crucible",
-          "volatility"
+          "volatility",
+          "reflection"
         ],
         "zone": 17,
         "house": 6
@@ -357,6 +370,7 @@
       "nakshatra": "Rohini",
       "nakshatra_ruler": "Mars",
       "template_House": 4,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Kartā",
       "deity": "Varuṇa",
@@ -376,6 +390,7 @@
       "nakshatra": "Vishaka",
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Adhikaraṇa",
       "deity": "Vāyu",
@@ -395,6 +410,7 @@
       "nakshatra": "Punarvasu",
       "nakshatra_ruler": "Jupiter",
       "template_House": 5,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Karaṇa",
       "deity": "Īśāna",
@@ -414,6 +430,7 @@
       "nakshatra": "Rohini",
       "nakshatra_ruler": "Mars",
       "template_House": 4,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde",
       "role": "Sambandha",
       "deity": "Indra",
@@ -433,6 +450,7 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -452,6 +470,7 @@
       "nakshatra": "UttaraAshada",
       "nakshatra_ruler": "Sun",
       "template_House": 11,
+      "modulation_stage": "End",
       "retrograde_status": "Retrograde",
       "role": "Sampradāna",
       "deity": "Yama",
@@ -471,6 +490,7 @@
       "nakshatra": "Shravana",
       "nakshatra_ruler": "Moon",
       "template_House": 12,
+      "modulation_stage": "Initiate",
       "retrograde_status": "Retrograde",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -490,6 +510,7 @@
       "nakshatra": "Bharani",
       "nakshatra_ruler": "Venus",
       "template_House": 3,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct"
     },
     "Neptune": {
@@ -500,6 +521,7 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Direct"
     },
     "Pluto": {
@@ -510,6 +532,7 @@
       "nakshatra": "PurvaAshada",
       "nakshatra_ruler": "Venus",
       "template_House": 11,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde"
     },
     "Rahu": {
@@ -520,6 +543,7 @@
       "nakshatra": "Ardra",
       "nakshatra_ruler": "Rahu",
       "template_House": 4,
+      "modulation_stage": "End",
       "retrograde_status": "Retrograde",
       "role": "Āhva",
       "deity": "Kubera",
@@ -539,6 +563,7 @@
       "nakshatra": "Mula",
       "nakshatra_ruler": "Ketu",
       "template_House": 10,
+      "modulation_stage": "End",
       "retrograde_status": "Retrograde",
       "role": "Apādāna",
       "deity": "Nirṛti",
@@ -558,6 +583,7 @@
       "nakshatra": "Revati",
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
+      "modulation_stage": "Sustain",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
@@ -580,8 +606,8 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "containment breach",
-          "assertion"
+          "assertion",
+          "containment breach"
         ],
         "zone": 11,
         "house": 4
@@ -604,9 +630,9 @@
       },
       "Venus": {
         "containment_logic": [
+          "assertion",
           "volatility",
-          "containment breach",
-          "assertion"
+          "containment breach"
         ],
         "zone": 11,
         "house": 4
@@ -655,9 +681,9 @@
       },
       "Pluto": {
         "containment_logic": [
-          "modular expansion",
           "volatility",
-          "softening"
+          "softening",
+          "modular expansion"
         ],
         "zone": 32,
         "house": 11
@@ -673,8 +699,8 @@
       },
       "Ketu": {
         "containment_logic": [
-          "volatility",
           "semantic projection",
+          "volatility",
           "thinning"
         ],
         "zone": 30,
@@ -682,9 +708,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "reflection",
+          "semantic anchoring",
           "volatility",
-          "semantic anchoring"
+          "reflection"
         ],
         "zone": 5,
         "house": 2
