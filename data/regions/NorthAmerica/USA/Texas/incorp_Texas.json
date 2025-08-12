@@ -130,11 +130,134 @@
       "template_House": 7,
       "retrograde_status": "Retrograde"
     },
-    "incorp_choice": [
+    "birth_choice": [
       {
         "FoundingIntentCanonical": "Trade"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 35,
+        "house": 12
+      },
+      "Moon": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Mercury": {
+        "containment_logic": [
+          "amplification",
+          "semantic emergence"
+        ],
+        "zone": 1,
+        "house": 1
+      },
+      "Venus": {
+        "containment_logic": [
+          "modular expansion",
+          "softening"
+        ],
+        "zone": 32,
+        "house": 11
+      },
+      "Mars": {
+        "containment_logic": [
+          "containment breach",
+          "amplification"
+        ],
+        "zone": 24,
+        "house": 8
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Saturn": {
+        "containment_logic": [
+          "containment breach",
+          "amplification",
+          "volatility"
+        ],
+        "zone": 12,
+        "house": 4
+      },
+      "Uranus": {
+        "containment_logic": [
+          "narrative branching",
+          "softening"
+        ],
+        "zone": 8,
+        "house": 3
+      },
+      "Neptune": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Pluto": {
+        "containment_logic": [
+          "narrative branching",
+          "softening"
+        ],
+        "zone": 8,
+        "house": 3
+      },
+      "Rahu": {
+        "containment_logic": [
+          "semantic anchoring",
+          "volatility",
+          "thinning"
+        ],
+        "zone": 6,
+        "house": 2
+      },
+      "Ketu": {
+        "containment_logic": [
+          "containment breach",
+          "amplification",
+          "volatility"
+        ],
+        "zone": 24,
+        "house": 8
+      },
+      "Lilith": {
+        "containment_logic": [
+          "illumination",
+          "volatility",
+          "oppositional containment"
+        ],
+        "zone": 21,
+        "house": 7
+      },
+      "birth_choice": {
+        "Ascendant": null,
+        "FoundingIntentCanonical": "Trade",
+        "SemanticDrift": null,
+        "HealingBias": null,
+        "MythicLineage": null
+      }
+    }
   },
   "Dallas_Irving": {
     "Sun": {
@@ -267,11 +390,133 @@
       "template_House": 2,
       "retrograde_status": "Retrograde"
     },
-    "incorp_choice": [
+    "birth_choice": [
       {
         "FoundingIntentCanonical": "Frontier"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "semantic anchoring",
+          "reflection"
+        ],
+        "zone": 5,
+        "house": 2
+      },
+      "Moon": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Mercury": {
+        "containment_logic": [
+          "semantic emergence",
+          "stabilization"
+        ],
+        "zone": 3,
+        "house": 1
+      },
+      "Venus": {
+        "containment_logic": [
+          "narrative branching",
+          "softening"
+        ],
+        "zone": 8,
+        "house": 3
+      },
+      "Mars": {
+        "containment_logic": [
+          "semantic emergence",
+          "stabilization"
+        ],
+        "zone": 15,
+        "house": 5
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "containment breach",
+          "amplification"
+        ],
+        "zone": 36,
+        "house": 12
+      },
+      "Saturn": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 11,
+        "house": 4
+      },
+      "Uranus": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 35,
+        "house": 12
+      },
+      "Neptune": {
+        "containment_logic": [
+          "semantic emergence",
+          "stabilization"
+        ],
+        "zone": 15,
+        "house": 5
+      },
+      "Pluto": {
+        "containment_logic": [
+          "amplification",
+          "semantic emergence"
+        ],
+        "zone": 13,
+        "house": 5
+      },
+      "Rahu": {
+        "containment_logic": [
+          "volatility",
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Ketu": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Lilith": {
+        "containment_logic": [
+          "semantic anchoring",
+          "reflection",
+          "volatility"
+        ],
+        "zone": 5,
+        "house": 2
+      },
+      "birth_choice": {
+        "Ascendant": null,
+        "FoundingIntentCanonical": "Frontier",
+        "SemanticDrift": null,
+        "HealingBias": null,
+        "MythicLineage": null
+      }
+    }
   },
   "Dallas_Garland": {
     "Sun": {
@@ -404,11 +649,134 @@
       "template_House": 7,
       "retrograde_status": "Retrograde"
     },
-    "incorp_choice": [
+    "birth_choice": [
       {
         "FoundingIntentCanonical": "Bastion"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "narrative branching",
+          "softening"
+        ],
+        "zone": 8,
+        "house": 3
+      },
+      "Moon": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 34,
+        "house": 12
+      },
+      "Mercury": {
+        "containment_logic": [
+          "illumination",
+          "narrative branching"
+        ],
+        "zone": 9,
+        "house": 3
+      },
+      "Venus": {
+        "containment_logic": [
+          "semantic anchoring",
+          "stabilization"
+        ],
+        "zone": 4,
+        "house": 2
+      },
+      "Mars": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 10,
+        "house": 4
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Saturn": {
+        "containment_logic": [
+          "oppositional containment",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Uranus": {
+        "containment_logic": [
+          "amplification",
+          "volatility",
+          "semantic emergence"
+        ],
+        "zone": 25,
+        "house": 9
+      },
+      "Neptune": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 10,
+        "house": 4
+      },
+      "Pluto": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 10,
+        "house": 4
+      },
+      "Rahu": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution",
+          "volatility"
+        ],
+        "zone": 10,
+        "house": 4
+      },
+      "Ketu": {
+        "containment_logic": [
+          "semantic projection",
+          "volatility",
+          "stabilization"
+        ],
+        "zone": 28,
+        "house": 10
+      },
+      "Lilith": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "birth_choice": {
+        "Ascendant": null,
+        "FoundingIntentCanonical": "Bastion",
+        "SemanticDrift": null,
+        "HealingBias": null,
+        "MythicLineage": null
+      }
+    }
   },
   "Austin": {
     "Sun": {
@@ -541,11 +909,133 @@
       "template_House": 10,
       "retrograde_status": "Retrograde"
     },
-    "incorp_choice": [
+    "birth_choice": [
       {
         "FoundingIntentCanonical": "Covenant"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "modular expansion",
+          "softening"
+        ],
+        "zone": 32,
+        "house": 11
+      },
+      "Moon": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 22,
+        "house": 8
+      },
+      "Mercury": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Venus": {
+        "containment_logic": [
+          "semantic emergence",
+          "stabilization"
+        ],
+        "zone": 27,
+        "house": 9
+      },
+      "Mars": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 34,
+        "house": 12
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 26,
+        "house": 9
+      },
+      "Saturn": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Uranus": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Neptune": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 35,
+        "house": 12
+      },
+      "Pluto": {
+        "containment_logic": [
+          "semantic anchoring",
+          "reflection"
+        ],
+        "zone": 5,
+        "house": 2
+      },
+      "Rahu": {
+        "containment_logic": [
+          "volatility",
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Ketu": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Lilith": {
+        "containment_logic": [
+          "semantic projection",
+          "volatility",
+          "stabilization"
+        ],
+        "zone": 28,
+        "house": 10
+      },
+      "birth_choice": {
+        "Ascendant": null,
+        "FoundingIntentCanonical": "Covenant",
+        "SemanticDrift": null,
+        "HealingBias": null,
+        "MythicLineage": null
+      }
+    }
   },
   "Austin_Travis": {
     "Sun": {
@@ -678,10 +1168,132 @@
       "template_House": 10,
       "retrograde_status": "Retrograde"
     },
-    "incorp_choice": [
+    "birth_choice": [
       {
         "FoundingIntentCanonical": "Witness"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "illumination",
+          "modular expansion"
+        ],
+        "zone": 33,
+        "house": 11
+      },
+      "Moon": {
+        "containment_logic": [
+          "containment breach",
+          "dissolution"
+        ],
+        "zone": 10,
+        "house": 4
+      },
+      "Mercury": {
+        "containment_logic": [
+          "modular expansion",
+          "softening"
+        ],
+        "zone": 32,
+        "house": 11
+      },
+      "Venus": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Mars": {
+        "containment_logic": [
+          "containment breach",
+          "amplification"
+        ],
+        "zone": 36,
+        "house": 12
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 26,
+        "house": 9
+      },
+      "Saturn": {
+        "containment_logic": [
+          "reflection",
+          "semantic projection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Uranus": {
+        "containment_logic": [
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Neptune": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 35,
+        "house": 12
+      },
+      "Pluto": {
+        "containment_logic": [
+          "semantic anchoring",
+          "reflection"
+        ],
+        "zone": 5,
+        "house": 2
+      },
+      "Rahu": {
+        "containment_logic": [
+          "volatility",
+          "expansion",
+          "semantic emergence"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Ketu": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Lilith": {
+        "containment_logic": [
+          "semantic projection",
+          "volatility",
+          "stabilization"
+        ],
+        "zone": 28,
+        "house": 10
+      },
+      "birth_choice": {
+        "Ascendant": null,
+        "FoundingIntentCanonical": "Witness",
+        "SemanticDrift": null,
+        "HealingBias": null,
+        "MythicLineage": null
+      }
+    }
   }
 }

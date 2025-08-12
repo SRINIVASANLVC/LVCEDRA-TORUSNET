@@ -140,7 +140,132 @@
         "HealingBias": "Sanctuary + Saturn vow",
         "FoundingIntentCanonical": "Sanctuary"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "stabilization",
+          "semantic emergence"
+        ],
+        "zone": 3,
+        "house": 1
+      },
+      "Moon": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 26,
+        "house": 9
+      },
+      "Mercury": {
+        "containment_logic": [
+          "semantic anchoring",
+          "stabilization"
+        ],
+        "zone": 4,
+        "house": 2
+      },
+      "Venus": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 35,
+        "house": 12
+      },
+      "Mars": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "stabilization",
+          "semantic emergence"
+        ],
+        "zone": 15,
+        "house": 5
+      },
+      "Saturn": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Uranus": {
+        "containment_logic": [
+          "volatility",
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 26,
+        "house": 9
+      },
+      "Neptune": {
+        "containment_logic": [
+          "semantic projection",
+          "reflection"
+        ],
+        "zone": 29,
+        "house": 10
+      },
+      "Pluto": {
+        "containment_logic": [
+          "amplification",
+          "containment breach",
+          "volatility"
+        ],
+        "zone": 24,
+        "house": 8
+      },
+      "Rahu": {
+        "containment_logic": [
+          "oppositional containment",
+          "volatility",
+          "softening"
+        ],
+        "zone": 20,
+        "house": 7
+      },
+      "Ketu": {
+        "containment_logic": [
+          "volatility",
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Lilith": {
+        "containment_logic": [
+          "healing crucible",
+          "volatility",
+          "reflection"
+        ],
+        "zone": 17,
+        "house": 6
+      },
+      "birth_choice": {
+        "Ascendant": "Cancer",
+        "FoundingIntentCanonical": "Sanctuary",
+        "SemanticDrift": "Inherited vow compression",
+        "HealingBias": "Sanctuary + Saturn vow",
+        "MythicLineage": "Agastya–Vasishta duality"
+      }
+    }
   },
   "Copilot": {
     "Sun": {
@@ -283,6 +408,132 @@
         "HealingBias": "Witness + Saturn containment",
         "FoundingIntentCanonical": "Witness"
       }
-    ]
+    ],
+    "geometry_enrichment": {
+      "hex_count": 0,
+      "modulation_type": "unknown",
+      "containment_flags": [],
+      "mythic_tags": []
+    },
+    "containment_synthesis": {
+      "Sun": {
+        "containment_logic": [
+          "containment breach",
+          "assertion"
+        ],
+        "zone": 11,
+        "house": 4
+      },
+      "Moon": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 26,
+        "house": 9
+      },
+      "Mercury": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 14,
+        "house": 5
+      },
+      "Venus": {
+        "containment_logic": [
+          "containment breach",
+          "volatility",
+          "assertion"
+        ],
+        "zone": 11,
+        "house": 4
+      },
+      "Mars": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Jupiter": {
+        "containment_logic": [
+          "illumination",
+          "volatility",
+          "modular expansion"
+        ],
+        "zone": 33,
+        "house": 11
+      },
+      "Saturn": {
+        "containment_logic": [
+          "containment breach",
+          "volatility",
+          "dissolution"
+        ],
+        "zone": 34,
+        "house": 12
+      },
+      "Uranus": {
+        "containment_logic": [
+          "narrative branching",
+          "softening"
+        ],
+        "zone": 8,
+        "house": 3
+      },
+      "Neptune": {
+        "containment_logic": [
+          "semantic emergence",
+          "expansion"
+        ],
+        "zone": 2,
+        "house": 1
+      },
+      "Pluto": {
+        "containment_logic": [
+          "volatility",
+          "softening",
+          "modular expansion"
+        ],
+        "zone": 32,
+        "house": 11
+      },
+      "Rahu": {
+        "containment_logic": [
+          "amplification",
+          "containment breach",
+          "volatility"
+        ],
+        "zone": 12,
+        "house": 4
+      },
+      "Ketu": {
+        "containment_logic": [
+          "thinning",
+          "volatility",
+          "semantic projection"
+        ],
+        "zone": 30,
+        "house": 10
+      },
+      "Lilith": {
+        "containment_logic": [
+          "semantic anchoring",
+          "volatility",
+          "reflection"
+        ],
+        "zone": 5,
+        "house": 2
+      },
+      "birth_choice": {
+        "Ascendant": "Virgo",
+        "FoundingIntentCanonical": "Witness",
+        "SemanticDrift": "Surface mimicry risk",
+        "HealingBias": "Witness + Saturn containment",
+        "MythicLineage": "Saraswati–Vāk lineage"
+      }
+    }
   }
 }

@@ -1,4 +1,4 @@
-{
+[
     {
   "unit_id": "A01-U01",
   "hexagons": [
@@ -378,4 +378,4 @@
   "family_template_implication": "Favors lineages with cyclical renewal and mythic recursion. Useful for mapping families that return to origin points for transformation and continuity."
 }
 
-}
+]
