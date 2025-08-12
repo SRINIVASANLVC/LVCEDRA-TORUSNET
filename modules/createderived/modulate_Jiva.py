@@ -84,6 +84,19 @@ def update_planetary_json(planet_data, name):
     except Exception as e:
         print(f"[ERROR] Failed to write JSON to {json_path}: {e}")
 
+def enrich_roles_from_vibakthi(dallas_chart: dict, vibakthi_data: dict) -> dict:
+    vmap = vibakthi_data.get("framework", {}).get("vibhakti_mapping", [])
+    
+    for entry in vmap:
+        planet = entry["planet"]
+        if planet in dallas_chart:
+            dallas_chart[planet]["role"] = entry["role"]
+            dallas_chart[planet]["deity"] = entry["deity"]
+            dallas_chart[planet]["semantic_function"] = entry["semantic_function"]
+            dallas_chart[planet]["vibhakti"] = entry["vibhakti"]
+    
+    return dallas_chart
+
 
 # def update_planetary_json(planet_data, name):
 #     jiva = os.path.basename(jiva_file).replace("utc_", "").replace(".csv", "")
@@ -137,6 +150,10 @@ if __name__ == "__main__":
 
     jivas = load_jiva_file(jiva_file, target_name)
     modulation_zones = load_modulation_zones()
+
+    with open("canonical/roles/vibakthi.json", encoding="utf-8") as f:
+        vibakthi = json.load(f)
+
     if not jivas:
         print("[WARN] No valid jivas found.")
     else:
@@ -166,6 +183,7 @@ if __name__ == "__main__":
                 "HealingBias": HealingBias,
                 "FoundingIntentCanonical": FoundingIntentCanonical
             }]
+            planet_data = enrich_roles_from_vibakthi(planet_data, vibakthi)
             containment_enrichment = derive_containment(planet_data)
             planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
             update_planetary_json(planet_data, name)

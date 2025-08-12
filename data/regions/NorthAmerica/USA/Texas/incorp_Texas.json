@@ -8,7 +8,11 @@
       "nakshatra": "Dhanishta",
       "nakshatra_ruler": "Mars",
       "template_House": 12,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kart\u0101",
+      "deity": "Varu\u1e47a",
+      "semantic_function": "Identity, rulership, cosmic law",
+      "vibhakti": "Pratham\u0101"
     },
     "Moon": {
       "longitude": 226.40185,
@@ -18,7 +22,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Adhikara\u1e47a",
+      "deity": "V\u0101yu",
+      "semantic_function": "Emotion, fluctuation, experiential field",
+      "vibhakti": "Saptam\u012b"
     },
     "Mercury": {
       "longitude": 303.746404,
@@ -28,7 +36,11 @@
       "nakshatra": "Shatabhisha",
       "nakshatra_ruler": "Rahu",
       "template_House": 1,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kara\u1e47a",
+      "deity": "\u012a\u015b\u0101na",
+      "semantic_function": "Means, logic, semantic parsing",
+      "vibhakti": "T\u1e5bt\u012by\u0101"
     },
     "Venus": {
       "longitude": 244.296976,
@@ -38,7 +50,11 @@
       "nakshatra": "PurvaAshada",
       "nakshatra_ruler": "Venus",
       "template_House": 11,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Sambandha",
+      "deity": "Indra",
+      "semantic_function": "Possession, beauty, sensory rulership",
+      "vibhakti": "\u1e62a\u1e63\u1e6dh\u012b"
     },
     "Mars": {
       "longitude": 172.010169,
@@ -48,7 +64,11 @@
       "nakshatra": "Swathi",
       "nakshatra_ruler": "Rahu",
       "template_House": 8,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Karma",
+      "deity": "Agni",
+      "semantic_function": "Action, impulse, transformation",
+      "vibhakti": "Dvit\u012by\u0101"
     },
     "Jupiter": {
       "longitude": 310.68078,
@@ -58,7 +78,11 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Samprad\u0101na",
+      "deity": "Yama",
+      "semantic_function": "Purpose, dharma, boundary",
+      "vibhakti": "Caturth\u012b"
     },
     "Saturn": {
       "longitude": 56.577642,
@@ -68,7 +92,11 @@
       "nakshatra": "Ardra",
       "nakshatra_ruler": "Rahu",
       "template_House": 4,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Niyamaka",
+      "deity": "Shani / Yama",
+      "semantic_function": "Routing, delay, karmic modulation",
+      "vibhakti": "Karma-Sth\u0101na"
     },
     "Uranus": {
       "longitude": 19.93172,
@@ -108,7 +136,11 @@
       "nakshatra": "Aswini",
       "nakshatra_ruler": "Ketu",
       "template_House": 2,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "\u0100hva",
+      "deity": "Kubera",
+      "semantic_function": "Desire, invocation, expansion",
+      "vibhakti": "Sambodhana"
     },
     "Ketu": {
       "longitude": 179.538867,
@@ -118,7 +150,11 @@
       "nakshatra": "Swathi",
       "nakshatra_ruler": "Rahu",
       "template_House": 8,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Ap\u0101d\u0101na",
+      "deity": "Nir\u1e5bti",
+      "semantic_function": "Liberation, detachment, dissolution",
+      "vibhakti": "Pa\u00f1cam\u012b"
     },
     "Lilith": {
       "longitude": 145.220195,
@@ -160,8 +196,8 @@
       },
       "Mercury": {
         "containment_logic": [
-          "amplification",
-          "semantic emergence"
+          "semantic emergence",
+          "amplification"
         ],
         "zone": 1,
         "house": 1
@@ -176,24 +212,24 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "amplification"
+          "amplification",
+          "containment breach"
         ],
         "zone": 24,
         "house": 8
       },
       "Jupiter": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 2,
         "house": 1
       },
       "Saturn": {
         "containment_logic": [
-          "containment breach",
           "amplification",
+          "containment breach",
           "volatility"
         ],
         "zone": 12,
@@ -209,8 +245,8 @@
       },
       "Neptune": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 2,
         "house": 1
@@ -225,8 +261,8 @@
       },
       "Rahu": {
         "containment_logic": [
-          "thinning",
           "semantic anchoring",
+          "thinning",
           "volatility"
         ],
         "zone": 6,
@@ -234,8 +270,8 @@
       },
       "Ketu": {
         "containment_logic": [
-          "containment breach",
           "amplification",
+          "containment breach",
           "volatility"
         ],
         "zone": 24,
@@ -243,9 +279,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "illumination",
+          "oppositional containment",
           "volatility",
-          "oppositional containment"
+          "illumination"
         ],
         "zone": 21,
         "house": 7
@@ -268,7 +304,11 @@
       "nakshatra": "Revati",
       "nakshatra_ruler": "Mercury",
       "template_House": 2,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kart\u0101",
+      "deity": "Varu\u1e47a",
+      "semantic_function": "Identity, rulership, cosmic law",
+      "vibhakti": "Pratham\u0101"
     },
     "Moon": {
       "longitude": 222.719921,
@@ -278,7 +318,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Adhikara\u1e47a",
+      "deity": "V\u0101yu",
+      "semantic_function": "Emotion, fluctuation, experiential field",
+      "vibhakti": "Saptam\u012b"
     },
     "Mercury": {
       "longitude": 327.950396,
@@ -288,7 +332,11 @@
       "nakshatra": "Uttarabhadrapada",
       "nakshatra_ruler": "Saturn",
       "template_House": 1,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kara\u1e47a",
+      "deity": "\u012a\u015b\u0101na",
+      "semantic_function": "Means, logic, semantic parsing",
+      "vibhakti": "T\u1e5bt\u012by\u0101"
     },
     "Venus": {
       "longitude": 9.833749,
@@ -298,7 +346,11 @@
       "nakshatra": "Bharani",
       "nakshatra_ruler": "Venus",
       "template_House": 3,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Sambandha",
+      "deity": "Indra",
+      "semantic_function": "Possession, beauty, sensory rulership",
+      "vibhakti": "\u1e62a\u1e63\u1e6dh\u012b"
     },
     "Mars": {
       "longitude": 83.100344,
@@ -308,7 +360,11 @@
       "nakshatra": "Pushya",
       "nakshatra_ruler": "Saturn",
       "template_House": 5,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Karma",
+      "deity": "Agni",
+      "semantic_function": "Action, impulse, transformation",
+      "vibhakti": "Dvit\u012by\u0101"
     },
     "Jupiter": {
       "longitude": 288.760981,
@@ -318,7 +374,11 @@
       "nakshatra": "Shatabhisha",
       "nakshatra_ruler": "Rahu",
       "template_House": 12,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Samprad\u0101na",
+      "deity": "Yama",
+      "semantic_function": "Purpose, dharma, boundary",
+      "vibhakti": "Caturth\u012b"
     },
     "Saturn": {
       "longitude": 45.894058,
@@ -328,7 +388,11 @@
       "nakshatra": "Rohini",
       "nakshatra_ruler": "Mars",
       "template_House": 4,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Niyamaka",
+      "deity": "Shani / Yama",
+      "semantic_function": "Routing, delay, karmic modulation",
+      "vibhakti": "Karma-Sth\u0101na"
     },
     "Uranus": {
       "longitude": 282.609529,
@@ -368,7 +432,11 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "\u0100hva",
+      "deity": "Kubera",
+      "semantic_function": "Desire, invocation, expansion",
+      "vibhakti": "Sambodhana"
     },
     "Ketu": {
       "longitude": 133.191001,
@@ -378,7 +446,11 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Ap\u0101d\u0101na",
+      "deity": "Nir\u1e5bti",
+      "semantic_function": "Liberation, detachment, dissolution",
+      "vibhakti": "Pa\u00f1cam\u012b"
     },
     "Lilith": {
       "longitude": 349.630743,
@@ -444,8 +516,8 @@
       },
       "Jupiter": {
         "containment_logic": [
-          "containment breach",
-          "amplification"
+          "amplification",
+          "containment breach"
         ],
         "zone": 36,
         "house": 12
@@ -476,17 +548,17 @@
       },
       "Pluto": {
         "containment_logic": [
-          "amplification",
-          "semantic emergence"
+          "semantic emergence",
+          "amplification"
         ],
         "zone": 13,
         "house": 5
       },
       "Rahu": {
         "containment_logic": [
+          "semantic emergence",
           "expansion",
-          "volatility",
-          "semantic emergence"
+          "volatility"
         ],
         "zone": 2,
         "house": 1
@@ -494,8 +566,8 @@
       "Ketu": {
         "containment_logic": [
           "oppositional containment",
-          "volatility",
-          "softening"
+          "softening",
+          "volatility"
         ],
         "zone": 20,
         "house": 7
@@ -527,7 +599,11 @@
       "nakshatra": "Bharani",
       "nakshatra_ruler": "Venus",
       "template_House": 3,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kart\u0101",
+      "deity": "Varu\u1e47a",
+      "semantic_function": "Identity, rulership, cosmic law",
+      "vibhakti": "Pratham\u0101"
     },
     "Moon": {
       "longitude": 274.895484,
@@ -537,7 +613,11 @@
       "nakshatra": "Shravana",
       "nakshatra_ruler": "Moon",
       "template_House": 12,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Adhikara\u1e47a",
+      "deity": "V\u0101yu",
+      "semantic_function": "Emotion, fluctuation, experiential field",
+      "vibhakti": "Saptam\u012b"
     },
     "Mercury": {
       "longitude": 25.266258,
@@ -547,7 +627,11 @@
       "nakshatra": "Krittika",
       "nakshatra_ruler": "Sun",
       "template_House": 3,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kara\u1e47a",
+      "deity": "\u012a\u015b\u0101na",
+      "semantic_function": "Means, logic, semantic parsing",
+      "vibhakti": "T\u1e5bt\u012by\u0101"
     },
     "Venus": {
       "longitude": 336.292751,
@@ -557,7 +641,11 @@
       "nakshatra": "Uttarabhadrapada",
       "nakshatra_ruler": "Saturn",
       "template_House": 2,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Sambandha",
+      "deity": "Indra",
+      "semantic_function": "Possession, beauty, sensory rulership",
+      "vibhakti": "\u1e62a\u1e63\u1e6dh\u012b"
     },
     "Mars": {
       "longitude": 39.497351,
@@ -567,7 +655,11 @@
       "nakshatra": "Mrigashirsha",
       "nakshatra_ruler": "Moon",
       "template_House": 4,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Karma",
+      "deity": "Agni",
+      "semantic_function": "Action, impulse, transformation",
+      "vibhakti": "Dvit\u012by\u0101"
     },
     "Jupiter": {
       "longitude": 313.498879,
@@ -577,7 +669,11 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Samprad\u0101na",
+      "deity": "Yama",
+      "semantic_function": "Purpose, dharma, boundary",
+      "vibhakti": "Caturth\u012b"
     },
     "Saturn": {
       "longitude": 132.523233,
@@ -587,7 +683,11 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Niyamaka",
+      "deity": "Shani / Yama",
+      "semantic_function": "Routing, delay, karmic modulation",
+      "vibhakti": "Karma-Sth\u0101na"
     },
     "Uranus": {
       "longitude": 180.988036,
@@ -627,7 +727,11 @@
       "nakshatra": "Mrigashirsha",
       "nakshatra_ruler": "Moon",
       "template_House": 4,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "\u0100hva",
+      "deity": "Kubera",
+      "semantic_function": "Desire, invocation, expansion",
+      "vibhakti": "Sambodhana"
     },
     "Ketu": {
       "longitude": 217.423935,
@@ -637,7 +741,11 @@
       "nakshatra": "Jyeshta",
       "nakshatra_ruler": "Saturn",
       "template_House": 10,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Ap\u0101d\u0101na",
+      "deity": "Nir\u1e5bti",
+      "semantic_function": "Liberation, detachment, dissolution",
+      "vibhakti": "Pa\u00f1cam\u012b"
     },
     "Lilith": {
       "longitude": 137.104127,
@@ -671,16 +779,16 @@
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 34,
         "house": 12
       },
       "Mercury": {
         "containment_logic": [
-          "illumination",
-          "narrative branching"
+          "narrative branching",
+          "illumination"
         ],
         "zone": 9,
         "house": 3
@@ -695,16 +803,16 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
       },
       "Jupiter": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 2,
         "house": 1
@@ -719,43 +827,43 @@
       },
       "Uranus": {
         "containment_logic": [
+          "semantic emergence",
           "amplification",
-          "volatility",
-          "semantic emergence"
+          "volatility"
         ],
         "zone": 25,
         "house": 9
       },
       "Neptune": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
       },
       "Pluto": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
       },
       "Rahu": {
         "containment_logic": [
+          "dissolution",
           "containment breach",
-          "volatility",
-          "dissolution"
+          "volatility"
         ],
         "zone": 10,
         "house": 4
       },
       "Ketu": {
         "containment_logic": [
+          "semantic projection",
           "stabilization",
-          "volatility",
-          "semantic projection"
+          "volatility"
         ],
         "zone": 28,
         "house": 10
@@ -763,8 +871,8 @@
       "Lilith": {
         "containment_logic": [
           "oppositional containment",
-          "volatility",
-          "softening"
+          "softening",
+          "volatility"
         ],
         "zone": 20,
         "house": 7
@@ -787,7 +895,11 @@
       "nakshatra": "PurvaAshada",
       "nakshatra_ruler": "Venus",
       "template_House": 11,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kart\u0101",
+      "deity": "Varu\u1e47a",
+      "semantic_function": "Identity, rulership, cosmic law",
+      "vibhakti": "Pratham\u0101"
     },
     "Moon": {
       "longitude": 150.270104,
@@ -797,7 +909,11 @@
       "nakshatra": "Hasta",
       "nakshatra_ruler": "Moon",
       "template_House": 8,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Adhikara\u1e47a",
+      "deity": "V\u0101yu",
+      "semantic_function": "Emotion, fluctuation, experiential field",
+      "vibhakti": "Saptam\u012b"
     },
     "Mercury": {
       "longitude": 231.955298,
@@ -807,7 +923,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kara\u1e47a",
+      "deity": "\u012a\u015b\u0101na",
+      "semantic_function": "Means, logic, semantic parsing",
+      "vibhakti": "T\u1e5bt\u012by\u0101"
     },
     "Venus": {
       "longitude": 201.616995,
@@ -817,7 +937,11 @@
       "nakshatra": "Jyeshta",
       "nakshatra_ruler": "Saturn",
       "template_House": 9,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Sambandha",
+      "deity": "Indra",
+      "semantic_function": "Possession, beauty, sensory rulership",
+      "vibhakti": "\u1e62a\u1e63\u1e6dh\u012b"
     },
     "Mars": {
       "longitude": 277.818565,
@@ -827,7 +951,11 @@
       "nakshatra": "Shravana",
       "nakshatra_ruler": "Moon",
       "template_House": 12,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Karma",
+      "deity": "Agni",
+      "semantic_function": "Action, impulse, transformation",
+      "vibhakti": "Dvit\u012by\u0101"
     },
     "Jupiter": {
       "longitude": 195.780925,
@@ -837,7 +965,11 @@
       "nakshatra": "Vishaka",
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Samprad\u0101na",
+      "deity": "Yama",
+      "semantic_function": "Purpose, dharma, boundary",
+      "vibhakti": "Caturth\u012b"
     },
     "Saturn": {
       "longitude": 228.82679,
@@ -847,7 +979,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Niyamaka",
+      "deity": "Shani / Yama",
+      "semantic_function": "Routing, delay, karmic modulation",
+      "vibhakti": "Karma-Sth\u0101na"
     },
     "Uranus": {
       "longitude": 316.510963,
@@ -887,7 +1023,11 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "\u0100hva",
+      "deity": "Kubera",
+      "semantic_function": "Desire, invocation, expansion",
+      "vibhakti": "Sambodhana"
     },
     "Ketu": {
       "longitude": 131.185862,
@@ -897,7 +1037,11 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Ap\u0101d\u0101na",
+      "deity": "Nir\u1e5bti",
+      "semantic_function": "Liberation, detachment, dissolution",
+      "vibhakti": "Pa\u00f1cam\u012b"
     },
     "Lilith": {
       "longitude": 211.016543,
@@ -931,8 +1075,8 @@
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 22,
         "house": 8
@@ -955,16 +1099,16 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 34,
         "house": 12
       },
       "Jupiter": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 26,
         "house": 9
@@ -979,8 +1123,8 @@
       },
       "Uranus": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 2,
         "house": 1
@@ -1003,9 +1147,9 @@
       },
       "Rahu": {
         "containment_logic": [
+          "semantic emergence",
           "expansion",
-          "volatility",
-          "semantic emergence"
+          "volatility"
         ],
         "zone": 2,
         "house": 1
@@ -1013,17 +1157,17 @@
       "Ketu": {
         "containment_logic": [
           "oppositional containment",
-          "volatility",
-          "softening"
+          "softening",
+          "volatility"
         ],
         "zone": 20,
         "house": 7
       },
       "Lilith": {
         "containment_logic": [
+          "semantic projection",
           "stabilization",
-          "volatility",
-          "semantic projection"
+          "volatility"
         ],
         "zone": 28,
         "house": 10
@@ -1046,7 +1190,11 @@
       "nakshatra": "UttaraAshada",
       "nakshatra_ruler": "Sun",
       "template_House": 11,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kart\u0101",
+      "deity": "Varu\u1e47a",
+      "semantic_function": "Identity, rulership, cosmic law",
+      "vibhakti": "Pratham\u0101"
     },
     "Moon": {
       "longitude": 32.887039,
@@ -1056,7 +1204,11 @@
       "nakshatra": "Mrigashirsha",
       "nakshatra_ruler": "Moon",
       "template_House": 4,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Adhikara\u1e47a",
+      "deity": "V\u0101yu",
+      "semantic_function": "Emotion, fluctuation, experiential field",
+      "vibhakti": "Saptam\u012b"
     },
     "Mercury": {
       "longitude": 244.951932,
@@ -1066,7 +1218,11 @@
       "nakshatra": "PurvaAshada",
       "nakshatra_ruler": "Venus",
       "template_House": 11,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Kara\u1e47a",
+      "deity": "\u012a\u015b\u0101na",
+      "semantic_function": "Means, logic, semantic parsing",
+      "vibhakti": "T\u1e5bt\u012by\u0101"
     },
     "Venus": {
       "longitude": 222.813605,
@@ -1076,7 +1232,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Sambandha",
+      "deity": "Indra",
+      "semantic_function": "Possession, beauty, sensory rulership",
+      "vibhakti": "\u1e62a\u1e63\u1e6dh\u012b"
     },
     "Mars": {
       "longitude": 292.790752,
@@ -1086,7 +1246,11 @@
       "nakshatra": "Shatabhisha",
       "nakshatra_ruler": "Rahu",
       "template_House": 12,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Karma",
+      "deity": "Agni",
+      "semantic_function": "Action, impulse, transformation",
+      "vibhakti": "Dvit\u012by\u0101"
     },
     "Jupiter": {
       "longitude": 198.71038,
@@ -1096,7 +1260,11 @@
       "nakshatra": "Vishaka",
       "nakshatra_ruler": "Jupiter",
       "template_House": 9,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Samprad\u0101na",
+      "deity": "Yama",
+      "semantic_function": "Purpose, dharma, boundary",
+      "vibhakti": "Caturth\u012b"
     },
     "Saturn": {
       "longitude": 230.892172,
@@ -1106,7 +1274,11 @@
       "nakshatra": "Anuradha",
       "nakshatra_ruler": "Mercury",
       "template_House": 10,
-      "retrograde_status": "Direct"
+      "retrograde_status": "Direct",
+      "role": "Niyamaka",
+      "deity": "Shani / Yama",
+      "semantic_function": "Routing, delay, karmic modulation",
+      "vibhakti": "Karma-Sth\u0101na"
     },
     "Uranus": {
       "longitude": 317.181346,
@@ -1146,7 +1318,11 @@
       "nakshatra": "Purvabhadrapada",
       "nakshatra_ruler": "Jupiter",
       "template_House": 1,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "\u0100hva",
+      "deity": "Kubera",
+      "semantic_function": "Desire, invocation, expansion",
+      "vibhakti": "Sambodhana"
     },
     "Ketu": {
       "longitude": 130.179011,
@@ -1156,7 +1332,11 @@
       "nakshatra": "PurvaPhalguni",
       "nakshatra_ruler": "Venus",
       "template_House": 7,
-      "retrograde_status": "Retrograde"
+      "retrograde_status": "Retrograde",
+      "role": "Ap\u0101d\u0101na",
+      "deity": "Nir\u1e5bti",
+      "semantic_function": "Liberation, detachment, dissolution",
+      "vibhakti": "Pa\u00f1cam\u012b"
     },
     "Lilith": {
       "longitude": 213.130107,
@@ -1182,16 +1362,16 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "illumination",
-          "modular expansion"
+          "modular expansion",
+          "illumination"
         ],
         "zone": 33,
         "house": 11
       },
       "Moon": {
         "containment_logic": [
-          "containment breach",
-          "dissolution"
+          "dissolution",
+          "containment breach"
         ],
         "zone": 10,
         "house": 4
@@ -1214,16 +1394,16 @@
       },
       "Mars": {
         "containment_logic": [
-          "containment breach",
-          "amplification"
+          "amplification",
+          "containment breach"
         ],
         "zone": 36,
         "house": 12
       },
       "Jupiter": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 26,
         "house": 9
@@ -1238,8 +1418,8 @@
       },
       "Uranus": {
         "containment_logic": [
-          "expansion",
-          "semantic emergence"
+          "semantic emergence",
+          "expansion"
         ],
         "zone": 2,
         "house": 1
@@ -1262,9 +1442,9 @@
       },
       "Rahu": {
         "containment_logic": [
+          "semantic emergence",
           "expansion",
-          "volatility",
-          "semantic emergence"
+          "volatility"
         ],
         "zone": 2,
         "house": 1
@@ -1272,17 +1452,17 @@
       "Ketu": {
         "containment_logic": [
           "oppositional containment",
-          "volatility",
-          "softening"
+          "softening",
+          "volatility"
         ],
         "zone": 20,
         "house": 7
       },
       "Lilith": {
         "containment_logic": [
+          "semantic projection",
           "stabilization",
-          "volatility",
-          "semantic projection"
+          "volatility"
         ],
         "zone": 28,
         "house": 10

@@ -57,6 +57,7 @@ def update_planetary_json(planet_data, city):
         with open(json_path, "w") as f:
             json.dump(planetary, f, indent=2)
 
+
 # def wait_for_file_stability(wait_seconds=2):
 #     state = os.path.basename(utc_file).replace("utc_", "").replace(".csv", "")
 #     base_folder = os.path.dirname(utc_file)  # Extracts: data/regions/NorthAmerica/USA/Texas
@@ -68,6 +69,19 @@ def update_planetary_json(planet_data, city):
 #             break
 #         last_size = current_size
 #         time.sleep(wait_seconds)
+
+def enrich_roles_from_vibakthi(dallas_chart: dict, vibakthi_data: dict) -> dict:
+    vmap = vibakthi_data.get("framework", {}).get("vibhakti_mapping", [])
+    
+    for entry in vmap:
+        planet = entry["planet"]
+        if planet in dallas_chart:
+            dallas_chart[planet]["role"] = entry["role"]
+            dallas_chart[planet]["deity"] = entry["deity"]
+            dallas_chart[planet]["semantic_function"] = entry["semantic_function"]
+            dallas_chart[planet]["vibhakti"] = entry["vibhakti"]
+    
+    return dallas_chart
 
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
@@ -146,6 +160,8 @@ if __name__ == "__main__":
             planet_data["birth_choice"] = [{
                 "FoundingIntentCanonical": FoundingIntentCanonical
             }]
+            planet_data = enrich_roles_from_vibakthi(planet_data, vibakthi)
+            
             containment_enrichment = derive_containment(planet_data)
             planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
             # routed_chart = route_chart(planet_data, geometry_shapes, semantic_fractal_48)
