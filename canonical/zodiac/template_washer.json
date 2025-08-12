@@ -1,86 +1,65 @@
 {
-  "rings": {
-    "venus_core": {
-      "planet": "Venus",
-      "semantic_role": {
-        "city": "aesthetic sanctuary",
-        "family": "emotional sanctuary"
-      }
-    },
-    "sun_inner_ring": {
-      "planet": "Sun",
-      "semantic_role": {
-        "city": "civic authority",
-        "family": "authority figure"
-      }
-    },
-    "jupiter_band": {
-      "planet": "Jupiter",
-      "semantic_role": {
-        "city": "philosophical infrastructure",
-        "family": "elder wisdom"
-      }
-    },
-    "saturn_middle_ring": {
-      "planet": "Saturn",
-      "semantic_role": {
-        "city": "systemic stress",
-        "family": "inherited stress"
-      }
-    },
-    "mars_band": {
-      "planet": "Mars",
-      "semantic_role": {
-        "city": "transitional infrastructure",
-        "family": "sibling conflict"
-      }
-    },
-    "moon_outer_ring": {
-      "planet": "Moon",
-      "semantic_role": {
-        "city": "emotional periphery",
-        "family": "emotional field"
-      }
-    },
-    "mercury_field": {
-      "planet": "Mercury",
-      "semantic_role": {
-        "city": "semantic diffusion",
-        "family": "communication patterns"
-      }
-    },
-    "raghu_node": {
-      "planet": "Raghu",
-      "semantic_role": {
-        "city": "expansion pressure",
-        "family": "externalized karma"
-      }
-    },
-    "ketu_node": {
-      "planet": "Ketu",
-      "semantic_role": {
-        "city": "abstraction sink",
-        "family": "ancestral detachment"
-      }
-    }
+  "Sun": {
+    "washer_ring": "sun_inner_ring",
+    "washer_semantic_city_role": "civic authority",
+    "washer_semantic_family_role": "authority figure",
+    "washer_force": "ketu",
+    "washer_force_type": "inward abstraction"
   },
-  "abstract_forces": {
-    "ketu": {
-      "type": "inward abstraction",
-      "contains": ["venus_core", "sun_inner_ring", "jupiter_band", "ketu_node"]
-    },
-    "raghu": {
-      "type": "outward abstraction",
-      "contains": ["mars_band", "moon_outer_ring", "mercury_field", "raghu_node"]
-    },
-    "saturn": {
-      "type": "compression field",
-      "composite_of": ["ketu", "raghu"],
-      "semantic_role": {
-        "city": "systemic stress",
-        "family": "inherited stress"
-      },
-      "contains": ["saturn_middle_ring"]
-    }
+  "Moon": {
+    "washer_ring": "moon_outer_ring",
+    "washer_semantic_city_role": "emotional periphery",
+    "washer_semantic_family_role": "emotional field",
+    "washer_force": "raghu",
+    "washer_force_type": "outward abstraction"
+  },
+  "Mars": {
+    "washer_ring": "mars_band",
+    "washer_semantic_city_role": "transitional infrastructure",
+    "washer_semantic_family_role": "sibling conflict",
+    "washer_force": "raghu",
+    "washer_force_type": "outward abstraction"
+  },
+  "Mercury": {
+    "washer_ring": "mercury_field",
+    "washer_semantic_city_role": "semantic diffusion",
+    "washer_semantic_family_role": "communication patterns",
+    "washer_force": "raghu",
+    "washer_force_type": "outward abstraction"
+  },
+  "Jupiter": {
+    "washer_ring": "jupiter_band",
+    "washer_semantic_city_role": "philosophical infrastructure",
+    "washer_semantic_family_role": "elder wisdom",
+    "washer_force": "ketu",
+    "washer_force_type": "inward abstraction"
+  },
+  "Venus": {
+    "washer_ring": "venus_core",
+    "washer_semantic_city_role": "aesthetic sanctuary",
+    "washer_semantic_family_role": "emotional sanctuary",
+    "washer_force": "ketu",
+    "washer_force_type": "inward abstraction"
+  },
+  "Saturn": {
+    "washer_ring": "saturn_middle_ring",
+    "washer_semantic_city_role": "systemic stress",
+    "washer_semantic_family_role": "inherited stress",
+    "washer_force": "saturn",
+    "washer_force_type": "compression field"
+  },
+  "Raghu": {
+    "washer_ring": "raghu_node",
+    "washer_semantic_city_role": "expansion pressure",
+    "washer_semantic_family_role": "externalized karma",
+    "washer_force": "raghu",
+    "washer_force_type": "outward abstraction"
+  },
+  "Ketu": {
+    "washer_ring": "ketu_node",
+    "washer_semantic_city_role": "abstraction sink",
+    "washer_semantic_family_role": "ancestral detachment",
+    "washer_force": "ketu",
+    "washer_force_type": "inward abstraction"
   }
 }

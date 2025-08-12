@@ -18,7 +18,12 @@
       "civic_function": "Clarity",
       "civic_lineage": "Solar",
       "civic_opposite": "Labyrinth",
-      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility."
+      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
+      "washer_ring": "sun_inner_ring",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "civic authority",
+      "washer_semantic_family_role": "authority figure"
     },
     "Moon": {
       "longitude": 186.188251,
@@ -38,7 +43,12 @@
       "civic_function": "Containment",
       "civic_lineage": "Shaiva",
       "civic_opposite": "Crucible",
-      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias."
+      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
+      "washer_ring": "moon_outer_ring",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "emotional periphery",
+      "washer_semantic_family_role": "emotional field"
     },
     "Mercury": {
       "longitude": 337.763621,
@@ -58,7 +68,12 @@
       "civic_function": "Clarity",
       "civic_lineage": "Solar",
       "civic_opposite": "Labyrinth",
-      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions."
+      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
+      "washer_ring": "mercury_field",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "semantic diffusion",
+      "washer_semantic_family_role": "communication patterns"
     },
     "Venus": {
       "longitude": 285.723932,
@@ -78,7 +93,12 @@
       "civic_function": "Harmony",
       "civic_lineage": "Lakshmi–Bhargava",
       "civic_opposite": "Crucible",
-      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage."
+      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
+      "washer_ring": "venus_core",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "aesthetic sanctuary",
+      "washer_semantic_family_role": "emotional sanctuary"
     },
     "Mars": {
       "longitude": 313.483577,
@@ -98,7 +118,12 @@
       "civic_function": "Purification",
       "civic_lineage": "Agni",
       "civic_opposite": "Refuge",
-      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension."
+      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
+      "washer_ring": "mars_band",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "transitional infrastructure",
+      "washer_semantic_family_role": "sibling conflict"
     },
     "Jupiter": {
       "longitude": 88.74822,
@@ -118,7 +143,12 @@
       "civic_function": "Memory",
       "civic_lineage": "Vedic",
       "civic_opposite": "Crucible",
-      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives."
+      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
+      "washer_ring": "jupiter_band",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "philosophical infrastructure",
+      "washer_semantic_family_role": "elder wisdom"
     },
     "Saturn": {
       "longitude": 128.938333,
@@ -138,7 +168,12 @@
       "civic_function": "Containment",
       "civic_lineage": "Shaiva",
       "civic_opposite": "Crucible",
-      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage."
+      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
+      "washer_ring": "saturn_middle_ring",
+      "washer_force": "saturn",
+      "washer_force_type": "compression field",
+      "washer_semantic_city_role": "systemic stress",
+      "washer_semantic_family_role": "inherited stress"
     },
     "Uranus": {
       "longitude": 200.430086,
@@ -211,7 +246,12 @@
       "civic_function": "Purification",
       "civic_lineage": "Agni",
       "civic_opposite": "Refuge",
-      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts."
+      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
+      "washer_ring": "ketu_node",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "abstraction sink",
+      "washer_semantic_family_role": "ancestral detachment"
     },
     "Lilith": {
       "longitude": 107.517164,
@@ -244,8 +284,8 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "stabilization",
-          "semantic emergence"
+          "semantic emergence",
+          "stabilization"
         ],
         "zone": 3,
         "house": 1
@@ -260,16 +300,16 @@
       },
       "Mercury": {
         "containment_logic": [
-          "stabilization",
-          "semantic anchoring"
+          "semantic anchoring",
+          "stabilization"
         ],
         "zone": 4,
         "house": 2
       },
       "Venus": {
         "containment_logic": [
-          "assertion",
-          "containment breach"
+          "containment breach",
+          "assertion"
         ],
         "zone": 35,
         "house": 12
@@ -284,16 +324,16 @@
       },
       "Jupiter": {
         "containment_logic": [
-          "stabilization",
-          "semantic emergence"
+          "semantic emergence",
+          "stabilization"
         ],
         "zone": 15,
         "house": 5
       },
       "Saturn": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
+          "oppositional containment",
           "softening"
         ],
         "zone": 20,
@@ -318,17 +358,17 @@
       },
       "Pluto": {
         "containment_logic": [
-          "amplification",
+          "containment breach",
           "volatility",
-          "containment breach"
+          "amplification"
         ],
         "zone": 24,
         "house": 8
       },
       "Rahu": {
         "containment_logic": [
-          "oppositional containment",
           "volatility",
+          "oppositional containment",
           "softening"
         ],
         "zone": 20,
@@ -345,9 +385,9 @@
       },
       "Lilith": {
         "containment_logic": [
-          "healing crucible",
           "volatility",
-          "reflection"
+          "reflection",
+          "healing crucible"
         ],
         "zone": 17,
         "house": 6
@@ -380,7 +420,12 @@
       "civic_function": "Clarity",
       "civic_lineage": "Solar",
       "civic_opposite": "Labyrinth",
-      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility."
+      "civic_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
+      "washer_ring": "sun_inner_ring",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "civic authority",
+      "washer_semantic_family_role": "authority figure"
     },
     "Moon": {
       "longitude": 190.151967,
@@ -400,7 +445,12 @@
       "civic_function": "Containment",
       "civic_lineage": "Shaiva",
       "civic_opposite": "Crucible",
-      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias."
+      "civic_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
+      "washer_ring": "moon_outer_ring",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "emotional periphery",
+      "washer_semantic_family_role": "emotional field"
     },
     "Mercury": {
       "longitude": 65.328921,
@@ -420,7 +470,12 @@
       "civic_function": "Clarity",
       "civic_lineage": "Solar",
       "civic_opposite": "Labyrinth",
-      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions."
+      "civic_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
+      "washer_ring": "mercury_field",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "semantic diffusion",
+      "washer_semantic_family_role": "communication patterns"
     },
     "Venus": {
       "longitude": 42.250781,
@@ -440,7 +495,12 @@
       "civic_function": "Harmony",
       "civic_lineage": "Lakshmi–Bhargava",
       "civic_opposite": "Crucible",
-      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage."
+      "civic_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
+      "washer_ring": "venus_core",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "aesthetic sanctuary",
+      "washer_semantic_family_role": "emotional sanctuary"
     },
     "Mars": {
       "longitude": 312.809617,
@@ -460,7 +520,12 @@
       "civic_function": "Purification",
       "civic_lineage": "Agni",
       "civic_opposite": "Refuge",
-      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension."
+      "civic_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
+      "washer_ring": "mars_band",
+      "washer_force": "raghu",
+      "washer_force_type": "outward abstraction",
+      "washer_semantic_city_role": "transitional infrastructure",
+      "washer_semantic_family_role": "sibling conflict"
     },
     "Jupiter": {
       "longitude": 265.098178,
@@ -480,7 +545,12 @@
       "civic_function": "Memory",
       "civic_lineage": "Vedic",
       "civic_opposite": "Crucible",
-      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives."
+      "civic_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
+      "washer_ring": "jupiter_band",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "philosophical infrastructure",
+      "washer_semantic_family_role": "elder wisdom"
     },
     "Saturn": {
       "longitude": 270.00057,
@@ -500,7 +570,12 @@
       "civic_function": "Containment",
       "civic_lineage": "Shaiva",
       "civic_opposite": "Crucible",
-      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage."
+      "civic_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
+      "washer_ring": "saturn_middle_ring",
+      "washer_force": "saturn",
+      "washer_force_type": "compression field",
+      "washer_semantic_city_role": "systemic stress",
+      "washer_semantic_family_role": "inherited stress"
     },
     "Uranus": {
       "longitude": 7.166847,
@@ -573,7 +648,12 @@
       "civic_function": "Purification",
       "civic_lineage": "Agni",
       "civic_opposite": "Refuge",
-      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts."
+      "civic_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
+      "washer_ring": "ketu_node",
+      "washer_force": "ketu",
+      "washer_force_type": "inward abstraction",
+      "washer_semantic_city_role": "abstraction sink",
+      "washer_semantic_family_role": "ancestral detachment"
     },
     "Lilith": {
       "longitude": 342.131628,
@@ -606,8 +686,8 @@
     "containment_synthesis": {
       "Sun": {
         "containment_logic": [
-          "assertion",
-          "containment breach"
+          "containment breach",
+          "assertion"
         ],
         "zone": 11,
         "house": 4
@@ -630,9 +710,9 @@
       },
       "Venus": {
         "containment_logic": [
+          "containment breach",
           "assertion",
-          "volatility",
-          "containment breach"
+          "volatility"
         ],
         "zone": 11,
         "house": 4
@@ -647,9 +727,9 @@
       },
       "Jupiter": {
         "containment_logic": [
-          "modular expansion",
           "volatility",
-          "illumination"
+          "illumination",
+          "modular expansion"
         ],
         "zone": 33,
         "house": 11
@@ -657,16 +737,16 @@
       "Saturn": {
         "containment_logic": [
           "dissolution",
-          "volatility",
-          "containment breach"
+          "containment breach",
+          "volatility"
         ],
         "zone": 34,
         "house": 12
       },
       "Uranus": {
         "containment_logic": [
-          "narrative branching",
-          "softening"
+          "softening",
+          "narrative branching"
         ],
         "zone": 8,
         "house": 3
@@ -682,17 +762,17 @@
       "Pluto": {
         "containment_logic": [
           "volatility",
-          "softening",
-          "modular expansion"
+          "modular expansion",
+          "softening"
         ],
         "zone": 32,
         "house": 11
       },
       "Rahu": {
         "containment_logic": [
-          "amplification",
+          "containment breach",
           "volatility",
-          "containment breach"
+          "amplification"
         ],
         "zone": 12,
         "house": 4

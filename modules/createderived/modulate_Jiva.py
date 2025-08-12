@@ -108,31 +108,20 @@ def enrich_roles_from_civic_roles(dallas_chart: dict, civic_roles: dict) -> dict
             pdata["civic_description"] = role_info["description"]
     return dallas_chart
 
+import json
 
+def enrich_roles_from_template_washer(dallas_chart: dict, washer_roles: dict) -> dict:
+    for planet, pdata in dallas_chart.items():
+        if planet in washer_roles and isinstance(pdata, dict):
+            washer_info = washer_roles[planet]
+            pdata["washer_ring"] = washer_info.get("washer_ring")
+            pdata["washer_force"] = washer_info.get("washer_force")
+            pdata["washer_force_type"] = washer_info.get("washer_force_type")
 
-# def update_planetary_json(planet_data, name):
-#     jiva = os.path.basename(jiva_file).replace("utc_", "").replace(".csv", "")
-#     key = name
-#     base_folder = os.path.dirname(jiva_file)
-#     json_path = os.path.join(base_folder, f"incorp_{jiva}.json")
+            pdata["washer_semantic_city_role"] = washer_info.get("washer_semantic_city_role")
+            pdata["washer_semantic_family_role"] = washer_info.get("washer_semantic_family_role")
+    return dallas_chart
 
-#     # Load existing JSON safely
-#     planetary = {}
-#     if os.path.exists(json_path):
-#         try:
-#             with open(json_path, "r") as f:
-#                 content = f.read().strip()
-#                 if content:
-#                     planetary = json.loads(content)
-#         except json.JSONDecodeError:
-#             print(f"[WARN] JSON decode failed for {json_path}. Starting fresh.")
-
-#     # Update planetary data
-#     planetary[key] = planet_data
-
-#     # Write back to file
-#     with open(json_path, "w") as f:
-#         json.dump(planetary, f, indent=2)
 
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
@@ -168,6 +157,11 @@ if __name__ == "__main__":
     
     with open("canonical/roles/civic_roles.json", encoding="utf-8") as f:
         civic_roles = json.load(f)
+    
+    with open("canonical/zodiac/template_washer.json", encoding="utf-8") as f:
+        template_washer = json.load(f)
+    
+
 
 
     if not jivas:
@@ -202,6 +196,8 @@ if __name__ == "__main__":
             planet_data = enrich_roles_from_vibakthi(planet_data, vibakthi)
             # Enrich with civic roles
             planet_data = enrich_roles_from_civic_roles(planet_data, civic_roles)
+            # Enrich with template washer roles
+            planet_data = enrich_roles_from_template_washer(planet_data, template_washer)
 
             containment_enrichment = derive_containment(planet_data)
             planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
