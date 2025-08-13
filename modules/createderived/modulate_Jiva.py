@@ -6,6 +6,8 @@ import json
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
+from modules.geometry.flatten_city_data import flatten_city_data
+# from modules.geometry.enrich_geometry_sets_from_semantic_units import enrich_geometry_sets_from_semantic_units
 sys.stdout.reconfigure(encoding='utf-8')
 
 
@@ -159,6 +161,9 @@ if __name__ == "__main__":
     
     with open("canonical/zodiac/template_washer.json", encoding="utf-8") as f:
         template_washer = json.load(f)
+
+    with open("canonical/semantic/semantic_24_sets.json", encoding="utf-8") as f:
+        semantic_24_sets = json.load(f)
     
 
 
@@ -197,6 +202,9 @@ if __name__ == "__main__":
             planet_data = enrich_roles_from_civic_roles(planet_data, civic_roles)
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)
+            planet_data = flatten_city_data(planet_data)   
+            # Enrich with geometry sets from semantic units
+            # planet_data = enrich_geometry_sets_from_semantic_units(planet_data, semantic_24_sets)
 
             update_planetary_json(planet_data, name)
             # for body, info in planet_data.items():

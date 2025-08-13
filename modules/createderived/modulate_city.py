@@ -8,6 +8,8 @@ import json
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
+from modules.geometry.flatten_city_data import flatten_city_data
+# from modules.geometry.enrich_geometry_sets_from_semantic_units import enrich_geometry_sets_from_semantic_units
 # from modules.planetary_modulation.match_geometry import match_geometry
 # from modules.planetary_modulation.chart_router import route_chart
 # from modules.planetary_modulation.chart_decomposer import decompose_chart
@@ -194,6 +196,9 @@ if __name__ == "__main__":
             planet_data = enrich_roles_from_civic_roles(planet_data, civic_roles) 
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)   
+            planet_data = flatten_city_data(planet_data)   
+            # Enrich with geometry sets from semantic units
+            # planet_data = enrich_geometry_sets_from_semantic_units(planet_data, semantic_24_sets)
 
 
             # routed_chart = route_chart(planet_data, geometry_shapes, semantic_fractal_48)
