@@ -11,7 +11,7 @@
     "washer_ring": "moon_outer_ring",
     "washer_semantic_city_role": "emotional periphery",
     "washer_semantic_family_role": "emotional field",
-    "washer_force": "raghu",
+    "washer_force": "Rahu",
     "washer_number": 2,
     "washer_force_type": "outward abstraction"
   },
@@ -19,7 +19,7 @@
     "washer_ring": "mars_band",
     "washer_semantic_city_role": "transitional infrastructure",
     "washer_semantic_family_role": "sibling conflict",
-    "washer_force": "raghu",
+    "washer_force": "Rahu",
     "washer_number": 8,
     "washer_force_type": "outward abstraction"
   },
@@ -27,7 +27,7 @@
     "washer_ring": "mercury_field",
     "washer_semantic_city_role": "semantic diffusion",
     "washer_semantic_family_role": "communication patterns",
-    "washer_force": "raghu",
+    "washer_force": "Rahu",
     "washer_number": 5,
     "washer_force_type": "outward abstraction"
   },
@@ -55,11 +55,11 @@
     "washer_number": 9,
     "washer_force_type": "compression field"
   },
-  "Raghu": {
-    "washer_ring": "raghu_node",
+  "Rahu": {
+    "washer_ring": "Rahu_node",
     "washer_semantic_city_role": "expansion pressure",
     "washer_semantic_family_role": "externalized karma",
-    "washer_force": "raghu",
+    "washer_force": "Rahu",
     "washer_number": 6,
     "washer_force_type": "outward abstraction"
   },

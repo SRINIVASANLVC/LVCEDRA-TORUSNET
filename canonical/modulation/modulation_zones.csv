@@ -17,9 +17,9 @@ zone,sign,ruler,house,stage,start,end,nakshatra,nak_ruler,zodiac_number,containm
 16,Cancer,Moon,6,Initiate,90,100,Pushya,Saturn,13,healing crucible,Saturn gate
 17,Cancer,Moon,6,Sustain,100,117,Ashlesha,Mercury,13,healing crucible,Mercury veil
 18,Cancer,Moon,6,End,117,120,Magha,Ketu,13,healing crucible,Ketu shadow
-19,Leo,Raghu,7,Initiate,120,124,Magha,Ketu,4,oppositional containment,Ketu shadow
-20,Leo,Raghu,7,Sustain,124,144,PurvaPhalguni,Venus,4,oppositional containment,Venus mirror
-21,Leo,Raghu,7,End,144,150,UttaraPhalguni,Sun,4,oppositional containment,Solar blade
+19,Leo,Rahu,7,Initiate,120,124,Magha,Ketu,4,oppositional containment,Ketu shadow
+20,Leo,Rahu,7,Sustain,124,144,PurvaPhalguni,Venus,4,oppositional containment,Venus mirror
+21,Leo,Rahu,7,End,144,150,UttaraPhalguni,Sun,4,oppositional containment,Solar blade
 22,Virgo,Mercury,8,Initiate,150,160,Hasta,Moon,19,containment breach,Lunar echo
 23,Virgo,Mercury,8,Sustain,160,167,Chitra,Mars,19,containment breach,Mars forge
 24,Virgo,Mercury,8,End,167,180,Swathi,Rahu,19,containment breach,Rahu storm
