@@ -3,6 +3,11 @@
     "Sun": {
       "longitude": 285.458729,
       "planet_number": 12,
+      "planet_mythic_lineage": "Solar",
+      "planet_healing_bias": "Illumination",
+      "planet_civic_roles": "Beacon",
+      "planet_semantic_function": "Identity ignition",
+      "planet_role_description": "Projects radiant identity and initiates solar clarity",
       "zone": 35,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -11,6 +16,8 @@
       "template_House": 12,
       "modulation_stage": "Sustain",
       "zodiac_number": 8,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Mars forge",
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -30,6 +37,11 @@
     "Moon": {
       "longitude": 226.40185,
       "planet_number": 9,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Memory keeper",
+      "planet_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -38,6 +50,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -57,6 +71,11 @@
     "Mercury": {
       "longitude": 303.746404,
       "planet_number": 18,
+      "planet_mythic_lineage": "Vaishnava",
+      "planet_healing_bias": "Reflection",
+      "planet_civic_roles": "Messenger",
+      "planet_semantic_function": "Semantic mirror",
+      "planet_role_description": "Transmits and reflects meaning across modular boundaries",
       "zone": 1,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -65,6 +84,8 @@
       "template_House": 1,
       "modulation_stage": "Initiate",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "Ketu shadow",
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -84,6 +105,11 @@
     "Venus": {
       "longitude": 244.296976,
       "planet_number": 6,
+      "planet_mythic_lineage": "Shakti",
+      "planet_healing_bias": "Softening",
+      "planet_civic_roles": "Refuge",
+      "planet_semantic_function": "Relational harmonizer",
+      "planet_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -92,6 +118,8 @@
       "template_House": 11,
       "modulation_stage": "Sustain",
       "zodiac_number": 1,
+      "containment_flag": "modular expansion",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -111,6 +139,11 @@
     "Mars": {
       "longitude": 172.010169,
       "planet_number": 15,
+      "planet_mythic_lineage": "Agni",
+      "planet_healing_bias": "Purification",
+      "planet_civic_roles": "Crucible",
+      "planet_semantic_function": "Volitional spark",
+      "planet_role_description": "Forges action through conflict and purifies volitional force",
       "zone": 24,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -119,6 +152,8 @@
       "template_House": 8,
       "modulation_stage": "End",
       "zodiac_number": 19,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Rahu storm",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -138,6 +173,11 @@
     "Jupiter": {
       "longitude": 310.68078,
       "planet_number": 3,
+      "planet_mythic_lineage": "Brahmanic",
+      "planet_healing_bias": "Expansion",
+      "planet_civic_roles": "Temple",
+      "planet_semantic_function": "Wisdom anchor",
+      "planet_role_description": "Anchors mythic wisdom and expands civic coherence",
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -146,6 +186,8 @@
       "template_House": 1,
       "modulation_stage": "Sustain",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -165,6 +207,11 @@
     "Saturn": {
       "longitude": 56.577642,
       "planet_number": 21,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Boundary steward",
+      "planet_role_description": "Stabilizes structures through disciplined containment",
       "zone": 12,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -173,6 +220,8 @@
       "template_House": 4,
       "modulation_stage": "End",
       "zodiac_number": 11,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Rahu storm",
       "retrograde_status": "Retrograde",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -192,6 +241,11 @@
     "Rahu": {
       "longitude": 359.538867,
       "planet_number": 14,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Amplification",
+      "planet_civic_roles": "Disruptor",
+      "planet_semantic_function": "Shadow amplifier",
+      "planet_role_description": "Amplifies karmic residue and destabilizes normative flow",
       "zone": 6,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -200,6 +254,8 @@
       "template_House": 2,
       "modulation_stage": "End",
       "zodiac_number": 2,
+      "containment_flag": "semantic anchoring",
+      "mythic_tags": "Ketu shadow",
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -214,6 +270,11 @@
     "Ketu": {
       "longitude": 179.538867,
       "planet_number": 7,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Thinning",
+      "planet_civic_roles": "Transcendental Portal",
+      "planet_semantic_function": "Karmic veil",
+      "planet_role_description": "Opens outward paths to dissolution and spiritual abstraction",
       "zone": 24,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -222,6 +283,8 @@
       "template_House": 8,
       "modulation_stage": "End",
       "zodiac_number": 19,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Rahu storm",
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -241,6 +304,11 @@
     "Lilith": {
       "longitude": 145.220195,
       "planet_number": 0,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Reclamation",
+      "planet_civic_roles": "Exilic Portal",
+      "planet_semantic_function": "Shadow witness",
+      "planet_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
       "zone": 21,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -249,117 +317,25 @@
       "template_House": 7,
       "modulation_stage": "End",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Solar blade",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
       {
         "FoundingIntentCanonical": "Trade"
       }
-    ],
-    "geometry_enrichment": {
-      "hex_count": 0,
-      "modulation_type": "unknown",
-      "containment_flags": [],
-      "mythic_tags": []
-    },
-    "containment_synthesis": {
-      "Sun": {
-        "containment_logic": [
-          "containment breach",
-          "assertion"
-        ],
-        "zone": 35,
-        "house": 12
-      },
-      "Moon": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Mercury": {
-        "containment_logic": [
-          "semantic emergence",
-          "amplification"
-        ],
-        "zone": 1,
-        "house": 1
-      },
-      "Venus": {
-        "containment_logic": [
-          "modular expansion",
-          "softening"
-        ],
-        "zone": 32,
-        "house": 11
-      },
-      "Mars": {
-        "containment_logic": [
-          "amplification",
-          "containment breach"
-        ],
-        "zone": 24,
-        "house": 8
-      },
-      "Jupiter": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Saturn": {
-        "containment_logic": [
-          "volatility",
-          "amplification",
-          "containment breach"
-        ],
-        "zone": 12,
-        "house": 4
-      },
-      "Rahu": {
-        "containment_logic": [
-          "thinning",
-          "semantic anchoring",
-          "volatility"
-        ],
-        "zone": 6,
-        "house": 2
-      },
-      "Ketu": {
-        "containment_logic": [
-          "volatility",
-          "amplification",
-          "containment breach"
-        ],
-        "zone": 24,
-        "house": 8
-      },
-      "Lilith": {
-        "containment_logic": [
-          "illumination",
-          "volatility",
-          "oppositional containment"
-        ],
-        "zone": 21,
-        "house": 7
-      },
-      "birth_choice": {
-        "Ascendant": null,
-        "FoundingIntentCanonical": "Trade",
-        "SemanticDrift": null,
-        "HealingBias": null,
-        "MythicLineage": null
-      }
-    }
+    ]
   },
   "Dallas_Irving": {
     "Sun": {
       "longitude": 354.647174,
       "planet_number": 12,
+      "planet_mythic_lineage": "Solar",
+      "planet_healing_bias": "Illumination",
+      "planet_civic_roles": "Beacon",
+      "planet_semantic_function": "Identity ignition",
+      "planet_role_description": "Projects radiant identity and initiates solar clarity",
       "zone": 5,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -368,6 +344,8 @@
       "template_House": 2,
       "modulation_stage": "Sustain",
       "zodiac_number": 2,
+      "containment_flag": "semantic anchoring",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -387,6 +365,11 @@
     "Moon": {
       "longitude": 222.719921,
       "planet_number": 9,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Memory keeper",
+      "planet_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -395,6 +378,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -414,6 +399,11 @@
     "Mercury": {
       "longitude": 327.950396,
       "planet_number": 18,
+      "planet_mythic_lineage": "Vaishnava",
+      "planet_healing_bias": "Reflection",
+      "planet_civic_roles": "Messenger",
+      "planet_semantic_function": "Semantic mirror",
+      "planet_role_description": "Transmits and reflects meaning across modular boundaries",
       "zone": 3,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -422,6 +412,8 @@
       "template_House": 1,
       "modulation_stage": "End",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -441,6 +433,11 @@
     "Venus": {
       "longitude": 9.833749,
       "planet_number": 6,
+      "planet_mythic_lineage": "Shakti",
+      "planet_healing_bias": "Softening",
+      "planet_civic_roles": "Refuge",
+      "planet_semantic_function": "Relational harmonizer",
+      "planet_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
       "zone": 8,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -449,6 +446,8 @@
       "template_House": 3,
       "modulation_stage": "Sustain",
       "zodiac_number": 5,
+      "containment_flag": "narrative branching",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -468,6 +467,11 @@
     "Mars": {
       "longitude": 83.100344,
       "planet_number": 15,
+      "planet_mythic_lineage": "Agni",
+      "planet_healing_bias": "Purification",
+      "planet_civic_roles": "Crucible",
+      "planet_semantic_function": "Volitional spark",
+      "planet_role_description": "Forges action through conflict and purifies volitional force",
       "zone": 15,
       "sign": "Gemini",
       "sign_ruler": "Mercury",
@@ -476,6 +480,8 @@
       "template_House": 5,
       "modulation_stage": "End",
       "zodiac_number": 20,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -495,6 +501,11 @@
     "Jupiter": {
       "longitude": 288.760981,
       "planet_number": 3,
+      "planet_mythic_lineage": "Brahmanic",
+      "planet_healing_bias": "Expansion",
+      "planet_civic_roles": "Temple",
+      "planet_semantic_function": "Wisdom anchor",
+      "planet_role_description": "Anchors mythic wisdom and expands civic coherence",
       "zone": 36,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -503,6 +514,8 @@
       "template_House": 12,
       "modulation_stage": "End",
       "zodiac_number": 8,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Ketu shadow",
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -522,6 +535,11 @@
     "Saturn": {
       "longitude": 45.894058,
       "planet_number": 21,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Boundary steward",
+      "planet_role_description": "Stabilizes structures through disciplined containment",
       "zone": 11,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -530,6 +548,8 @@
       "template_House": 4,
       "modulation_stage": "Sustain",
       "zodiac_number": 11,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Mars forge",
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -549,6 +569,11 @@
     "Rahu": {
       "longitude": 313.191001,
       "planet_number": 14,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Amplification",
+      "planet_civic_roles": "Disruptor",
+      "planet_semantic_function": "Shadow amplifier",
+      "planet_role_description": "Amplifies karmic residue and destabilizes normative flow",
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -557,6 +582,8 @@
       "template_House": 1,
       "modulation_stage": "Sustain",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -571,6 +598,11 @@
     "Ketu": {
       "longitude": 133.191001,
       "planet_number": 7,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Thinning",
+      "planet_civic_roles": "Transcendental Portal",
+      "planet_semantic_function": "Karmic veil",
+      "planet_role_description": "Opens outward paths to dissolution and spiritual abstraction",
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -579,6 +611,8 @@
       "template_House": 7,
       "modulation_stage": "Sustain",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -598,6 +632,11 @@
     "Lilith": {
       "longitude": 349.630743,
       "planet_number": 0,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Reclamation",
+      "planet_civic_roles": "Exilic Portal",
+      "planet_semantic_function": "Shadow witness",
+      "planet_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
       "zone": 5,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -606,116 +645,25 @@
       "template_House": 2,
       "modulation_stage": "Sustain",
       "zodiac_number": 2,
+      "containment_flag": "semantic anchoring",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
       {
         "FoundingIntentCanonical": "Frontier"
       }
-    ],
-    "geometry_enrichment": {
-      "hex_count": 0,
-      "modulation_type": "unknown",
-      "containment_flags": [],
-      "mythic_tags": []
-    },
-    "containment_synthesis": {
-      "Sun": {
-        "containment_logic": [
-          "semantic anchoring",
-          "reflection"
-        ],
-        "zone": 5,
-        "house": 2
-      },
-      "Moon": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Mercury": {
-        "containment_logic": [
-          "semantic emergence",
-          "stabilization"
-        ],
-        "zone": 3,
-        "house": 1
-      },
-      "Venus": {
-        "containment_logic": [
-          "narrative branching",
-          "softening"
-        ],
-        "zone": 8,
-        "house": 3
-      },
-      "Mars": {
-        "containment_logic": [
-          "semantic emergence",
-          "stabilization"
-        ],
-        "zone": 15,
-        "house": 5
-      },
-      "Jupiter": {
-        "containment_logic": [
-          "amplification",
-          "containment breach"
-        ],
-        "zone": 36,
-        "house": 12
-      },
-      "Saturn": {
-        "containment_logic": [
-          "containment breach",
-          "assertion"
-        ],
-        "zone": 11,
-        "house": 4
-      },
-      "Rahu": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion",
-          "volatility"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Ketu": {
-        "containment_logic": [
-          "volatility",
-          "softening",
-          "oppositional containment"
-        ],
-        "zone": 20,
-        "house": 7
-      },
-      "Lilith": {
-        "containment_logic": [
-          "semantic anchoring",
-          "volatility",
-          "reflection"
-        ],
-        "zone": 5,
-        "house": 2
-      },
-      "birth_choice": {
-        "Ascendant": null,
-        "FoundingIntentCanonical": "Frontier",
-        "SemanticDrift": null,
-        "HealingBias": null,
-        "MythicLineage": null
-      }
-    }
+    ]
   },
   "Dallas_Garland": {
     "Sun": {
       "longitude": 12.41272,
       "planet_number": 12,
+      "planet_mythic_lineage": "Solar",
+      "planet_healing_bias": "Illumination",
+      "planet_civic_roles": "Beacon",
+      "planet_semantic_function": "Identity ignition",
+      "planet_role_description": "Projects radiant identity and initiates solar clarity",
       "zone": 8,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -724,6 +672,8 @@
       "template_House": 3,
       "modulation_stage": "Sustain",
       "zodiac_number": 5,
+      "containment_flag": "narrative branching",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -743,6 +693,11 @@
     "Moon": {
       "longitude": 274.895484,
       "planet_number": 9,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Memory keeper",
+      "planet_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
       "zone": 34,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -751,6 +706,8 @@
       "template_House": 12,
       "modulation_stage": "Initiate",
       "zodiac_number": 8,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -770,6 +727,11 @@
     "Mercury": {
       "longitude": 25.266258,
       "planet_number": 18,
+      "planet_mythic_lineage": "Vaishnava",
+      "planet_healing_bias": "Reflection",
+      "planet_civic_roles": "Messenger",
+      "planet_semantic_function": "Semantic mirror",
+      "planet_role_description": "Transmits and reflects meaning across modular boundaries",
       "zone": 9,
       "sign": "Aries",
       "sign_ruler": "Mars",
@@ -778,6 +740,8 @@
       "template_House": 3,
       "modulation_stage": "End",
       "zodiac_number": 5,
+      "containment_flag": "narrative branching",
+      "mythic_tags": "Solar blade",
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -797,6 +761,11 @@
     "Venus": {
       "longitude": 336.292751,
       "planet_number": 6,
+      "planet_mythic_lineage": "Shakti",
+      "planet_healing_bias": "Softening",
+      "planet_civic_roles": "Refuge",
+      "planet_semantic_function": "Relational harmonizer",
+      "planet_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
       "zone": 4,
       "sign": "Pisces",
       "sign_ruler": "Jupiter",
@@ -805,6 +774,8 @@
       "template_House": 2,
       "modulation_stage": "Initiate",
       "zodiac_number": 2,
+      "containment_flag": "semantic anchoring",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -824,6 +795,11 @@
     "Mars": {
       "longitude": 39.497351,
       "planet_number": 15,
+      "planet_mythic_lineage": "Agni",
+      "planet_healing_bias": "Purification",
+      "planet_civic_roles": "Crucible",
+      "planet_semantic_function": "Volitional spark",
+      "planet_role_description": "Forges action through conflict and purifies volitional force",
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -832,6 +808,8 @@
       "template_House": 4,
       "modulation_stage": "Initiate",
       "zodiac_number": 11,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -851,6 +829,11 @@
     "Jupiter": {
       "longitude": 313.498879,
       "planet_number": 3,
+      "planet_mythic_lineage": "Brahmanic",
+      "planet_healing_bias": "Expansion",
+      "planet_civic_roles": "Temple",
+      "planet_semantic_function": "Wisdom anchor",
+      "planet_role_description": "Anchors mythic wisdom and expands civic coherence",
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -859,6 +842,8 @@
       "template_House": 1,
       "modulation_stage": "Sustain",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -878,6 +863,11 @@
     "Saturn": {
       "longitude": 132.523233,
       "planet_number": 21,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Boundary steward",
+      "planet_role_description": "Stabilizes structures through disciplined containment",
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -886,6 +876,8 @@
       "template_House": 7,
       "modulation_stage": "Sustain",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -905,6 +897,11 @@
     "Rahu": {
       "longitude": 37.423935,
       "planet_number": 14,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Amplification",
+      "planet_civic_roles": "Disruptor",
+      "planet_semantic_function": "Shadow amplifier",
+      "planet_role_description": "Amplifies karmic residue and destabilizes normative flow",
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -913,6 +910,8 @@
       "template_House": 4,
       "modulation_stage": "Initiate",
       "zodiac_number": 11,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -927,6 +926,11 @@
     "Ketu": {
       "longitude": 217.423935,
       "planet_number": 7,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Thinning",
+      "planet_civic_roles": "Transcendental Portal",
+      "planet_semantic_function": "Karmic veil",
+      "planet_role_description": "Opens outward paths to dissolution and spiritual abstraction",
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -935,6 +939,8 @@
       "template_House": 10,
       "modulation_stage": "Initiate",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -954,6 +960,11 @@
     "Lilith": {
       "longitude": 137.104127,
       "planet_number": 0,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Reclamation",
+      "planet_civic_roles": "Exilic Portal",
+      "planet_semantic_function": "Shadow witness",
+      "planet_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -962,116 +973,25 @@
       "template_House": 7,
       "modulation_stage": "Sustain",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
       {
         "FoundingIntentCanonical": "Bastion"
       }
-    ],
-    "geometry_enrichment": {
-      "hex_count": 0,
-      "modulation_type": "unknown",
-      "containment_flags": [],
-      "mythic_tags": []
-    },
-    "containment_synthesis": {
-      "Sun": {
-        "containment_logic": [
-          "narrative branching",
-          "softening"
-        ],
-        "zone": 8,
-        "house": 3
-      },
-      "Moon": {
-        "containment_logic": [
-          "dissolution",
-          "containment breach"
-        ],
-        "zone": 34,
-        "house": 12
-      },
-      "Mercury": {
-        "containment_logic": [
-          "illumination",
-          "narrative branching"
-        ],
-        "zone": 9,
-        "house": 3
-      },
-      "Venus": {
-        "containment_logic": [
-          "semantic anchoring",
-          "stabilization"
-        ],
-        "zone": 4,
-        "house": 2
-      },
-      "Mars": {
-        "containment_logic": [
-          "dissolution",
-          "containment breach"
-        ],
-        "zone": 10,
-        "house": 4
-      },
-      "Jupiter": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Saturn": {
-        "containment_logic": [
-          "softening",
-          "oppositional containment"
-        ],
-        "zone": 20,
-        "house": 7
-      },
-      "Rahu": {
-        "containment_logic": [
-          "dissolution",
-          "volatility",
-          "containment breach"
-        ],
-        "zone": 10,
-        "house": 4
-      },
-      "Ketu": {
-        "containment_logic": [
-          "volatility",
-          "semantic projection",
-          "stabilization"
-        ],
-        "zone": 28,
-        "house": 10
-      },
-      "Lilith": {
-        "containment_logic": [
-          "volatility",
-          "softening",
-          "oppositional containment"
-        ],
-        "zone": 20,
-        "house": 7
-      },
-      "birth_choice": {
-        "Ascendant": null,
-        "FoundingIntentCanonical": "Bastion",
-        "SemanticDrift": null,
-        "HealingBias": null,
-        "MythicLineage": null
-      }
-    }
+    ]
   },
   "Austin": {
     "Sun": {
       "longitude": 248.130352,
       "planet_number": 12,
+      "planet_mythic_lineage": "Solar",
+      "planet_healing_bias": "Illumination",
+      "planet_civic_roles": "Beacon",
+      "planet_semantic_function": "Identity ignition",
+      "planet_role_description": "Projects radiant identity and initiates solar clarity",
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1080,6 +1000,8 @@
       "template_House": 11,
       "modulation_stage": "Sustain",
       "zodiac_number": 1,
+      "containment_flag": "modular expansion",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -1099,6 +1021,11 @@
     "Moon": {
       "longitude": 150.270104,
       "planet_number": 9,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Memory keeper",
+      "planet_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
       "zone": 22,
       "sign": "Virgo",
       "sign_ruler": "Mercury",
@@ -1107,6 +1034,8 @@
       "template_House": 8,
       "modulation_stage": "Initiate",
       "zodiac_number": 19,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -1126,6 +1055,11 @@
     "Mercury": {
       "longitude": 231.955298,
       "planet_number": 18,
+      "planet_mythic_lineage": "Vaishnava",
+      "planet_healing_bias": "Reflection",
+      "planet_civic_roles": "Messenger",
+      "planet_semantic_function": "Semantic mirror",
+      "planet_role_description": "Transmits and reflects meaning across modular boundaries",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1134,6 +1068,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -1153,6 +1089,11 @@
     "Venus": {
       "longitude": 201.616995,
       "planet_number": 6,
+      "planet_mythic_lineage": "Shakti",
+      "planet_healing_bias": "Softening",
+      "planet_civic_roles": "Refuge",
+      "planet_semantic_function": "Relational harmonizer",
+      "planet_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
       "zone": 27,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1161,6 +1102,8 @@
       "template_House": 9,
       "modulation_stage": "End",
       "zodiac_number": 16,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -1180,6 +1123,11 @@
     "Mars": {
       "longitude": 277.818565,
       "planet_number": 15,
+      "planet_mythic_lineage": "Agni",
+      "planet_healing_bias": "Purification",
+      "planet_civic_roles": "Crucible",
+      "planet_semantic_function": "Volitional spark",
+      "planet_role_description": "Forges action through conflict and purifies volitional force",
       "zone": 34,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -1188,6 +1136,8 @@
       "template_House": 12,
       "modulation_stage": "Initiate",
       "zodiac_number": 8,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -1207,6 +1157,11 @@
     "Jupiter": {
       "longitude": 195.780925,
       "planet_number": 3,
+      "planet_mythic_lineage": "Brahmanic",
+      "planet_healing_bias": "Expansion",
+      "planet_civic_roles": "Temple",
+      "planet_semantic_function": "Wisdom anchor",
+      "planet_role_description": "Anchors mythic wisdom and expands civic coherence",
       "zone": 26,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1215,6 +1170,8 @@
       "template_House": 9,
       "modulation_stage": "Sustain",
       "zodiac_number": 16,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -1234,6 +1191,11 @@
     "Saturn": {
       "longitude": 228.82679,
       "planet_number": 21,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Boundary steward",
+      "planet_role_description": "Stabilizes structures through disciplined containment",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1242,6 +1204,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -1261,6 +1225,11 @@
     "Rahu": {
       "longitude": 311.185862,
       "planet_number": 14,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Amplification",
+      "planet_civic_roles": "Disruptor",
+      "planet_semantic_function": "Shadow amplifier",
+      "planet_role_description": "Amplifies karmic residue and destabilizes normative flow",
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -1269,6 +1238,8 @@
       "template_House": 1,
       "modulation_stage": "Sustain",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -1283,6 +1254,11 @@
     "Ketu": {
       "longitude": 131.185862,
       "planet_number": 7,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Thinning",
+      "planet_civic_roles": "Transcendental Portal",
+      "planet_semantic_function": "Karmic veil",
+      "planet_role_description": "Opens outward paths to dissolution and spiritual abstraction",
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -1291,6 +1267,8 @@
       "template_House": 7,
       "modulation_stage": "Sustain",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -1310,6 +1288,11 @@
     "Lilith": {
       "longitude": 211.016543,
       "planet_number": 0,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Reclamation",
+      "planet_civic_roles": "Exilic Portal",
+      "planet_semantic_function": "Shadow witness",
+      "planet_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1318,116 +1301,25 @@
       "template_House": 10,
       "modulation_stage": "Initiate",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
       {
         "FoundingIntentCanonical": "Covenant"
       }
-    ],
-    "geometry_enrichment": {
-      "hex_count": 0,
-      "modulation_type": "unknown",
-      "containment_flags": [],
-      "mythic_tags": []
-    },
-    "containment_synthesis": {
-      "Sun": {
-        "containment_logic": [
-          "modular expansion",
-          "softening"
-        ],
-        "zone": 32,
-        "house": 11
-      },
-      "Moon": {
-        "containment_logic": [
-          "dissolution",
-          "containment breach"
-        ],
-        "zone": 22,
-        "house": 8
-      },
-      "Mercury": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Venus": {
-        "containment_logic": [
-          "semantic emergence",
-          "stabilization"
-        ],
-        "zone": 27,
-        "house": 9
-      },
-      "Mars": {
-        "containment_logic": [
-          "dissolution",
-          "containment breach"
-        ],
-        "zone": 34,
-        "house": 12
-      },
-      "Jupiter": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 26,
-        "house": 9
-      },
-      "Saturn": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Rahu": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion",
-          "volatility"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Ketu": {
-        "containment_logic": [
-          "volatility",
-          "softening",
-          "oppositional containment"
-        ],
-        "zone": 20,
-        "house": 7
-      },
-      "Lilith": {
-        "containment_logic": [
-          "volatility",
-          "semantic projection",
-          "stabilization"
-        ],
-        "zone": 28,
-        "house": 10
-      },
-      "birth_choice": {
-        "Ascendant": null,
-        "FoundingIntentCanonical": "Covenant",
-        "SemanticDrift": null,
-        "HealingBias": null,
-        "MythicLineage": null
-      }
-    }
+    ]
   },
   "Austin_Travis": {
     "Sun": {
       "longitude": 267.496837,
       "planet_number": 12,
+      "planet_mythic_lineage": "Solar",
+      "planet_healing_bias": "Illumination",
+      "planet_civic_roles": "Beacon",
+      "planet_semantic_function": "Identity ignition",
+      "planet_role_description": "Projects radiant identity and initiates solar clarity",
       "zone": 33,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1436,6 +1328,8 @@
       "template_House": 11,
       "modulation_stage": "End",
       "zodiac_number": 1,
+      "containment_flag": "modular expansion",
+      "mythic_tags": "Solar blade",
       "retrograde_status": "Direct",
       "role": "Kart\u0101",
       "deity": "Varu\u1e47a",
@@ -1455,6 +1349,11 @@
     "Moon": {
       "longitude": 32.887039,
       "planet_number": 9,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Memory keeper",
+      "planet_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
       "zone": 10,
       "sign": "Taurus",
       "sign_ruler": "Venus",
@@ -1463,6 +1362,8 @@
       "template_House": 4,
       "modulation_stage": "Initiate",
       "zodiac_number": 11,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Lunar echo",
       "retrograde_status": "Direct",
       "role": "Adhikara\u1e47a",
       "deity": "V\u0101yu",
@@ -1482,6 +1383,11 @@
     "Mercury": {
       "longitude": 244.951932,
       "planet_number": 18,
+      "planet_mythic_lineage": "Vaishnava",
+      "planet_healing_bias": "Reflection",
+      "planet_civic_roles": "Messenger",
+      "planet_semantic_function": "Semantic mirror",
+      "planet_role_description": "Transmits and reflects meaning across modular boundaries",
       "zone": 32,
       "sign": "Sagittarius",
       "sign_ruler": "Jupiter",
@@ -1490,6 +1396,8 @@
       "template_House": 11,
       "modulation_stage": "Sustain",
       "zodiac_number": 1,
+      "containment_flag": "modular expansion",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Direct",
       "role": "Kara\u1e47a",
       "deity": "\u012a\u015b\u0101na",
@@ -1509,6 +1417,11 @@
     "Venus": {
       "longitude": 222.813605,
       "planet_number": 6,
+      "planet_mythic_lineage": "Shakti",
+      "planet_healing_bias": "Softening",
+      "planet_civic_roles": "Refuge",
+      "planet_semantic_function": "Relational harmonizer",
+      "planet_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1517,6 +1430,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Sambandha",
       "deity": "Indra",
@@ -1536,6 +1451,11 @@
     "Mars": {
       "longitude": 292.790752,
       "planet_number": 15,
+      "planet_mythic_lineage": "Agni",
+      "planet_healing_bias": "Purification",
+      "planet_civic_roles": "Crucible",
+      "planet_semantic_function": "Volitional spark",
+      "planet_role_description": "Forges action through conflict and purifies volitional force",
       "zone": 36,
       "sign": "Capricorn",
       "sign_ruler": "Sun",
@@ -1544,6 +1464,8 @@
       "template_House": 12,
       "modulation_stage": "End",
       "zodiac_number": 8,
+      "containment_flag": "containment breach",
+      "mythic_tags": "Ketu shadow",
       "retrograde_status": "Direct",
       "role": "Karma",
       "deity": "Agni",
@@ -1563,6 +1485,11 @@
     "Jupiter": {
       "longitude": 198.71038,
       "planet_number": 3,
+      "planet_mythic_lineage": "Brahmanic",
+      "planet_healing_bias": "Expansion",
+      "planet_civic_roles": "Temple",
+      "planet_semantic_function": "Wisdom anchor",
+      "planet_role_description": "Anchors mythic wisdom and expands civic coherence",
       "zone": 26,
       "sign": "Libra",
       "sign_ruler": "Venus",
@@ -1571,6 +1498,8 @@
       "template_House": 9,
       "modulation_stage": "Sustain",
       "zodiac_number": 16,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Direct",
       "role": "Samprad\u0101na",
       "deity": "Yama",
@@ -1590,6 +1519,11 @@
     "Saturn": {
       "longitude": 230.892172,
       "planet_number": 21,
+      "planet_mythic_lineage": "Shaiva",
+      "planet_healing_bias": "Containment",
+      "planet_civic_roles": "Sanctum",
+      "planet_semantic_function": "Boundary steward",
+      "planet_role_description": "Stabilizes structures through disciplined containment",
       "zone": 29,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1598,6 +1532,8 @@
       "template_House": 10,
       "modulation_stage": "Sustain",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Mercury veil",
       "retrograde_status": "Direct",
       "role": "Niyamaka",
       "deity": "Shani / Yama",
@@ -1617,6 +1553,11 @@
     "Rahu": {
       "longitude": 310.179011,
       "planet_number": 14,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Amplification",
+      "planet_civic_roles": "Disruptor",
+      "planet_semantic_function": "Shadow amplifier",
+      "planet_role_description": "Amplifies karmic residue and destabilizes normative flow",
       "zone": 2,
       "sign": "Aquarius",
       "sign_ruler": "Ketu",
@@ -1625,6 +1566,8 @@
       "template_House": 1,
       "modulation_stage": "Sustain",
       "zodiac_number": 17,
+      "containment_flag": "semantic emergence",
+      "mythic_tags": "triple resonance",
       "retrograde_status": "Retrograde",
       "role": "\u0100hva",
       "deity": "Kubera",
@@ -1639,6 +1582,11 @@
     "Ketu": {
       "longitude": 130.179011,
       "planet_number": 7,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Thinning",
+      "planet_civic_roles": "Transcendental Portal",
+      "planet_semantic_function": "Karmic veil",
+      "planet_role_description": "Opens outward paths to dissolution and spiritual abstraction",
       "zone": 20,
       "sign": "Leo",
       "sign_ruler": "Raghu",
@@ -1647,6 +1595,8 @@
       "template_House": 7,
       "modulation_stage": "Sustain",
       "zodiac_number": 4,
+      "containment_flag": "oppositional containment",
+      "mythic_tags": "Venus mirror",
       "retrograde_status": "Retrograde",
       "role": "Ap\u0101d\u0101na",
       "deity": "Nir\u1e5bti",
@@ -1666,6 +1616,11 @@
     "Lilith": {
       "longitude": 213.130107,
       "planet_number": 0,
+      "planet_mythic_lineage": "Chthonic",
+      "planet_healing_bias": "Reclamation",
+      "planet_civic_roles": "Exilic Portal",
+      "planet_semantic_function": "Shadow witness",
+      "planet_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
       "zone": 28,
       "sign": "Scorpio",
       "sign_ruler": "Mars",
@@ -1674,110 +1629,14 @@
       "template_House": 10,
       "modulation_stage": "Initiate",
       "zodiac_number": 10,
+      "containment_flag": "semantic projection",
+      "mythic_tags": "Saturn gate",
       "retrograde_status": "Retrograde"
     },
     "birth_choice": [
       {
         "FoundingIntentCanonical": "Witness"
       }
-    ],
-    "geometry_enrichment": {
-      "hex_count": 0,
-      "modulation_type": "unknown",
-      "containment_flags": [],
-      "mythic_tags": []
-    },
-    "containment_synthesis": {
-      "Sun": {
-        "containment_logic": [
-          "modular expansion",
-          "illumination"
-        ],
-        "zone": 33,
-        "house": 11
-      },
-      "Moon": {
-        "containment_logic": [
-          "dissolution",
-          "containment breach"
-        ],
-        "zone": 10,
-        "house": 4
-      },
-      "Mercury": {
-        "containment_logic": [
-          "modular expansion",
-          "softening"
-        ],
-        "zone": 32,
-        "house": 11
-      },
-      "Venus": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Mars": {
-        "containment_logic": [
-          "amplification",
-          "containment breach"
-        ],
-        "zone": 36,
-        "house": 12
-      },
-      "Jupiter": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion"
-        ],
-        "zone": 26,
-        "house": 9
-      },
-      "Saturn": {
-        "containment_logic": [
-          "reflection",
-          "semantic projection"
-        ],
-        "zone": 29,
-        "house": 10
-      },
-      "Rahu": {
-        "containment_logic": [
-          "semantic emergence",
-          "expansion",
-          "volatility"
-        ],
-        "zone": 2,
-        "house": 1
-      },
-      "Ketu": {
-        "containment_logic": [
-          "volatility",
-          "softening",
-          "oppositional containment"
-        ],
-        "zone": 20,
-        "house": 7
-      },
-      "Lilith": {
-        "containment_logic": [
-          "volatility",
-          "semantic projection",
-          "stabilization"
-        ],
-        "zone": 28,
-        "house": 10
-      },
-      "birth_choice": {
-        "Ascendant": null,
-        "FoundingIntentCanonical": "Witness",
-        "SemanticDrift": null,
-        "HealingBias": null,
-        "MythicLineage": null
-      }
-    }
+    ]
   }
 }

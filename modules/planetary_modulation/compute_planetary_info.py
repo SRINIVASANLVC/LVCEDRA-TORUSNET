@@ -73,7 +73,9 @@ def get_zone_info(longitude, zones):
                 "nakshatra_ruler": zone["nak_ruler"],
                 "template_House": zone["house"],
                 'modulation_stage': zone["stage"],
-                'zodiac_number': zone["zodiac_number"]
+                'zodiac_number': zone["zodiac_number"],
+                'containment_flag': zone["containment_flag"],
+                'mythic_tags': zone["mythic_tags"]
             }
     return None  # if no match found
 
@@ -142,7 +144,7 @@ def compute_planetary_info(utc_time, modulation_zones):
     sun_longitude = ecl.lon * (180.0 / pi) - ayanamsa
     sun_zone = get_zone_info(sun_longitude, modulation_zones)["zone"]          
 
-    for body, planet_number in bodies:
+    for body, planet_number, mythic_lineage, healing_bias, civic_roles, semantic_function, role_description in bodies:
         lon = get_sidereal_longitude(body, utc_time, ayanamsa)
         zone_data = get_zone_info(lon, modulation_zones)
         planet_zone = zone_data["zone"]
@@ -153,6 +155,11 @@ def compute_planetary_info(utc_time, modulation_zones):
         planet_info[body] = {
             "longitude": lon,
             "planet_number": planet_number,
+            "planet_mythic_lineage": mythic_lineage,
+            "planet_healing_bias": healing_bias,
+            "planet_civic_roles": civic_roles,
+            "planet_semantic_function": semantic_function,
+            "planet_role_description": role_description,
             **zone_data,
             "retrograde_status": retrograde_status
         }

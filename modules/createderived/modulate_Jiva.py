@@ -6,7 +6,6 @@ import json
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
-from modules.planetary_modulation.derive_containment import derive_containment
 sys.stdout.reconfigure(encoding='utf-8')
 
 
@@ -199,8 +198,6 @@ if __name__ == "__main__":
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)
 
-            containment_enrichment = derive_containment(planet_data)
-            planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
             update_planetary_json(planet_data, name)
             # for body, info in planet_data.items():
             #     print(f"{body}: {info['longitude']}°, Direction: {info['retrograde_status']}, {info}")

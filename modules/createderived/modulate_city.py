@@ -11,7 +11,6 @@ from modules.planetary_modulation.compute_planetary_info import compute_planetar
 # from modules.planetary_modulation.match_geometry import match_geometry
 # from modules.planetary_modulation.chart_router import route_chart
 # from modules.planetary_modulation.chart_decomposer import decompose_chart
-from modules.planetary_modulation.derive_containment import derive_containment
 
 
 from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
@@ -196,8 +195,7 @@ if __name__ == "__main__":
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)   
 
-            containment_enrichment = derive_containment(planet_data)
-            planet_data["containment_synthesis"] = containment_enrichment["containment_synthesis"]
+
             # routed_chart = route_chart(planet_data, geometry_shapes, semantic_fractal_48)
             # print(f"[DEBUG] Routed Chart: {routed_chart}")
             # decomposed = decompose_chart(routed_chart, composite_configurations)

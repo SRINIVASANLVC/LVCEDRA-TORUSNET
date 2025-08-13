@@ -1,11 +1,11 @@
-body_name,planet_number
-Sun,12
-Moon,9
-Mercury,18
-Venus,6
-Mars,15
-Jupiter,3
-Saturn,21
-Rahu,14
-Ketu,7
-Lilith,0
+body_name,planet_number,mythic_lineage,healing_bias,civic_roles,semantic_function,role_description
+Sun,12,Solar,Illumination,Beacon,Identity ignition,Projects radiant identity and initiates solar clarity
+Moon,9,Shaiva,Containment,Sanctum,Memory keeper,Holds cyclical memory and emotional resonance within lunar sanctum
+Mercury,18,Vaishnava,Reflection,Messenger,Semantic mirror,Transmits and reflects meaning across modular boundaries
+Venus,6,Shakti,Softening,Refuge,Relational harmonizer,Offers aesthetic refuge and harmonizes emotional bonds
+Mars,15,Agni,Purification,Crucible,Volitional spark,Forges action through conflict and purifies volitional force
+Jupiter,3,Brahmanic,Expansion,Temple,Wisdom anchor,Anchors mythic wisdom and expands civic coherence
+Saturn,21,Shaiva,Containment,Sanctum,Boundary steward,Stabilizes structures through disciplined containment
+Rahu,14,Chthonic,Amplification,Disruptor,Shadow amplifier,Amplifies karmic residue and destabilizes normative flow
+Ketu,7,Chthonic,Thinning,Transcendental Portal,Karmic veil,Opens outward paths to dissolution and spiritual abstraction
+Lilith,0,Chthonic,Reclamation,Exilic Portal,Shadow witness,Opens inward thresholds to shadow memory and mythic refusal
