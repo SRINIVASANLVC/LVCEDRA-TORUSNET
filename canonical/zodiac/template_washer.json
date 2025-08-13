@@ -4,6 +4,7 @@
     "washer_semantic_city_role": "civic authority",
     "washer_semantic_family_role": "authority figure",
     "washer_force": "ketu",
+    "washer_number": 1,
     "washer_force_type": "inward abstraction"
   },
   "Moon": {
@@ -11,6 +12,7 @@
     "washer_semantic_city_role": "emotional periphery",
     "washer_semantic_family_role": "emotional field",
     "washer_force": "raghu",
+    "washer_number": 2,
     "washer_force_type": "outward abstraction"
   },
   "Mars": {
@@ -18,6 +20,7 @@
     "washer_semantic_city_role": "transitional infrastructure",
     "washer_semantic_family_role": "sibling conflict",
     "washer_force": "raghu",
+    "washer_number": 8,
     "washer_force_type": "outward abstraction"
   },
   "Mercury": {
@@ -25,6 +28,7 @@
     "washer_semantic_city_role": "semantic diffusion",
     "washer_semantic_family_role": "communication patterns",
     "washer_force": "raghu",
+    "washer_number": 5,
     "washer_force_type": "outward abstraction"
   },
   "Jupiter": {
@@ -32,6 +36,7 @@
     "washer_semantic_city_role": "philosophical infrastructure",
     "washer_semantic_family_role": "elder wisdom",
     "washer_force": "ketu",
+    "washer_number": 4,
     "washer_force_type": "inward abstraction"
   },
   "Venus": {
@@ -39,6 +44,7 @@
     "washer_semantic_city_role": "aesthetic sanctuary",
     "washer_semantic_family_role": "emotional sanctuary",
     "washer_force": "ketu",
+    "washer_number": 7,
     "washer_force_type": "inward abstraction"
   },
   "Saturn": {
@@ -46,6 +52,7 @@
     "washer_semantic_city_role": "systemic stress",
     "washer_semantic_family_role": "inherited stress",
     "washer_force": "saturn",
+    "washer_number": 9,
     "washer_force_type": "compression field"
   },
   "Raghu": {
@@ -53,6 +60,7 @@
     "washer_semantic_city_role": "expansion pressure",
     "washer_semantic_family_role": "externalized karma",
     "washer_force": "raghu",
+    "washer_number": 6,
     "washer_force_type": "outward abstraction"
   },
   "Ketu": {
@@ -60,6 +68,7 @@
     "washer_semantic_city_role": "abstraction sink",
     "washer_semantic_family_role": "ancestral detachment",
     "washer_force": "ketu",
+    "washer_number": 3,
     "washer_force_type": "inward abstraction"
   }
 }

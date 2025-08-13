@@ -7,15 +7,10 @@ import json
 
 import os
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..')))
+from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
 from modules.planetary_modulation.compute_planetary_info import compute_planetary_info
 from modules.geometry.flatten_city_data import flatten_city_data
-# from modules.geometry.enrich_geometry_sets_from_semantic_units import enrich_geometry_sets_from_semantic_units
-# from modules.planetary_modulation.match_geometry import match_geometry
-# from modules.planetary_modulation.chart_router import route_chart
-# from modules.planetary_modulation.chart_decomposer import decompose_chart
 
-
-from modules.planetary_modulation.load_modulation_zones import load_modulation_zones
 
 
 def load_utc_file(filepath, target_city=None):
@@ -103,7 +98,7 @@ def enrich_roles_from_template_washer(dallas_chart: dict, washer_roles: dict) ->
             pdata["washer_ring"] = washer_info.get("washer_ring")
             pdata["washer_force"] = washer_info.get("washer_force")
             pdata["washer_force_type"] = washer_info.get("washer_force_type")
-
+            pdata["washer_number"] = washer_info.get("washer_number")
             pdata["washer_semantic_city_role"] = washer_info.get("washer_semantic_city_role")
             pdata["washer_semantic_family_role"] = washer_info.get("washer_semantic_family_role")
     return dallas_chart
@@ -118,8 +113,6 @@ def trace_all_variables():
     for name, val in globals().items():
         if not name.startswith("__") and not callable(val):
             print(f"{name} = {val} ({type(val).__name__})")
-
-
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
@@ -138,7 +131,6 @@ if __name__ == "__main__":
 
     cities = load_utc_file(utc_file, target_city)
     modulation_zones = load_modulation_zones()
-
 
 #     {
 #   "001": {
@@ -180,6 +172,9 @@ if __name__ == "__main__":
     with open("canonical/semantic/semantic_24_sets.json", encoding="utf-8") as f:
         semantic_24_sets = json.load(f)
 
+    with open("canonical/modulation/aspectual_router.json", encoding="utf-8") as f:
+        aspectual_router = json.load(f)
+
     if not cities:
         print("[WARN] No valid cities found.")
     else:
@@ -196,7 +191,9 @@ if __name__ == "__main__":
             planet_data = enrich_roles_from_civic_roles(planet_data, civic_roles) 
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)   
-            planet_data = flatten_city_data(planet_data)   
+            planet_data = flatten_city_data(planet_data)  
+            # Validate Yod overlay
+            # planet_data = validate_yod_overlay(planet_data, aspectual_router) 
             # Enrich with geometry sets from semantic units
             # planet_data = enrich_geometry_sets_from_semantic_units(planet_data, semantic_24_sets)
 

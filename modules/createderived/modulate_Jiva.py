@@ -118,7 +118,7 @@ def enrich_roles_from_template_washer(dallas_chart: dict, washer_roles: dict) ->
             pdata["washer_ring"] = washer_info.get("washer_ring")
             pdata["washer_force"] = washer_info.get("washer_force")
             pdata["washer_force_type"] = washer_info.get("washer_force_type")
-
+            pdata["washer_number"] = washer_info.get("washer_number")
             pdata["washer_semantic_city_role"] = washer_info.get("washer_semantic_city_role")
             pdata["washer_semantic_family_role"] = washer_info.get("washer_semantic_family_role")
     return dallas_chart

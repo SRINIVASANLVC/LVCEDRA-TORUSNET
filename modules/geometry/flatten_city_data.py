@@ -52,7 +52,7 @@ def flatten_city_data(city_data: dict) -> dict:
         # Washer fields — default to "N/A" if missing
         washer_fields = [
             "washer_ring", "washer_force", "washer_force_type",
-            "washer_semantic_city_role", "washer_semantic_family_role"
+            "washer_semantic_city_role", "washer_semantic_family_role" , "washer_number"
         ]
         for wf in washer_fields:
             flattened[f"{wf.replace('washer_', 'washer_' + prefix + '_')}"] = get(wf)
