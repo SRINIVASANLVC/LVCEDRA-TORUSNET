@@ -1,0 +1,19 @@
+{   
+    "CompletionEngine": 
+    {   "Triangle1": { "Name": "Fusion", "Zones": [26, 12, 25], "LinkedZone": 27 }, 
+        "Triangle2": { "Name": "Fluidity", "Zones": [10, 21, 18], "LinkedZone": 35 }, 
+         "CentralIdea": 34 }, 
+    "MotionEngine": 
+    {   "Triangle1": { "Name": "Containment", "Zones": [23, 11, 14], "LinkedZone": 8 }, 
+        "Triangle2": { "Name": "Feeling", "Zones": [3, 17, 5], "LinkedZone": 29 }, 
+         "CentralIdea": 32 }, 
+    "DissolveEngine": 
+    {   "Triangle1": { "Name": "Synthesis", "Zones": [30, 9, 15], "LinkedZone": 6 }, 
+        "Triangle2": { "Name": "Mystery", "Zones": [2, 20, 30], "LinkedZone": 33 }, 
+        "CentralIdea": 36 }, 
+    "SparkEngine": 
+    {   "Triangle1": { "Name": "Ignition", "Zones": [22, 16, 13], "LinkedZone": 1 }, 
+        "Triangle2": { "Name": "Reflection", "Zones": [7, 19, 4], "LinkedZone": 28 }, 
+        "CentralIdea": 31 }, 
+    "OverallCentralIdea": "Epistemic Closure through Semantic Geometry" 
+}

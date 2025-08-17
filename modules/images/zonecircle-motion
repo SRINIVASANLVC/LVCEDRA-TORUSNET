@@ -1,0 +1,64 @@
+import matplotlib.pyplot as plt
+import numpy as np
+
+# Zone labels (counter-clockwise starting from 01 Spark at East)
+zones = [
+    "01 Spark", "02 Form", "03 Motion", "04 Mirror", "05 Friction", "06 Merge",
+    "07 Surge", "08 Contain", "09 Radiate", "10 Depth", "11 Shift", "12 Settle",
+    "13 Wonder", "14 Focus", "15 Invent", "16 Dissect", "17 Weave", "18 Retreat",
+    "19 Reach", "20 Anchor", "21 Reveal", "22 Push", "23 Balance", "24 Break",
+    "25 Insight", "26 Clash", "27 Fuse", "28 Step Back", "29 Feel", "30 Assert",
+    "31 Open", "32 See", "33 Unknown", "34 Aim", "35 Waver", "36 Dissolve"
+]
+
+# Compute angles for each zone (counter-clockwise)
+num_zones = len(zones)
+angles = np.linspace(0, 2*np.pi, num_zones, endpoint=False)
+
+# Create figure
+fig, ax = plt.subplots(figsize=(10, 10))
+ax.set_xlim(-1.3, 1.3)
+ax.set_ylim(-1.3, 1.3)
+ax.set_aspect('equal')
+ax.axis('off')
+
+# Plot zone labels
+for i, zone in enumerate(zones):
+    angle = angles[i]
+    x, y = np.cos(angle), np.sin(angle)
+    ax.text(x * 1.1, y * 1.1, zone, ha='center', va='center', fontsize=8)
+
+# Function to draw triangle
+def draw_triangle(indices, color, label):
+    coords = [(np.cos(angles[i]), np.sin(angles[i])) for i in indices]
+    triangle = plt.Polygon(coords, closed=True, fill=False, edgecolor=color, linewidth=2)
+    ax.add_patch(triangle)
+    # Label at centroid
+    cx = np.mean([c[0] for c in coords])
+    cy = np.mean([c[1] for c in coords])
+    ax.text(cx, cy, label, color=color, fontsize=10, fontweight='bold')
+
+# Triangle 1: Containment (11 Shift, 23 Balance, 14 Focus)
+draw_triangle([10, 22, 13], 'orange', 'Containment')
+
+# Highlight 08 Contain
+contain_index = 7
+x, y = np.cos(angles[contain_index]), np.sin(angles[contain_index])
+ax.plot(x, y, 'o', color='orange', markersize=10)
+
+# Triangle 2: Feeling (03 Motion, 17 Weave, 05 Friction)
+draw_triangle([2, 16, 4], 'blue', 'Feeling')
+
+# Highlight 29 Feel
+feel_index = 28
+x, y = np.cos(angles[feel_index]), np.sin(angles[feel_index])
+ax.plot(x, y, 'o', color='blue', markersize=10)
+
+# Emphasize Zone 32 See
+see_index = 31
+x, y = np.cos(angles[see_index]), np.sin(angles[see_index])
+ax.text(x * 1.1, y * 1.1, zones[see_index], fontsize=10, fontweight='bold', color='darkred')
+
+# Save image
+plt.savefig("semantic_triangles_around_32_see.png", dpi=300)
+plt.show()
