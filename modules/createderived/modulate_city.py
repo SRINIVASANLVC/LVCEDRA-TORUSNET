@@ -209,29 +209,92 @@ def regroup_engines(city_flat_data: dict) -> dict:
 
     return engines
 
-def enrich_engine_map_with_overlays(engine_map, semantic_unit_matches, geometry_matches):
-    # Build reverse lookup maps
-    semantic_lookup = {}
-    for unit in semantic_unit_matches:
-        for num in unit["matched_numbers"]:
-            semantic_lookup.setdefault(num, []).append(unit["unit_id"])
-
-    geometry_lookup = {}
+def build_engine_geometry_enrichment(engine_map, geometry_matches):
+    geom_lookup = {}
     for geom in geometry_matches:
-        for num in geom["matched_numbers"]:
-            geometry_lookup.setdefault(num, []).append({
+        for num in geom.get("matched_numbers", []):
+            geom_lookup.setdefault(num, []).append({
                 "geometry_id": geom["geometry_id"],
-                "semantic_role": geom["semantic_role"]
+                "semantic_role": geom.get("semantic_role", "")
             })
 
-    # Enrich each planet in each engine
+    engine_geometry = {}
     for engine_name, planets in engine_map.items():
-        for planet_name, planet_data in planets.items():
-            pnum = planet_data.get("planet_number")
-            planet_data["semantic_units"] = semantic_lookup.get(pnum, [])
-            planet_data["geometry_roles"] = geometry_lookup.get(pnum, [])
+        contributions = {}
+        for planet_name, pdata in planets.items():
+            pnum = pdata.get("planet_number")
+            for geom in geom_lookup.get(pnum, []):
+                gid = geom["geometry_id"]
+                role = geom["semantic_role"]
+                contributions.setdefault(gid, set()).add(role)
+
+        engine_geometry[engine_name] = {
+            gid: "; ".join(sorted(roles))
+            for gid, roles in contributions.items()
+        }
+
+    return engine_geometry
+
+def build_engine_semantic_enrichment(engine_map, semantic_unit_matches):
+    semantic_lookup = {}
+    for unit in semantic_unit_matches:
+        for num in unit.get("matched_numbers", []):
+            semantic_lookup.setdefault(num, []).append(unit["unit_id"])
+
+    engine_semantic = {}
+    for engine_name, planets in engine_map.items():
+        unit_ids = set()
+        for planet_name, pdata in planets.items():
+            pnum = pdata.get("planet_number")
+            unit_ids.update(semantic_lookup.get(pnum, []))
+        engine_semantic[engine_name] = sorted(unit_ids)
+
+    return engine_semantic
+
+def enrich_engine_map_with_overlays(engine_map, semantic_unit_matches, geometry_matches):
+    geometry_enrichment = build_engine_geometry_enrichment(engine_map, geometry_matches)
+    semantic_enrichment = build_engine_semantic_enrichment(engine_map, semantic_unit_matches)
+
+    for engine_name, planets in engine_map.items():
+        for planet_name in planets:
+            planets[planet_name].pop("geometry_roles", None)
+            planets[planet_name].pop("semantic_units", None)
+
+        planets["geometry_enrichment"] = geometry_enrichment.get(engine_name, {})
+        planets["semantic_unit_enrichment"] = semantic_enrichment.get(engine_name, [])
 
     return engine_map
+
+def prune_city_for_synthesis(city_data):
+    pruned = {}
+    pruned["FoundingIntentCanonical"] = city_data.get("birth_FoundingIntentCanonical")
+
+    pruned["EngineMap"] = {}
+    for engine, planets in city_data.get("engine_map", {}).items():
+        pruned["EngineMap"][engine] = {}
+
+        # Filter out non-planet keys
+        for planet_name, planet_data in planets.items():
+            if planet_name in ["geometry_enrichment", "semantic_unit_enrichment"]:
+                continue
+
+            pruned["EngineMap"][engine][planet_name] = {
+                "semantic": planet_data.get("semantic"),
+                "civic": planet_data.get("civic"),
+                "modulation": planet_data.get("modulation"),
+                "zone": planet_data.get("zone"),
+                "planet_number": planet_data.get("planet_number"),
+                "zodiac_number": planet_data.get("zodiac_number")
+            }
+
+        # Add engine-level overlays
+        if "geometry_enrichment" in planets:
+            pruned["EngineMap"][engine]["geometry_enrichment"] = planets["geometry_enrichment"]
+        if "semantic_unit_enrichment" in planets:
+            pruned["EngineMap"][engine]["semantic_unit_enrichment"] = planets["semantic_unit_enrichment"]
+
+    return pruned
+
 
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
@@ -326,6 +389,9 @@ if __name__ == "__main__":
                 planet_data["semantic_unit_matches"],
                 planet_data["geometry_matches"]
             )
+            synthesis_ready = prune_city_for_synthesis(planet_data)
+            update_planetary_json(synthesis_ready, city)
+
             # Validate Yod overlay
             # planet_data = validate_yod_overlay(planet_data, aspectual_router) 
             # Enrich with geometry sets from semantic units
@@ -342,7 +408,7 @@ if __name__ == "__main__":
 
             # matches = match_geometry(planet_data, geometry_patterns, top_n=3)
             # planet_data["geometry_matches"] = matches 
-            update_planetary_json(planet_data, city)
+            # update_planetary_json(planet_data, city)
 
 
             # for body, info in planet_data.items():

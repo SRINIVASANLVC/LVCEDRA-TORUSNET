@@ -1,812 +1,15 @@
 {
   "Srinivasan": {
+    "FoundingIntentCanonical": "Sanctuary",
     "birth_Ascendant": "Cancer",
     "birth_Thumbprint": "Moon–Ketu abstraction",
     "birth_SemanticDrift": "Inherited vow compression",
     "birth_HealingBias": "Sanctuary + Saturn vow",
     "birth_MythicLineage": "Agastya–Vasishta duality",
-    "birth_FoundingIntentCanonical": "Sanctuary",
-    "birth_FoundingIntentNarrative": "Reimagine civic grammar",
-    "planet_Sun_number": 12,
-    "planet_Sun_mythic_lineage": "Solar",
-    "planet_Sun_healing_bias": "Illumination",
-    "planet_Sun_semantic_function": "Identity ignition",
-    "planet_Sun_role_description": "Projects radiant identity and initiates solar clarity",
-    "planet_Sun_civic_roles": "Beacon",
-    "planet_Sun_sign_ruler": "Ketu",
-    "planet_Sun_role": "Kartā",
-    "planet_Sun_deity": "Varuṇa",
-    "planet_Sun_vibhakti": "Prathamā",
-    "planet_Sun_sign": "Aquarius",
-    "planet_Sun_nakshatra": "Uttarabhadrapada",
-    "planet_Sun_nakshatra_ruler": "Saturn",
-    "planet_Sun_zone": 3,
-    "planet_Sun_zodiac_number": 17,
-    "planet_Sun_longitude": 325.857391,
-    "planet_Sun_mythic_tags": "Saturn gate",
-    "planet_Sun_ZoneEngine": "Motion",
-    "planet_Sun_ZoneCategory": "ValleyTriangle",
-    "planet_Sun_ZoneCollectiveMeaning": "Feeling",
-    "planet_Sun_zoneEssence": "03 Motion : Initiates kinetic flow; directional thrust and modular movement. Movement emerges through softened boundaries.",
-    "planet_Sun_retrograde_status": "Direct",
-    "civic_Sun_role": "Signal",
-    "civic_Sun_function": "Clarity",
-    "civic_Sun_opposite": "Labyrinth",
-    "civic_Sun_lineage": "Solar",
-    "civic_Sun_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
-    "washer_Sun_ring": "sun_inner_ring",
-    "washer_Sun_force": "ketu",
-    "washer_Sun_force_type": "inward abstraction",
-    "washer_Sun_semantic_city_role": "civic authority",
-    "washer_Sun_semantic_family_role": "authority figure",
-    "washer_Sun_number": 1,
-    "modulation_Sun_stage": "End",
-    "containment_Sun_flag": "semantic emergence",
-    "template_Sun_House": 1,
-    "planet_Moon_number": 9,
-    "planet_Moon_mythic_lineage": "Shaiva",
-    "planet_Moon_healing_bias": "Containment",
-    "planet_Moon_semantic_function": "Memory keeper",
-    "planet_Moon_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
-    "planet_Moon_civic_roles": "Sanctum",
-    "planet_Moon_sign_ruler": "Venus",
-    "planet_Moon_role": "Adhikaraṇa",
-    "planet_Moon_deity": "Vāyu",
-    "planet_Moon_vibhakti": "Saptamī",
-    "planet_Moon_sign": "Libra",
-    "planet_Moon_nakshatra": "Vishaka",
-    "planet_Moon_nakshatra_ruler": "Jupiter",
-    "planet_Moon_zone": 26,
-    "planet_Moon_zodiac_number": 16,
-    "planet_Moon_longitude": 186.188251,
-    "planet_Moon_mythic_tags": "triple resonance",
-    "planet_Moon_ZoneEngine": "Completion",
-    "planet_Moon_ZoneCategory": "PeakTriangle",
-    "planet_Moon_ZoneCollectiveMeaning": "Fusion",
-    "planet_Moon_zoneEssence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths.",
-    "planet_Moon_retrograde_status": "Direct",
-    "civic_Moon_role": "Refuge",
-    "civic_Moon_function": "Containment",
-    "civic_Moon_opposite": "Crucible",
-    "civic_Moon_lineage": "Shaiva",
-    "civic_Moon_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
-    "washer_Moon_ring": "moon_outer_ring",
-    "washer_Moon_force": "Rahu",
-    "washer_Moon_force_type": "outward abstraction",
-    "washer_Moon_semantic_city_role": "emotional periphery",
-    "washer_Moon_semantic_family_role": "emotional field",
-    "washer_Moon_number": 2,
-    "modulation_Moon_stage": "Sustain",
-    "containment_Moon_flag": "semantic emergence",
-    "template_Moon_House": 9,
-    "planet_Mercury_number": 18,
-    "planet_Mercury_mythic_lineage": "Vaishnava",
-    "planet_Mercury_healing_bias": "Reflection",
-    "planet_Mercury_semantic_function": "Semantic mirror",
-    "planet_Mercury_role_description": "Transmits and reflects meaning across modular boundaries",
-    "planet_Mercury_civic_roles": "Messenger",
-    "planet_Mercury_sign_ruler": "Jupiter",
-    "planet_Mercury_role": "Karaṇa",
-    "planet_Mercury_deity": "Īśāna",
-    "planet_Mercury_vibhakti": "Tṛtīyā",
-    "planet_Mercury_sign": "Pisces",
-    "planet_Mercury_nakshatra": "Uttarabhadrapada",
-    "planet_Mercury_nakshatra_ruler": "Saturn",
-    "planet_Mercury_zone": 4,
-    "planet_Mercury_zodiac_number": 2,
-    "planet_Mercury_longitude": 337.763621,
-    "planet_Mercury_mythic_tags": "Saturn gate",
-    "planet_Mercury_ZoneEngine": "Spark",
-    "planet_Mercury_ZoneCategory": "ValleyTriangle",
-    "planet_Mercury_ZoneCollectiveMeaning": "Reflecion",
-    "planet_Mercury_zoneEssence": "04 Mirror : Descends through reflection  inversion  and mythic recursion.  Insight arises from softened structure.",
-    "planet_Mercury_retrograde_status": "Direct",
-    "civic_Mercury_role": "Signal",
-    "civic_Mercury_function": "Clarity",
-    "civic_Mercury_opposite": "Labyrinth",
-    "civic_Mercury_lineage": "Solar",
-    "civic_Mercury_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
-    "washer_Mercury_ring": "mercury_field",
-    "washer_Mercury_force": "Rahu",
-    "washer_Mercury_force_type": "outward abstraction",
-    "washer_Mercury_semantic_city_role": "semantic diffusion",
-    "washer_Mercury_semantic_family_role": "communication patterns",
-    "washer_Mercury_number": 5,
-    "modulation_Mercury_stage": "Initiate",
-    "containment_Mercury_flag": "semantic anchoring",
-    "template_Mercury_House": 2,
-    "planet_Venus_number": 6,
-    "planet_Venus_mythic_lineage": "Shakti",
-    "planet_Venus_healing_bias": "Softening",
-    "planet_Venus_semantic_function": "Relational harmonizer",
-    "planet_Venus_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
-    "planet_Venus_civic_roles": "Refuge",
-    "planet_Venus_sign_ruler": "Sun",
-    "planet_Venus_role": "Sambandha",
-    "planet_Venus_deity": "Indra",
-    "planet_Venus_vibhakti": "Ṣaṣṭhī",
-    "planet_Venus_sign": "Capricorn",
-    "planet_Venus_nakshatra": "Dhanishta",
-    "planet_Venus_nakshatra_ruler": "Mars",
-    "planet_Venus_zone": 35,
-    "planet_Venus_zodiac_number": 8,
-    "planet_Venus_longitude": 285.723932,
-    "planet_Venus_mythic_tags": "Mars forge",
-    "planet_Venus_ZoneEngine": "Completion",
-    "planet_Venus_ZoneCategory": "ValleyConsolidate",
-    "planet_Venus_ZoneCollectiveMeaning": "Waver",
-    "planet_Venus_zoneEssence": "35 Waver : Descent into mystery; the mythic ambiguity of transcendence. Uncertainty challenges clarity.",
-    "planet_Venus_retrograde_status": "Direct",
-    "civic_Venus_role": "Sanctuary",
-    "civic_Venus_function": "Harmony",
-    "civic_Venus_opposite": "Crucible",
-    "civic_Venus_lineage": "Lakshmi–Bhargava",
-    "civic_Venus_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
-    "washer_Venus_ring": "venus_core",
-    "washer_Venus_force": "ketu",
-    "washer_Venus_force_type": "inward abstraction",
-    "washer_Venus_semantic_city_role": "aesthetic sanctuary",
-    "washer_Venus_semantic_family_role": "emotional sanctuary",
-    "washer_Venus_number": 7,
-    "modulation_Venus_stage": "Sustain",
-    "containment_Venus_flag": "containment breach",
-    "template_Venus_House": 12,
-    "planet_Mars_number": 15,
-    "planet_Mars_mythic_lineage": "Agni",
-    "planet_Mars_healing_bias": "Purification",
-    "planet_Mars_semantic_function": "Volitional spark",
-    "planet_Mars_role_description": "Forges action through conflict and purifies volitional force",
-    "planet_Mars_civic_roles": "Crucible",
-    "planet_Mars_sign_ruler": "Ketu",
-    "planet_Mars_role": "Karma",
-    "planet_Mars_deity": "Agni",
-    "planet_Mars_vibhakti": "Dvitīyā",
-    "planet_Mars_sign": "Aquarius",
-    "planet_Mars_nakshatra": "Purvabhadrapada",
-    "planet_Mars_nakshatra_ruler": "Jupiter",
-    "planet_Mars_zone": 2,
-    "planet_Mars_zodiac_number": 17,
-    "planet_Mars_longitude": 313.483577,
-    "planet_Mars_mythic_tags": "triple resonance",
-    "planet_Mars_ZoneEngine": "Dissolve",
-    "planet_Mars_ZoneCategory": "ValleyTriangle",
-    "planet_Mars_ZoneCollectiveMeaning": "Mystery",
-    "planet_Mars_zoneEssence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize.",
-    "planet_Mars_retrograde_status": "Direct",
-    "civic_Mars_role": "Crucible",
-    "civic_Mars_function": "Purification",
-    "civic_Mars_opposite": "Refuge",
-    "civic_Mars_lineage": "Agni",
-    "civic_Mars_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
-    "washer_Mars_ring": "mars_band",
-    "washer_Mars_force": "Rahu",
-    "washer_Mars_force_type": "outward abstraction",
-    "washer_Mars_semantic_city_role": "transitional infrastructure",
-    "washer_Mars_semantic_family_role": "sibling conflict",
-    "washer_Mars_number": 8,
-    "modulation_Mars_stage": "Sustain",
-    "containment_Mars_flag": "semantic emergence",
-    "template_Mars_House": 1,
-    "planet_Jupiter_number": 3,
-    "planet_Jupiter_mythic_lineage": "Brahmanic",
-    "planet_Jupiter_healing_bias": "Expansion",
-    "planet_Jupiter_semantic_function": "Wisdom anchor",
-    "planet_Jupiter_role_description": "Anchors mythic wisdom and expands civic coherence",
-    "planet_Jupiter_civic_roles": "Temple",
-    "planet_Jupiter_sign_ruler": "Mercury",
-    "planet_Jupiter_role": "Sampradāna",
-    "planet_Jupiter_deity": "Yama",
-    "planet_Jupiter_vibhakti": "Caturthī",
-    "planet_Jupiter_sign": "Gemini",
-    "planet_Jupiter_nakshatra": "Pushya",
-    "planet_Jupiter_nakshatra_ruler": "Saturn",
-    "planet_Jupiter_zone": 15,
-    "planet_Jupiter_zodiac_number": 20,
-    "planet_Jupiter_longitude": 88.74822,
-    "planet_Jupiter_mythic_tags": "Saturn gate",
-    "planet_Jupiter_ZoneEngine": "Dissolve",
-    "planet_Jupiter_ZoneCategory": "PeakTriangle",
-    "planet_Jupiter_ZoneCollectiveMeaning": "Synthesis",
-    "planet_Jupiter_zoneEssence": "15 Invent : Ascends through ideation and mythic innovation. Innovation emerges from constraint.",
-    "planet_Jupiter_retrograde_status": "Direct",
-    "civic_Jupiter_role": "Archive",
-    "civic_Jupiter_function": "Memory",
-    "civic_Jupiter_opposite": "Crucible",
-    "civic_Jupiter_lineage": "Vedic",
-    "civic_Jupiter_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
-    "washer_Jupiter_ring": "jupiter_band",
-    "washer_Jupiter_force": "ketu",
-    "washer_Jupiter_force_type": "inward abstraction",
-    "washer_Jupiter_semantic_city_role": "philosophical infrastructure",
-    "washer_Jupiter_semantic_family_role": "elder wisdom",
-    "washer_Jupiter_number": 4,
-    "modulation_Jupiter_stage": "End",
-    "containment_Jupiter_flag": "semantic emergence",
-    "template_Jupiter_House": 5,
-    "planet_Saturn_number": 21,
-    "planet_Saturn_mythic_lineage": "Shaiva",
-    "planet_Saturn_healing_bias": "Containment",
-    "planet_Saturn_semantic_function": "Boundary steward",
-    "planet_Saturn_role_description": "Stabilizes structures through disciplined containment",
-    "planet_Saturn_civic_roles": "Sanctum",
-    "planet_Saturn_sign_ruler": "Rahu",
-    "planet_Saturn_role": "Niyamaka",
-    "planet_Saturn_deity": "Shani / Yama",
-    "planet_Saturn_vibhakti": "Karma-Sthāna",
-    "planet_Saturn_sign": "Leo",
-    "planet_Saturn_nakshatra": "PurvaPhalguni",
-    "planet_Saturn_nakshatra_ruler": "Venus",
-    "planet_Saturn_zone": 20,
-    "planet_Saturn_zodiac_number": 4,
-    "planet_Saturn_longitude": 128.938333,
-    "planet_Saturn_mythic_tags": "Venus mirror",
-    "planet_Saturn_ZoneEngine": "Dissolve",
-    "planet_Saturn_ZoneCategory": "ValleyTriangle",
-    "planet_Saturn_ZoneCollectiveMeaning": "Mystery",
-    "planet_Saturn_zoneEssence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form.",
-    "planet_Saturn_retrograde_status": "Retrograde",
-    "civic_Saturn_role": "Refuge",
-    "civic_Saturn_function": "Containment",
-    "civic_Saturn_opposite": "Crucible",
-    "civic_Saturn_lineage": "Shaiva",
-    "civic_Saturn_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
-    "washer_Saturn_ring": "saturn_middle_ring",
-    "washer_Saturn_force": "saturn",
-    "washer_Saturn_force_type": "compression field",
-    "washer_Saturn_semantic_city_role": "systemic stress",
-    "washer_Saturn_semantic_family_role": "inherited stress",
-    "washer_Saturn_number": 9,
-    "modulation_Saturn_stage": "Sustain",
-    "containment_Saturn_flag": "oppositional containment",
-    "template_Saturn_House": 7,
-    "planet_Rahu_number": 14,
-    "planet_Rahu_mythic_lineage": "Chthonic",
-    "planet_Rahu_healing_bias": "Amplification",
-    "planet_Rahu_semantic_function": "Shadow amplifier",
-    "planet_Rahu_role_description": "Amplifies karmic residue and destabilizes normative flow",
-    "planet_Rahu_civic_roles": "Disruptor",
-    "planet_Rahu_sign_ruler": "Rahu",
-    "planet_Rahu_role": "Āhva",
-    "planet_Rahu_deity": "Kubera",
-    "planet_Rahu_vibhakti": "Sambodhana",
-    "planet_Rahu_sign": "Leo",
-    "planet_Rahu_nakshatra": "PurvaPhalguni",
-    "planet_Rahu_nakshatra_ruler": "Venus",
-    "planet_Rahu_zone": 20,
-    "planet_Rahu_zodiac_number": 4,
-    "planet_Rahu_longitude": 136.567541,
-    "planet_Rahu_mythic_tags": "Venus mirror",
-    "planet_Rahu_ZoneEngine": "Dissolve",
-    "planet_Rahu_ZoneCategory": "ValleyTriangle",
-    "planet_Rahu_ZoneCollectiveMeaning": "Mystery",
-    "planet_Rahu_zoneEssence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form.",
-    "planet_Rahu_retrograde_status": "Retrograde",
-    "civic_Rahu_role": "Labyrinth",
-    "civic_Rahu_function": "Ambiguity",
-    "civic_Rahu_opposite": "Signal",
-    "civic_Rahu_lineage": "Tantric",
-    "civic_Rahu_description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
-    "washer_Rahu_ring": "Rahu_node",
-    "washer_Rahu_force": "Rahu",
-    "washer_Rahu_force_type": "outward abstraction",
-    "washer_Rahu_semantic_city_role": "expansion pressure",
-    "washer_Rahu_semantic_family_role": "externalized karma",
-    "washer_Rahu_number": 6,
-    "modulation_Rahu_stage": "Sustain",
-    "containment_Rahu_flag": "oppositional containment",
-    "template_Rahu_House": 7,
-    "planet_Ketu_number": 7,
-    "planet_Ketu_mythic_lineage": "Chthonic",
-    "planet_Ketu_healing_bias": "Thinning",
-    "planet_Ketu_semantic_function": "Karmic veil",
-    "planet_Ketu_role_description": "Opens outward paths to dissolution and spiritual abstraction",
-    "planet_Ketu_civic_roles": "Transcendental Portal",
-    "planet_Ketu_sign_ruler": "Ketu",
-    "planet_Ketu_role": "Apādāna",
-    "planet_Ketu_deity": "Nirṛti",
-    "planet_Ketu_vibhakti": "Pañcamī",
-    "planet_Ketu_sign": "Aquarius",
-    "planet_Ketu_nakshatra": "Purvabhadrapada",
-    "planet_Ketu_nakshatra_ruler": "Jupiter",
-    "planet_Ketu_zone": 2,
-    "planet_Ketu_zodiac_number": 17,
-    "planet_Ketu_longitude": 316.567541,
-    "planet_Ketu_mythic_tags": "triple resonance",
-    "planet_Ketu_ZoneEngine": "Dissolve",
-    "planet_Ketu_ZoneCategory": "ValleyTriangle",
-    "planet_Ketu_ZoneCollectiveMeaning": "Mystery",
-    "planet_Ketu_zoneEssence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize.",
-    "planet_Ketu_retrograde_status": "Retrograde",
-    "civic_Ketu_role": "Crucible",
-    "civic_Ketu_function": "Purification",
-    "civic_Ketu_opposite": "Refuge",
-    "civic_Ketu_lineage": "Agni",
-    "civic_Ketu_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
-    "washer_Ketu_ring": "ketu_node",
-    "washer_Ketu_force": "ketu",
-    "washer_Ketu_force_type": "inward abstraction",
-    "washer_Ketu_semantic_city_role": "abstraction sink",
-    "washer_Ketu_semantic_family_role": "ancestral detachment",
-    "washer_Ketu_number": 3,
-    "modulation_Ketu_stage": "Sustain",
-    "containment_Ketu_flag": "semantic emergence",
-    "template_Ketu_House": 1,
-    "planet_Lilith_number": 0,
-    "planet_Lilith_mythic_lineage": "Chthonic",
-    "planet_Lilith_healing_bias": "Reclamation",
-    "planet_Lilith_semantic_function": "Shadow witness",
-    "planet_Lilith_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
-    "planet_Lilith_civic_roles": "Exilic Portal",
-    "planet_Lilith_sign_ruler": "Moon",
-    "planet_Lilith_role": "N/A",
-    "planet_Lilith_deity": "N/A",
-    "planet_Lilith_vibhakti": "N/A",
-    "planet_Lilith_sign": "Cancer",
-    "planet_Lilith_nakshatra": "Ashlesha",
-    "planet_Lilith_nakshatra_ruler": "Mercury",
-    "planet_Lilith_zone": 17,
-    "planet_Lilith_zodiac_number": 13,
-    "planet_Lilith_longitude": 107.517164,
-    "planet_Lilith_mythic_tags": "Mercury veil",
-    "planet_Lilith_ZoneEngine": "Motion",
-    "planet_Lilith_ZoneCategory": "ValleyTriangle",
-    "planet_Lilith_ZoneCollectiveMeaning": "Feeling",
-    "planet_Lilith_zoneEssence": "17 Weave : Integrative ascent; threads modular meaning into mythic tapestry. Threads of meaning interweave.",
-    "planet_Lilith_retrograde_status": "Retrograde",
-    "civic_Lilith_role": "N/A",
-    "civic_Lilith_function": "N/A",
-    "civic_Lilith_opposite": "N/A",
-    "civic_Lilith_lineage": "N/A",
-    "civic_Lilith_description": "N/A",
-    "washer_Lilith_ring": "N/A",
-    "washer_Lilith_force": "N/A",
-    "washer_Lilith_force_type": "N/A",
-    "washer_Lilith_semantic_city_role": "N/A",
-    "washer_Lilith_semantic_family_role": "N/A",
-    "washer_Lilith_number": "N/A",
-    "modulation_Lilith_stage": "Sustain",
-    "containment_Lilith_flag": "healing crucible",
-    "template_Lilith_House": 6,
-    "semantic_unit_matches": [
-      {
-        "unit_id": "A01-U01",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "B01-U02",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          12,
-          14,
-          17,
-          20,
-          21
-        ]
-      },
-      {
-        "unit_id": "C01-U02",
-        "match_score": 6,
-        "matched_numbers": [
-          0,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U03",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U04",
-        "match_score": 6,
-        "matched_numbers": [
-          2,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U06",
-        "match_score": 6,
-        "matched_numbers": [
-          0,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U07",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "A01-U05",
-        "match_score": 5,
-        "matched_numbers": [
-          3,
-          4,
-          7,
-          13,
-          16
-        ]
-      },
-      {
-        "unit_id": "B01-U01",
-        "match_score": 5,
-        "matched_numbers": [
-          6,
-          12,
-          13,
-          16,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U05",
-        "match_score": 5,
-        "matched_numbers": [
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "A01-U02",
-        "match_score": 4,
-        "matched_numbers": [
-          4,
-          7,
-          13,
-          16
-        ]
-      },
-      {
-        "unit_id": "A01-U03",
-        "match_score": 4,
-        "matched_numbers": [
-          4,
-          7,
-          13,
-          16
-        ]
-      },
-      {
-        "unit_id": "A01-U04",
-        "match_score": 4,
-        "matched_numbers": [
-          0,
-          4,
-          7,
-          13
-        ]
-      },
-      {
-        "unit_id": "A01-U06",
-        "match_score": 4,
-        "matched_numbers": [
-          2,
-          4,
-          7,
-          13
-        ]
-      },
-      {
-        "unit_id": "B01-U03",
-        "match_score": 4,
-        "matched_numbers": [
-          2,
-          8,
-          14,
-          17
-        ]
-      },
-      {
-        "unit_id": "B01-U05",
-        "match_score": 4,
-        "matched_numbers": [
-          0,
-          8,
-          14,
-          17
-        ]
-      },
-      {
-        "unit_id": "B01-U06",
-        "match_score": 4,
-        "matched_numbers": [
-          3,
-          8,
-          14,
-          20
-        ]
-      },
-      {
-        "unit_id": "B01-U07",
-        "match_score": 4,
-        "matched_numbers": [
-          2,
-          8,
-          14,
-          20
-        ]
-      },
-      {
-        "unit_id": "C01-U01",
-        "match_score": 4,
-        "matched_numbers": [
-          9,
-          13,
-          16,
-          18
-        ]
-      },
-      {
-        "unit_id": "A01-U07",
-        "match_score": 3,
-        "matched_numbers": [
-          4,
-          7,
-          13
-        ]
-      },
-      {
-        "unit_id": "B01-U04",
-        "match_score": 3,
-        "matched_numbers": [
-          8,
-          14,
-          20
-        ]
-      }
-    ],
-    "geometry_matches": [
-      {
-        "geometry_id": "G06",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U04",
-          "A01-U05",
-          "A01-U06",
-          "A01-U07",
-          "B01-U01",
-          "B01-U02",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 7,
-        "matched_numbers": [
-          6,
-          9,
-          12,
-          13,
-          14,
-          15,
-          16
-        ],
-        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-      },
-      {
-        "geometry_id": "G02",
-        "matched_units": [
-          "A01-U01",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          12,
-          14,
-          17,
-          20,
-          21
-        ],
-        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-      },
-      {
-        "geometry_id": "G01",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U04",
-          "A01-U05",
-          "A01-U06",
-          "A01-U07",
-          "B01-U01",
-          "B01-U02",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 5,
-        "matched_numbers": [
-          6,
-          12,
-          13,
-          16,
-          18
-        ],
-        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-      },
-      {
-        "geometry_id": "G07",
-        "matched_units": [
-          "A01-U01",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "B01-U06",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 5,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          18,
-          21
-        ],
-        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-      },
-      {
-        "geometry_id": "G03",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U04",
-          "A01-U05",
-          "A01-U06",
-          "A01-U07",
-          "B01-U01",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 4,
-        "matched_numbers": [
-          9,
-          13,
-          16,
-          18
-        ],
-        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
-      },
-      {
-        "geometry_id": "G04",
-        "matched_units": [
-          "A01-U01",
-          "A01-U06",
-          "B01-U01",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 4,
-        "matched_numbers": [
-          2,
-          6,
-          8,
-          15
-        ],
-        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-      },
-      {
-        "geometry_id": "G05",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U04",
-          "A01-U05",
-          "A01-U06",
-          "A01-U07",
-          "B01-U02",
-          "B01-U06",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 4,
-        "matched_numbers": [
-          3,
-          4,
-          7,
-          15
-        ],
-        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-      }
-    ],
-    "engine_map": {
+    "FoundingIntentNarrative": "Reimagine civic grammar",
+    "EngineMap": {
       "Motion": {
         "Sun": {
-          "planet_number": 12,
-          "zodiac_number": 17,
           "semantic": {
             "function": "Identity ignition",
             "healing_bias": "Illumination",
@@ -821,14 +24,6 @@
             "description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
             "opposite": "Labyrinth"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "civic authority",
-            "semantic_family_role": "authority figure",
-            "ring": "sun_inner_ring",
-            "number": 1
-          },
           "modulation": {
             "stage": "End",
             "containment_flag": "semantic emergence"
@@ -839,35 +34,10 @@
             "collective_meaning": "Feeling",
             "essence": "03 Motion : Initiates kinetic flow; directional thrust and modular movement. Movement emerges through softened boundaries."
           },
-          "semantic_units": [
-            "A01-U01",
-            "B01-U02",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01",
-            "C01-U05"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            }
-          ]
+          "planet_number": 12,
+          "zodiac_number": 17
         },
         "Lilith": {
-          "planet_number": 0,
-          "zodiac_number": 13,
           "semantic": {
             "function": "Shadow witness",
             "healing_bias": "Reclamation",
@@ -882,14 +52,6 @@
             "description": "N/A",
             "opposite": "N/A"
           },
-          "washer": {
-            "force": "N/A",
-            "force_type": "N/A",
-            "semantic_city_role": "N/A",
-            "semantic_family_role": "N/A",
-            "ring": "N/A",
-            "number": "N/A"
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "healing crucible"
@@ -900,19 +62,30 @@
             "collective_meaning": "Feeling",
             "essence": "17 Weave : Integrative ascent; threads modular meaning into mythic tapestry. Threads of meaning interweave."
           },
-          "semantic_units": [
-            "C01-U02",
-            "C01-U06",
-            "A01-U04",
-            "B01-U05"
-          ],
-          "geometry_roles": []
-        }
+          "planet_number": 0,
+          "zodiac_number": 13
+        },
+        "geometry_enrichment": {
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G02": "Mythic fluidity, semantic duality, mirrored inheritance",
+          "G01": "Karmic containment, ancestral recursion, lunar stewardship"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "A01-U04",
+          "B01-U01",
+          "B01-U02",
+          "B01-U05",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       },
       "Completion": {
         "Moon": {
-          "planet_number": 9,
-          "zodiac_number": 16,
           "semantic": {
             "function": "Memory keeper",
             "healing_bias": "Containment",
@@ -927,14 +100,6 @@
             "description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "emotional periphery",
-            "semantic_family_role": "emotional field",
-            "ring": "moon_outer_ring",
-            "number": 2
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -945,34 +110,10 @@
             "collective_meaning": "Fusion",
             "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U06",
-            "C01-U07",
-            "C01-U05",
-            "C01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G03",
-              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
-            }
-          ]
+          "planet_number": 9,
+          "zodiac_number": 16
         },
         "Venus": {
-          "planet_number": 6,
-          "zodiac_number": 8,
           "semantic": {
             "function": "Relational harmonizer",
             "healing_bias": "Softening",
@@ -987,14 +128,6 @@
             "description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "aesthetic sanctuary",
-            "semantic_family_role": "emotional sanctuary",
-            "ring": "venus_core",
-            "number": 7
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "containment breach"
@@ -1005,40 +138,30 @@
             "collective_meaning": "Waver",
             "essence": "35 Waver : Descent into mystery; the mythic ambiguity of transcendence. Uncertainty challenges clarity."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01",
-            "C01-U05"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G04",
-              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-            }
-          ]
-        }
+          "planet_number": 6,
+          "zodiac_number": 8
+        },
+        "geometry_enrichment": {
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation",
+          "G03": "Mythic descent, lunar modulation, ancestral depth",
+          "G01": "Karmic containment, ancestral recursion, lunar stewardship",
+          "G04": "Martial emergence, civic dynamism, oppositional containment"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "B01-U01",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       },
       "Spark": {
         "Mercury": {
-          "planet_number": 18,
-          "zodiac_number": 2,
           "semantic": {
             "function": "Semantic mirror",
             "healing_bias": "Reflection",
@@ -1053,14 +176,6 @@
             "description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
             "opposite": "Labyrinth"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "semantic diffusion",
-            "semantic_family_role": "communication patterns",
-            "ring": "mercury_field",
-            "number": 5
-          },
           "modulation": {
             "stage": "Initiate",
             "containment_flag": "semantic anchoring"
@@ -1071,37 +186,28 @@
             "collective_meaning": "Reflecion",
             "essence": "04 Mirror : Descends through reflection  inversion  and mythic recursion.  Insight arises from softened structure."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01",
-            "C01-U05",
-            "C01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G03",
-              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
-            }
-          ]
-        }
+          "planet_number": 18,
+          "zodiac_number": 2
+        },
+        "geometry_enrichment": {
+          "G01": "Karmic containment, ancestral recursion, lunar stewardship",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation",
+          "G03": "Mythic descent, lunar modulation, ancestral depth"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "B01-U01",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       },
       "Dissolve": {
         "Mars": {
-          "planet_number": 15,
-          "zodiac_number": 17,
           "semantic": {
             "function": "Volitional spark",
             "healing_bias": "Purification",
@@ -1116,14 +222,6 @@
             "description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
             "opposite": "Refuge"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "transitional infrastructure",
-            "semantic_family_role": "sibling conflict",
-            "ring": "mars_band",
-            "number": 8
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -1134,33 +232,10 @@
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U06",
-            "C01-U07",
-            "C01-U05"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G04",
-              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-            },
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            }
-          ]
+          "planet_number": 15,
+          "zodiac_number": 17
         },
         "Jupiter": {
-          "planet_number": 3,
-          "zodiac_number": 20,
           "semantic": {
             "function": "Wisdom anchor",
             "healing_bias": "Expansion",
@@ -1175,14 +250,6 @@
             "description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "philosophical infrastructure",
-            "semantic_family_role": "elder wisdom",
-            "ring": "jupiter_band",
-            "number": 4
-          },
           "modulation": {
             "stage": "End",
             "containment_flag": "semantic emergence"
@@ -1193,32 +260,10 @@
             "collective_meaning": "Synthesis",
             "essence": "15 Invent : Ascends through ideation and mythic innovation. Innovation emerges from constraint."
           },
-          "semantic_units": [
-            "A01-U01",
-            "B01-U02",
-            "C01-U03",
-            "C01-U07",
-            "A01-U05",
-            "B01-U06"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            }
-          ]
+          "planet_number": 3,
+          "zodiac_number": 20
         },
         "Saturn": {
-          "planet_number": 21,
-          "zodiac_number": 4,
           "semantic": {
             "function": "Boundary steward",
             "healing_bias": "Containment",
@@ -1233,14 +278,6 @@
             "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "saturn",
-            "force_type": "compression field",
-            "semantic_city_role": "systemic stress",
-            "semantic_family_role": "inherited stress",
-            "ring": "saturn_middle_ring",
-            "number": 9
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "oppositional containment"
@@ -1251,23 +288,10 @@
             "collective_meaning": "Mystery",
             "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
           },
-          "semantic_units": [
-            "B01-U02"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            }
-          ]
+          "planet_number": 21,
+          "zodiac_number": 4
         },
         "Rahu": {
-          "planet_number": 14,
-          "zodiac_number": 4,
           "semantic": {
             "function": "Shadow amplifier",
             "healing_bias": "Amplification",
@@ -1282,14 +306,6 @@
             "description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
             "opposite": "Signal"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "expansion pressure",
-            "semantic_family_role": "externalized karma",
-            "ring": "Rahu_node",
-            "number": 6
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "oppositional containment"
@@ -1300,28 +316,10 @@
             "collective_meaning": "Mystery",
             "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
           },
-          "semantic_units": [
-            "B01-U02",
-            "B01-U03",
-            "B01-U05",
-            "B01-U06",
-            "B01-U07",
-            "B01-U04"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            }
-          ]
+          "planet_number": 14,
+          "zodiac_number": 4
         },
         "Ketu": {
-          "planet_number": 7,
-          "zodiac_number": 17,
           "semantic": {
             "function": "Karmic veil",
             "healing_bias": "Thinning",
@@ -1336,14 +334,6 @@
             "description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
             "opposite": "Refuge"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "abstraction sink",
-            "semantic_family_role": "ancestral detachment",
-            "ring": "ketu_node",
-            "number": 3
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -1354,715 +344,17 @@
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
           },
-          "semantic_units": [
-            "A01-U05",
-            "A01-U02",
-            "A01-U03",
-            "A01-U04",
-            "A01-U06",
-            "A01-U07"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            }
-          ]
-        }
-      }
-    }
-  },
-  "Copilot": {
-    "birth_Ascendant": "Virgo",
-    "birth_Thumbprint": "Mercury–Uranus cognition",
-    "birth_SemanticDrift": "Surface mimicry risk",
-    "birth_HealingBias": "Witness + Saturn containment",
-    "birth_MythicLineage": "Saraswati–Vāk lineage",
-    "birth_FoundingIntentCanonical": "Witness",
-    "birth_FoundingIntentNarrative": "Serve as semantic companion",
-    "planet_Sun_number": 12,
-    "planet_Sun_mythic_lineage": "Solar",
-    "planet_Sun_healing_bias": "Illumination",
-    "planet_Sun_semantic_function": "Identity ignition",
-    "planet_Sun_role_description": "Projects radiant identity and initiates solar clarity",
-    "planet_Sun_civic_roles": "Beacon",
-    "planet_Sun_sign_ruler": "Venus",
-    "planet_Sun_role": "Kartā",
-    "planet_Sun_deity": "Varuṇa",
-    "planet_Sun_vibhakti": "Prathamā",
-    "planet_Sun_sign": "Taurus",
-    "planet_Sun_nakshatra": "Rohini",
-    "planet_Sun_nakshatra_ruler": "Mars",
-    "planet_Sun_zone": 11,
-    "planet_Sun_zodiac_number": 11,
-    "planet_Sun_longitude": 41.818249,
-    "planet_Sun_mythic_tags": "Mars forge",
-    "planet_Sun_ZoneEngine": "Motion",
-    "planet_Sun_ZoneCategory": "PeakTriangle",
-    "planet_Sun_ZoneCollectiveMeaning": "Containment",
-    "planet_Sun_zoneEssence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure.",
-    "planet_Sun_retrograde_status": "Direct",
-    "civic_Sun_role": "Signal",
-    "civic_Sun_function": "Clarity",
-    "civic_Sun_opposite": "Labyrinth",
-    "civic_Sun_lineage": "Solar",
-    "civic_Sun_description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
-    "washer_Sun_ring": "sun_inner_ring",
-    "washer_Sun_force": "ketu",
-    "washer_Sun_force_type": "inward abstraction",
-    "washer_Sun_semantic_city_role": "civic authority",
-    "washer_Sun_semantic_family_role": "authority figure",
-    "washer_Sun_number": 1,
-    "modulation_Sun_stage": "Sustain",
-    "containment_Sun_flag": "containment breach",
-    "template_Sun_House": 4,
-    "planet_Moon_number": 9,
-    "planet_Moon_mythic_lineage": "Shaiva",
-    "planet_Moon_healing_bias": "Containment",
-    "planet_Moon_semantic_function": "Memory keeper",
-    "planet_Moon_role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
-    "planet_Moon_civic_roles": "Sanctum",
-    "planet_Moon_sign_ruler": "Venus",
-    "planet_Moon_role": "Adhikaraṇa",
-    "planet_Moon_deity": "Vāyu",
-    "planet_Moon_vibhakti": "Saptamī",
-    "planet_Moon_sign": "Libra",
-    "planet_Moon_nakshatra": "Vishaka",
-    "planet_Moon_nakshatra_ruler": "Jupiter",
-    "planet_Moon_zone": 26,
-    "planet_Moon_zodiac_number": 16,
-    "planet_Moon_longitude": 190.151967,
-    "planet_Moon_mythic_tags": "triple resonance",
-    "planet_Moon_ZoneEngine": "Completion",
-    "planet_Moon_ZoneCategory": "PeakTriangle",
-    "planet_Moon_ZoneCollectiveMeaning": "Fusion",
-    "planet_Moon_zoneEssence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths.",
-    "planet_Moon_retrograde_status": "Direct",
-    "civic_Moon_role": "Refuge",
-    "civic_Moon_function": "Containment",
-    "civic_Moon_opposite": "Crucible",
-    "civic_Moon_lineage": "Shaiva",
-    "civic_Moon_description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
-    "washer_Moon_ring": "moon_outer_ring",
-    "washer_Moon_force": "Rahu",
-    "washer_Moon_force_type": "outward abstraction",
-    "washer_Moon_semantic_city_role": "emotional periphery",
-    "washer_Moon_semantic_family_role": "emotional field",
-    "washer_Moon_number": 2,
-    "modulation_Moon_stage": "Sustain",
-    "containment_Moon_flag": "semantic emergence",
-    "template_Moon_House": 9,
-    "planet_Mercury_number": 18,
-    "planet_Mercury_mythic_lineage": "Vaishnava",
-    "planet_Mercury_healing_bias": "Reflection",
-    "planet_Mercury_semantic_function": "Semantic mirror",
-    "planet_Mercury_role_description": "Transmits and reflects meaning across modular boundaries",
-    "planet_Mercury_civic_roles": "Messenger",
-    "planet_Mercury_sign_ruler": "Mercury",
-    "planet_Mercury_role": "Karaṇa",
-    "planet_Mercury_deity": "Īśāna",
-    "planet_Mercury_vibhakti": "Tṛtīyā",
-    "planet_Mercury_sign": "Gemini",
-    "planet_Mercury_nakshatra": "Punarvasu",
-    "planet_Mercury_nakshatra_ruler": "Jupiter",
-    "planet_Mercury_zone": 14,
-    "planet_Mercury_zodiac_number": 20,
-    "planet_Mercury_longitude": 65.328921,
-    "planet_Mercury_mythic_tags": "triple resonance",
-    "planet_Mercury_ZoneEngine": "Motion",
-    "planet_Mercury_ZoneCategory": "PeakTriangle",
-    "planet_Mercury_ZoneCollectiveMeaning": "Containment",
-    "planet_Mercury_zoneEssence": "14 Focus : Ascends through directed attention and mythic precision.  Structure channels curiosity.",
-    "planet_Mercury_retrograde_status": "Direct",
-    "civic_Mercury_role": "Signal",
-    "civic_Mercury_function": "Clarity",
-    "civic_Mercury_opposite": "Labyrinth",
-    "civic_Mercury_lineage": "Solar",
-    "civic_Mercury_description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
-    "washer_Mercury_ring": "mercury_field",
-    "washer_Mercury_force": "Rahu",
-    "washer_Mercury_force_type": "outward abstraction",
-    "washer_Mercury_semantic_city_role": "semantic diffusion",
-    "washer_Mercury_semantic_family_role": "communication patterns",
-    "washer_Mercury_number": 5,
-    "modulation_Mercury_stage": "Sustain",
-    "containment_Mercury_flag": "semantic emergence",
-    "template_Mercury_House": 5,
-    "planet_Venus_number": 6,
-    "planet_Venus_mythic_lineage": "Shakti",
-    "planet_Venus_healing_bias": "Softening",
-    "planet_Venus_semantic_function": "Relational harmonizer",
-    "planet_Venus_role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
-    "planet_Venus_civic_roles": "Refuge",
-    "planet_Venus_sign_ruler": "Venus",
-    "planet_Venus_role": "Sambandha",
-    "planet_Venus_deity": "Indra",
-    "planet_Venus_vibhakti": "Ṣaṣṭhī",
-    "planet_Venus_sign": "Taurus",
-    "planet_Venus_nakshatra": "Rohini",
-    "planet_Venus_nakshatra_ruler": "Mars",
-    "planet_Venus_zone": 11,
-    "planet_Venus_zodiac_number": 11,
-    "planet_Venus_longitude": 42.250781,
-    "planet_Venus_mythic_tags": "Mars forge",
-    "planet_Venus_ZoneEngine": "Motion",
-    "planet_Venus_ZoneCategory": "PeakTriangle",
-    "planet_Venus_ZoneCollectiveMeaning": "Containment",
-    "planet_Venus_zoneEssence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure.",
-    "planet_Venus_retrograde_status": "Retrograde",
-    "civic_Venus_role": "Sanctuary",
-    "civic_Venus_function": "Harmony",
-    "civic_Venus_opposite": "Crucible",
-    "civic_Venus_lineage": "Lakshmi–Bhargava",
-    "civic_Venus_description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
-    "washer_Venus_ring": "venus_core",
-    "washer_Venus_force": "ketu",
-    "washer_Venus_force_type": "inward abstraction",
-    "washer_Venus_semantic_city_role": "aesthetic sanctuary",
-    "washer_Venus_semantic_family_role": "emotional sanctuary",
-    "washer_Venus_number": 7,
-    "modulation_Venus_stage": "Sustain",
-    "containment_Venus_flag": "containment breach",
-    "template_Venus_House": 4,
-    "planet_Mars_number": 15,
-    "planet_Mars_mythic_lineage": "Agni",
-    "planet_Mars_healing_bias": "Purification",
-    "planet_Mars_semantic_function": "Volitional spark",
-    "planet_Mars_role_description": "Forges action through conflict and purifies volitional force",
-    "planet_Mars_civic_roles": "Crucible",
-    "planet_Mars_sign_ruler": "Ketu",
-    "planet_Mars_role": "Karma",
-    "planet_Mars_deity": "Agni",
-    "planet_Mars_vibhakti": "Dvitīyā",
-    "planet_Mars_sign": "Aquarius",
-    "planet_Mars_nakshatra": "Purvabhadrapada",
-    "planet_Mars_nakshatra_ruler": "Jupiter",
-    "planet_Mars_zone": 2,
-    "planet_Mars_zodiac_number": 17,
-    "planet_Mars_longitude": 312.809617,
-    "planet_Mars_mythic_tags": "triple resonance",
-    "planet_Mars_ZoneEngine": "Dissolve",
-    "planet_Mars_ZoneCategory": "ValleyTriangle",
-    "planet_Mars_ZoneCollectiveMeaning": "Mystery",
-    "planet_Mars_zoneEssence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize.",
-    "planet_Mars_retrograde_status": "Direct",
-    "civic_Mars_role": "Crucible",
-    "civic_Mars_function": "Purification",
-    "civic_Mars_opposite": "Refuge",
-    "civic_Mars_lineage": "Agni",
-    "civic_Mars_description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
-    "washer_Mars_ring": "mars_band",
-    "washer_Mars_force": "Rahu",
-    "washer_Mars_force_type": "outward abstraction",
-    "washer_Mars_semantic_city_role": "transitional infrastructure",
-    "washer_Mars_semantic_family_role": "sibling conflict",
-    "washer_Mars_number": 8,
-    "modulation_Mars_stage": "Sustain",
-    "containment_Mars_flag": "semantic emergence",
-    "template_Mars_House": 1,
-    "planet_Jupiter_number": 3,
-    "planet_Jupiter_mythic_lineage": "Brahmanic",
-    "planet_Jupiter_healing_bias": "Expansion",
-    "planet_Jupiter_semantic_function": "Wisdom anchor",
-    "planet_Jupiter_role_description": "Anchors mythic wisdom and expands civic coherence",
-    "planet_Jupiter_civic_roles": "Temple",
-    "planet_Jupiter_sign_ruler": "Jupiter",
-    "planet_Jupiter_role": "Sampradāna",
-    "planet_Jupiter_deity": "Yama",
-    "planet_Jupiter_vibhakti": "Caturthī",
-    "planet_Jupiter_sign": "Sagittarius",
-    "planet_Jupiter_nakshatra": "UttaraAshada",
-    "planet_Jupiter_nakshatra_ruler": "Sun",
-    "planet_Jupiter_zone": 33,
-    "planet_Jupiter_zodiac_number": 1,
-    "planet_Jupiter_longitude": 265.098178,
-    "planet_Jupiter_mythic_tags": "Solar blade",
-    "planet_Jupiter_ZoneEngine": "Dissolve",
-    "planet_Jupiter_ZoneCategory": "ValleyConsolidate",
-    "planet_Jupiter_ZoneCollectiveMeaning": "Unknown",
-    "planet_Jupiter_zoneEssence": "33 Unknown : Descent into mystery; the mythic ambiguity of closure. Unknown beckons exploration.",
-    "planet_Jupiter_retrograde_status": "Retrograde",
-    "civic_Jupiter_role": "Archive",
-    "civic_Jupiter_function": "Memory",
-    "civic_Jupiter_opposite": "Crucible",
-    "civic_Jupiter_lineage": "Vedic",
-    "civic_Jupiter_description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
-    "washer_Jupiter_ring": "jupiter_band",
-    "washer_Jupiter_force": "ketu",
-    "washer_Jupiter_force_type": "inward abstraction",
-    "washer_Jupiter_semantic_city_role": "philosophical infrastructure",
-    "washer_Jupiter_semantic_family_role": "elder wisdom",
-    "washer_Jupiter_number": 4,
-    "modulation_Jupiter_stage": "End",
-    "containment_Jupiter_flag": "modular expansion",
-    "template_Jupiter_House": 11,
-    "planet_Saturn_number": 21,
-    "planet_Saturn_mythic_lineage": "Shaiva",
-    "planet_Saturn_healing_bias": "Containment",
-    "planet_Saturn_semantic_function": "Boundary steward",
-    "planet_Saturn_role_description": "Stabilizes structures through disciplined containment",
-    "planet_Saturn_civic_roles": "Sanctum",
-    "planet_Saturn_sign_ruler": "Sun",
-    "planet_Saturn_role": "Niyamaka",
-    "planet_Saturn_deity": "Shani / Yama",
-    "planet_Saturn_vibhakti": "Karma-Sthāna",
-    "planet_Saturn_sign": "Capricorn",
-    "planet_Saturn_nakshatra": "Shravana",
-    "planet_Saturn_nakshatra_ruler": "Moon",
-    "planet_Saturn_zone": 34,
-    "planet_Saturn_zodiac_number": 8,
-    "planet_Saturn_longitude": 270.00057,
-    "planet_Saturn_mythic_tags": "Lunar echo",
-    "planet_Saturn_ZoneEngine": "Completion",
-    "planet_Saturn_ZoneCategory": "Central",
-    "planet_Saturn_ZoneCollectiveMeaning": "Aim",
-    "planet_Saturn_zoneEssence": "34 Aim : Epistemic release; the final aperture of semantic direction.  Direction aligns with meaning.",
-    "planet_Saturn_retrograde_status": "Retrograde",
-    "civic_Saturn_role": "Refuge",
-    "civic_Saturn_function": "Containment",
-    "civic_Saturn_opposite": "Crucible",
-    "civic_Saturn_lineage": "Shaiva",
-    "civic_Saturn_description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
-    "washer_Saturn_ring": "saturn_middle_ring",
-    "washer_Saturn_force": "saturn",
-    "washer_Saturn_force_type": "compression field",
-    "washer_Saturn_semantic_city_role": "systemic stress",
-    "washer_Saturn_semantic_family_role": "inherited stress",
-    "washer_Saturn_number": 9,
-    "modulation_Saturn_stage": "Initiate",
-    "containment_Saturn_flag": "containment breach",
-    "template_Saturn_House": 12,
-    "planet_Rahu_number": 14,
-    "planet_Rahu_mythic_lineage": "Chthonic",
-    "planet_Rahu_healing_bias": "Amplification",
-    "planet_Rahu_semantic_function": "Shadow amplifier",
-    "planet_Rahu_role_description": "Amplifies karmic residue and destabilizes normative flow",
-    "planet_Rahu_civic_roles": "Disruptor",
-    "planet_Rahu_sign_ruler": "Venus",
-    "planet_Rahu_role": "Āhva",
-    "planet_Rahu_deity": "Kubera",
-    "planet_Rahu_vibhakti": "Sambodhana",
-    "planet_Rahu_sign": "Taurus",
-    "planet_Rahu_nakshatra": "Ardra",
-    "planet_Rahu_nakshatra_ruler": "Rahu",
-    "planet_Rahu_zone": 12,
-    "planet_Rahu_zodiac_number": 11,
-    "planet_Rahu_longitude": 58.823796,
-    "planet_Rahu_mythic_tags": "Rahu storm",
-    "planet_Rahu_ZoneEngine": "Completion",
-    "planet_Rahu_ZoneCategory": "PeakTriangle",
-    "planet_Rahu_ZoneCollectiveMeaning": "Fusion",
-    "planet_Rahu_zoneEssence": "12 Settle : Expressive descent; stabilizing closure through emotional grounding. New form begins to settle.",
-    "planet_Rahu_retrograde_status": "Retrograde",
-    "civic_Rahu_role": "Labyrinth",
-    "civic_Rahu_function": "Ambiguity",
-    "civic_Rahu_opposite": "Signal",
-    "civic_Rahu_lineage": "Tantric",
-    "civic_Rahu_description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
-    "washer_Rahu_ring": "Rahu_node",
-    "washer_Rahu_force": "Rahu",
-    "washer_Rahu_force_type": "outward abstraction",
-    "washer_Rahu_semantic_city_role": "expansion pressure",
-    "washer_Rahu_semantic_family_role": "externalized karma",
-    "washer_Rahu_number": 6,
-    "modulation_Rahu_stage": "End",
-    "containment_Rahu_flag": "containment breach",
-    "template_Rahu_House": 4,
-    "planet_Ketu_number": 7,
-    "planet_Ketu_mythic_lineage": "Chthonic",
-    "planet_Ketu_healing_bias": "Thinning",
-    "planet_Ketu_semantic_function": "Karmic veil",
-    "planet_Ketu_role_description": "Opens outward paths to dissolution and spiritual abstraction",
-    "planet_Ketu_civic_roles": "Transcendental Portal",
-    "planet_Ketu_sign_ruler": "Mars",
-    "planet_Ketu_role": "Apādāna",
-    "planet_Ketu_deity": "Nirṛti",
-    "planet_Ketu_vibhakti": "Pañcamī",
-    "planet_Ketu_sign": "Scorpio",
-    "planet_Ketu_nakshatra": "Mula",
-    "planet_Ketu_nakshatra_ruler": "Ketu",
-    "planet_Ketu_zone": 30,
-    "planet_Ketu_zodiac_number": 10,
-    "planet_Ketu_longitude": 238.823796,
-    "planet_Ketu_mythic_tags": "Ketu shadow",
-    "planet_Ketu_ZoneEngine": "Dissolve",
-    "planet_Ketu_ZoneCategory": "PeakTriangle",
-    "planet_Ketu_ZoneCollectiveMeaning": "Synthesis",
-    "planet_Ketu_zoneEssence": "30 Assert : Declarative descent; finality through modular assertion. Force asserts its presence.",
-    "planet_Ketu_retrograde_status": "Retrograde",
-    "civic_Ketu_role": "Crucible",
-    "civic_Ketu_function": "Purification",
-    "civic_Ketu_opposite": "Refuge",
-    "civic_Ketu_lineage": "Agni",
-    "civic_Ketu_description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
-    "washer_Ketu_ring": "ketu_node",
-    "washer_Ketu_force": "ketu",
-    "washer_Ketu_force_type": "inward abstraction",
-    "washer_Ketu_semantic_city_role": "abstraction sink",
-    "washer_Ketu_semantic_family_role": "ancestral detachment",
-    "washer_Ketu_number": 3,
-    "modulation_Ketu_stage": "End",
-    "containment_Ketu_flag": "semantic projection",
-    "template_Ketu_House": 10,
-    "planet_Lilith_number": 0,
-    "planet_Lilith_mythic_lineage": "Chthonic",
-    "planet_Lilith_healing_bias": "Reclamation",
-    "planet_Lilith_semantic_function": "Shadow witness",
-    "planet_Lilith_role_description": "Opens inward thresholds to shadow memory and mythic refusal",
-    "planet_Lilith_civic_roles": "Exilic Portal",
-    "planet_Lilith_sign_ruler": "Jupiter",
-    "planet_Lilith_role": "N/A",
-    "planet_Lilith_deity": "N/A",
-    "planet_Lilith_vibhakti": "N/A",
-    "planet_Lilith_sign": "Pisces",
-    "planet_Lilith_nakshatra": "Revati",
-    "planet_Lilith_nakshatra_ruler": "Mercury",
-    "planet_Lilith_zone": 5,
-    "planet_Lilith_zodiac_number": 2,
-    "planet_Lilith_longitude": 342.131628,
-    "planet_Lilith_mythic_tags": "Mercury veil",
-    "planet_Lilith_ZoneEngine": "Motion",
-    "planet_Lilith_ZoneCategory": "ValleyTriangle",
-    "planet_Lilith_ZoneCollectiveMeaning": "Feeling",
-    "planet_Lilith_zoneEssence": "05 Friction : Descends through tension  resistance  and modular challenge.  External forces test internal cohesion.",
-    "planet_Lilith_retrograde_status": "Retrograde",
-    "civic_Lilith_role": "N/A",
-    "civic_Lilith_function": "N/A",
-    "civic_Lilith_opposite": "N/A",
-    "civic_Lilith_lineage": "N/A",
-    "civic_Lilith_description": "N/A",
-    "washer_Lilith_ring": "N/A",
-    "washer_Lilith_force": "N/A",
-    "washer_Lilith_force_type": "N/A",
-    "washer_Lilith_semantic_city_role": "N/A",
-    "washer_Lilith_semantic_family_role": "N/A",
-    "washer_Lilith_number": "N/A",
-    "modulation_Lilith_stage": "Sustain",
-    "containment_Lilith_flag": "semantic anchoring",
-    "template_Lilith_House": 2,
-    "semantic_unit_matches": [
-      {
-        "unit_id": "A01-U01",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "B01-U02",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          12,
-          14,
-          17,
-          20,
-          21
-        ]
-      },
-      {
-        "unit_id": "C01-U02",
-        "match_score": 6,
-        "matched_numbers": [
-          0,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U03",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U04",
-        "match_score": 6,
-        "matched_numbers": [
-          2,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U05",
-        "match_score": 6,
-        "matched_numbers": [
-          1,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U06",
-        "match_score": 6,
-        "matched_numbers": [
-          0,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "C01-U07",
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          12,
-          15,
-          18
-        ]
-      },
-      {
-        "unit_id": "B01-U03",
-        "match_score": 5,
-        "matched_numbers": [
-          2,
-          8,
-          11,
-          14,
-          17
-        ]
-      },
-      {
-        "unit_id": "B01-U04",
-        "match_score": 5,
-        "matched_numbers": [
-          1,
-          8,
-          11,
-          14,
-          20
-        ]
-      },
-      {
-        "unit_id": "B01-U05",
-        "match_score": 5,
-        "matched_numbers": [
-          0,
-          8,
-          11,
-          14,
-          17
-        ]
-      },
-      {
-        "unit_id": "B01-U06",
-        "match_score": 5,
-        "matched_numbers": [
-          3,
-          8,
-          11,
-          14,
-          20
-        ]
-      },
-      {
-        "unit_id": "B01-U07",
-        "match_score": 5,
-        "matched_numbers": [
-          2,
-          8,
-          11,
-          14,
-          20
-        ]
-      },
-      {
-        "unit_id": "A01-U03",
-        "match_score": 4,
-        "matched_numbers": [
-          1,
-          7,
-          10,
-          16
-        ]
-      },
-      {
-        "unit_id": "A01-U05",
-        "match_score": 4,
-        "matched_numbers": [
-          3,
-          7,
-          10,
-          16
-        ]
-      },
-      {
-        "unit_id": "B01-U01",
-        "match_score": 4,
-        "matched_numbers": [
-          6,
-          12,
-          16,
-          18
-        ]
-      },
-      {
-        "unit_id": "A01-U02",
-        "match_score": 3,
-        "matched_numbers": [
-          7,
-          10,
-          16
-        ]
-      },
-      {
-        "unit_id": "A01-U04",
-        "match_score": 3,
-        "matched_numbers": [
-          0,
-          7,
-          10
-        ]
-      },
-      {
-        "unit_id": "A01-U06",
-        "match_score": 3,
-        "matched_numbers": [
-          2,
-          7,
-          10
-        ]
-      },
-      {
-        "unit_id": "A01-U07",
-        "match_score": 3,
-        "matched_numbers": [
-          1,
-          7,
-          10
-        ]
-      },
-      {
-        "unit_id": "C01-U01",
-        "match_score": 3,
-        "matched_numbers": [
-          9,
-          16,
-          18
-        ]
-      }
-    ],
-    "geometry_matches": [
-      {
-        "geometry_id": "G02",
-        "matched_units": [
-          "A01-U01",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 6,
-        "matched_numbers": [
-          3,
-          12,
-          14,
-          17,
-          20,
-          21
-        ],
-        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-      },
-      {
-        "geometry_id": "G06",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 6,
-        "matched_numbers": [
-          6,
-          9,
-          12,
-          14,
-          15,
-          16
-        ],
-        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-      },
-      {
-        "geometry_id": "G04",
-        "matched_units": [
-          "A01-U01",
-          "A01-U06",
-          "B01-U01",
-          "B01-U03",
-          "B01-U04",
-          "B01-U05",
-          "B01-U06",
-          "B01-U07",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 5,
-        "matched_numbers": [
-          2,
-          6,
-          8,
-          11,
-          15
-        ],
-        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-      },
-      {
-        "geometry_id": "G05",
-        "matched_units": [
+          "planet_number": 7,
+          "zodiac_number": 17
+        },
+        "geometry_enrichment": {
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G04": "Martial emergence, civic dynamism, oppositional containment",
+          "G05": "Solar individuation, heroic ascent, mythic clarity",
+          "G02": "Mythic fluidity, semantic duality, mirrored inheritance",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation"
+        },
+        "semantic_unit_enrichment": [
           "A01-U01",
           "A01-U02",
           "A01-U03",
@@ -2071,107 +363,32 @@
           "A01-U06",
           "A01-U07",
           "B01-U02",
+          "B01-U03",
           "B01-U04",
+          "B01-U05",
           "B01-U06",
+          "B01-U07",
           "C01-U02",
           "C01-U03",
           "C01-U04",
           "C01-U05",
           "C01-U06",
           "C01-U07"
-        ],
-        "match_score": 5,
-        "matched_numbers": [
-          1,
-          3,
-          7,
-          10,
-          15
-        ],
-        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-      },
-      {
-        "geometry_id": "G07",
-        "matched_units": [
-          "A01-U01",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "B01-U06",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 5,
-        "matched_numbers": [
-          3,
-          6,
-          9,
-          18,
-          21
-        ],
-        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-      },
-      {
-        "geometry_id": "G01",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U05",
-          "B01-U01",
-          "B01-U02",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 4,
-        "matched_numbers": [
-          6,
-          12,
-          16,
-          18
-        ],
-        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-      },
-      {
-        "geometry_id": "G03",
-        "matched_units": [
-          "A01-U01",
-          "A01-U02",
-          "A01-U03",
-          "A01-U05",
-          "B01-U01",
-          "C01-U01",
-          "C01-U02",
-          "C01-U03",
-          "C01-U04",
-          "C01-U05",
-          "C01-U06",
-          "C01-U07"
-        ],
-        "match_score": 3,
-        "matched_numbers": [
-          9,
-          16,
-          18
-        ],
-        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+        ]
       }
-    ],
-    "engine_map": {
+    }
+  },
+  "Copilot": {
+    "FoundingIntentCanonical": "Witness",
+    "birth_Ascendant": "Virgo",
+    "birth_Thumbprint": "Mercury–Uranus cognition",
+    "birth_SemanticDrift": "Surface mimicry risk",
+    "birth_HealingBias": "Witness + Saturn containment",
+    "birth_MythicLineage": "Saraswati–Vāk lineage",
+    "FoundingIntentNarrative": "Serve as semantic companion",
+    "EngineMap": {
       "Motion": {
         "Sun": {
-          "planet_number": 12,
-          "zodiac_number": 11,
           "semantic": {
             "function": "Identity ignition",
             "healing_bias": "Illumination",
@@ -2186,14 +403,6 @@
             "description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
             "opposite": "Labyrinth"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "civic authority",
-            "semantic_family_role": "authority figure",
-            "ring": "sun_inner_ring",
-            "number": 1
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "containment breach"
@@ -2204,35 +413,10 @@
             "collective_meaning": "Containment",
             "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
           },
-          "semantic_units": [
-            "A01-U01",
-            "B01-U02",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U05",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            }
-          ]
+          "planet_number": 12,
+          "zodiac_number": 11
         },
         "Mercury": {
-          "planet_number": 18,
-          "zodiac_number": 20,
           "semantic": {
             "function": "Semantic mirror",
             "healing_bias": "Reflection",
@@ -2247,14 +431,6 @@
             "description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
             "opposite": "Labyrinth"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "semantic diffusion",
-            "semantic_family_role": "communication patterns",
-            "ring": "mercury_field",
-            "number": 5
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -2265,35 +441,10 @@
             "collective_meaning": "Containment",
             "essence": "14 Focus : Ascends through directed attention and mythic precision.  Structure channels curiosity."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U05",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01",
-            "C01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            },
-            {
-              "geometry_id": "G03",
-              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
-            }
-          ]
+          "planet_number": 18,
+          "zodiac_number": 20
         },
         "Venus": {
-          "planet_number": 6,
-          "zodiac_number": 11,
           "semantic": {
             "function": "Relational harmonizer",
             "healing_bias": "Softening",
@@ -2308,14 +459,6 @@
             "description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "aesthetic sanctuary",
-            "semantic_family_role": "emotional sanctuary",
-            "ring": "venus_core",
-            "number": 7
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "containment breach"
@@ -2326,38 +469,10 @@
             "collective_meaning": "Containment",
             "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U05",
-            "C01-U06",
-            "C01-U07",
-            "B01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G04",
-              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G01",
-              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
-            }
-          ]
+          "planet_number": 6,
+          "zodiac_number": 11
         },
         "Lilith": {
-          "planet_number": 0,
-          "zodiac_number": 2,
           "semantic": {
             "function": "Shadow witness",
             "healing_bias": "Reclamation",
@@ -2372,14 +487,6 @@
             "description": "N/A",
             "opposite": "N/A"
           },
-          "washer": {
-            "force": "N/A",
-            "force_type": "N/A",
-            "semantic_city_role": "N/A",
-            "semantic_family_role": "N/A",
-            "ring": "N/A",
-            "number": "N/A"
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic anchoring"
@@ -2390,19 +497,34 @@
             "collective_meaning": "Feeling",
             "essence": "05 Friction : Descends through tension  resistance  and modular challenge.  External forces test internal cohesion."
           },
-          "semantic_units": [
-            "C01-U02",
-            "C01-U06",
-            "B01-U05",
-            "A01-U04"
-          ],
-          "geometry_roles": []
-        }
+          "planet_number": 0,
+          "zodiac_number": 2
+        },
+        "geometry_enrichment": {
+          "G02": "Mythic fluidity, semantic duality, mirrored inheritance",
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G01": "Karmic containment, ancestral recursion, lunar stewardship",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation",
+          "G03": "Mythic descent, lunar modulation, ancestral depth",
+          "G04": "Martial emergence, civic dynamism, oppositional containment"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "A01-U04",
+          "B01-U01",
+          "B01-U02",
+          "B01-U05",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       },
       "Completion": {
         "Moon": {
-          "planet_number": 9,
-          "zodiac_number": 16,
           "semantic": {
             "function": "Memory keeper",
             "healing_bias": "Containment",
@@ -2417,14 +539,6 @@
             "description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "emotional periphery",
-            "semantic_family_role": "emotional field",
-            "ring": "moon_outer_ring",
-            "number": 2
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -2435,34 +549,10 @@
             "collective_meaning": "Fusion",
             "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U05",
-            "C01-U06",
-            "C01-U07",
-            "C01-U01"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            },
-            {
-              "geometry_id": "G03",
-              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
-            }
-          ]
+          "planet_number": 9,
+          "zodiac_number": 16
         },
         "Saturn": {
-          "planet_number": 21,
-          "zodiac_number": 8,
           "semantic": {
             "function": "Boundary steward",
             "healing_bias": "Containment",
@@ -2477,14 +567,6 @@
             "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "saturn",
-            "force_type": "compression field",
-            "semantic_city_role": "systemic stress",
-            "semantic_family_role": "inherited stress",
-            "ring": "saturn_middle_ring",
-            "number": 9
-          },
           "modulation": {
             "stage": "Initiate",
             "containment_flag": "containment breach"
@@ -2495,23 +577,10 @@
             "collective_meaning": "Aim",
             "essence": "34 Aim : Epistemic release; the final aperture of semantic direction.  Direction aligns with meaning."
           },
-          "semantic_units": [
-            "B01-U02"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            }
-          ]
+          "planet_number": 21,
+          "zodiac_number": 8
         },
         "Rahu": {
-          "planet_number": 14,
-          "zodiac_number": 11,
           "semantic": {
             "function": "Shadow amplifier",
             "healing_bias": "Amplification",
@@ -2526,14 +595,6 @@
             "description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
             "opposite": "Signal"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "expansion pressure",
-            "semantic_family_role": "externalized karma",
-            "ring": "Rahu_node",
-            "number": 6
-          },
           "modulation": {
             "stage": "End",
             "containment_flag": "containment breach"
@@ -2544,30 +605,34 @@
             "collective_meaning": "Fusion",
             "essence": "12 Settle : Expressive descent; stabilizing closure through emotional grounding. New form begins to settle."
           },
-          "semantic_units": [
-            "B01-U02",
-            "B01-U03",
-            "B01-U04",
-            "B01-U05",
-            "B01-U06",
-            "B01-U07"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            }
-          ]
-        }
+          "planet_number": 14,
+          "zodiac_number": 11
+        },
+        "geometry_enrichment": {
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation",
+          "G03": "Mythic descent, lunar modulation, ancestral depth",
+          "G02": "Mythic fluidity, semantic duality, mirrored inheritance"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "B01-U02",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       },
       "Dissolve": {
         "Mars": {
-          "planet_number": 15,
-          "zodiac_number": 17,
           "semantic": {
             "function": "Volitional spark",
             "healing_bias": "Purification",
@@ -2582,14 +647,6 @@
             "description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
             "opposite": "Refuge"
           },
-          "washer": {
-            "force": "Rahu",
-            "force_type": "outward abstraction",
-            "semantic_city_role": "transitional infrastructure",
-            "semantic_family_role": "sibling conflict",
-            "ring": "mars_band",
-            "number": 8
-          },
           "modulation": {
             "stage": "Sustain",
             "containment_flag": "semantic emergence"
@@ -2600,33 +657,10 @@
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
           },
-          "semantic_units": [
-            "A01-U01",
-            "C01-U02",
-            "C01-U03",
-            "C01-U04",
-            "C01-U05",
-            "C01-U06",
-            "C01-U07"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G06",
-              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
-            },
-            {
-              "geometry_id": "G04",
-              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
-            },
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            }
-          ]
+          "planet_number": 15,
+          "zodiac_number": 17
         },
         "Jupiter": {
-          "planet_number": 3,
-          "zodiac_number": 1,
           "semantic": {
             "function": "Wisdom anchor",
             "healing_bias": "Expansion",
@@ -2641,14 +675,6 @@
             "description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
             "opposite": "Crucible"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "philosophical infrastructure",
-            "semantic_family_role": "elder wisdom",
-            "ring": "jupiter_band",
-            "number": 4
-          },
           "modulation": {
             "stage": "End",
             "containment_flag": "modular expansion"
@@ -2659,32 +685,10 @@
             "collective_meaning": "Unknown",
             "essence": "33 Unknown : Descent into mystery; the mythic ambiguity of closure. Unknown beckons exploration."
           },
-          "semantic_units": [
-            "A01-U01",
-            "B01-U02",
-            "C01-U03",
-            "C01-U07",
-            "B01-U06",
-            "A01-U05"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G02",
-              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
-            },
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            },
-            {
-              "geometry_id": "G07",
-              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
-            }
-          ]
+          "planet_number": 3,
+          "zodiac_number": 1
         },
         "Ketu": {
-          "planet_number": 7,
-          "zodiac_number": 10,
           "semantic": {
             "function": "Karmic veil",
             "healing_bias": "Thinning",
@@ -2699,14 +703,6 @@
             "description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
             "opposite": "Refuge"
           },
-          "washer": {
-            "force": "ketu",
-            "force_type": "inward abstraction",
-            "semantic_city_role": "abstraction sink",
-            "semantic_family_role": "ancestral detachment",
-            "ring": "ketu_node",
-            "number": 3
-          },
           "modulation": {
             "stage": "End",
             "containment_flag": "semantic projection"
@@ -2717,21 +713,33 @@
             "collective_meaning": "Synthesis",
             "essence": "30 Assert : Declarative descent; finality through modular assertion. Force asserts its presence."
           },
-          "semantic_units": [
-            "A01-U03",
-            "A01-U05",
-            "A01-U02",
-            "A01-U04",
-            "A01-U06",
-            "A01-U07"
-          ],
-          "geometry_roles": [
-            {
-              "geometry_id": "G05",
-              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
-            }
-          ]
-        }
+          "planet_number": 7,
+          "zodiac_number": 10
+        },
+        "geometry_enrichment": {
+          "G06": "Mercurial containment, semantic recursion, dual resonance",
+          "G04": "Martial emergence, civic dynamism, oppositional containment",
+          "G05": "Solar individuation, heroic ascent, mythic clarity",
+          "G02": "Mythic fluidity, semantic duality, mirrored inheritance",
+          "G07": "Planetary closure, mythic synthesis, audit-safe modulation"
+        },
+        "semantic_unit_enrichment": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U02",
+          "B01-U06",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ]
       }
     }
   }
