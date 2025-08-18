@@ -597,6 +597,97 @@
           19
         ]
       }
+    ],
+    "geometry_matches": [
+      {
+        "geometry_id": "G05",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          1,
+          3,
+          4,
+          7,
+          10,
+          15
+        ],
+        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+      },
+      {
+        "geometry_id": "G02",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          21
+        ],
+        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+      },
+      {
+        "geometry_id": "G04",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          2,
+          6,
+          8,
+          11,
+          15
+        ],
+        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+      },
+      {
+        "geometry_id": "G06",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          14,
+          15
+        ],
+        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+      },
+      {
+        "geometry_id": "G07",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          18,
+          21
+        ],
+        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+      },
+      {
+        "geometry_id": "G01",
+        "matched_units": [],
+        "match_score": 4,
+        "matched_numbers": [
+          6,
+          12,
+          18,
+          19
+        ],
+        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+      },
+      {
+        "geometry_id": "G03",
+        "matched_units": [],
+        "match_score": 3,
+        "matched_numbers": [
+          9,
+          18,
+          19
+        ],
+        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+      }
     ]
   },
   "Dallas_Irving": {
@@ -1196,6 +1287,96 @@
           18
         ]
       }
+    ],
+    "geometry_matches": [
+      {
+        "geometry_id": "G02",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          20,
+          21
+        ],
+        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+      },
+      {
+        "geometry_id": "G04",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          2,
+          5,
+          6,
+          8,
+          11,
+          15
+        ],
+        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+      },
+      {
+        "geometry_id": "G05",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          4,
+          7,
+          10,
+          15
+        ],
+        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+      },
+      {
+        "geometry_id": "G06",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          14,
+          15
+        ],
+        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+      },
+      {
+        "geometry_id": "G07",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          18,
+          21
+        ],
+        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+      },
+      {
+        "geometry_id": "G01",
+        "matched_units": [],
+        "match_score": 3,
+        "matched_numbers": [
+          6,
+          12,
+          18
+        ],
+        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+      },
+      {
+        "geometry_id": "G03",
+        "matched_units": [],
+        "match_score": 2,
+        "matched_numbers": [
+          9,
+          18
+        ],
+        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+      }
     ]
   },
   "Dallas_Garland": {
@@ -1790,6 +1971,95 @@
           9,
           18
         ]
+      }
+    ],
+    "geometry_matches": [
+      {
+        "geometry_id": "G04",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          2,
+          5,
+          6,
+          8,
+          11,
+          15
+        ],
+        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+      },
+      {
+        "geometry_id": "G02",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          21
+        ],
+        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+      },
+      {
+        "geometry_id": "G05",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          4,
+          7,
+          10,
+          15
+        ],
+        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+      },
+      {
+        "geometry_id": "G06",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          14,
+          15
+        ],
+        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+      },
+      {
+        "geometry_id": "G07",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          18,
+          21
+        ],
+        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+      },
+      {
+        "geometry_id": "G01",
+        "matched_units": [],
+        "match_score": 3,
+        "matched_numbers": [
+          6,
+          12,
+          18
+        ],
+        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+      },
+      {
+        "geometry_id": "G03",
+        "matched_units": [],
+        "match_score": 2,
+        "matched_numbers": [
+          9,
+          18
+        ],
+        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
       }
     ]
   },
@@ -2387,6 +2657,98 @@
           14
         ]
       }
+    ],
+    "geometry_matches": [
+      {
+        "geometry_id": "G05",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          1,
+          3,
+          4,
+          7,
+          10,
+          15
+        ],
+        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+      },
+      {
+        "geometry_id": "G06",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          14,
+          15,
+          16
+        ],
+        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+      },
+      {
+        "geometry_id": "G01",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          12,
+          16,
+          18,
+          19
+        ],
+        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+      },
+      {
+        "geometry_id": "G02",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          21
+        ],
+        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+      },
+      {
+        "geometry_id": "G07",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          18,
+          21
+        ],
+        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+      },
+      {
+        "geometry_id": "G03",
+        "matched_units": [],
+        "match_score": 4,
+        "matched_numbers": [
+          9,
+          16,
+          18,
+          19
+        ],
+        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+      },
+      {
+        "geometry_id": "G04",
+        "matched_units": [],
+        "match_score": 3,
+        "matched_numbers": [
+          6,
+          8,
+          15
+        ],
+        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+      }
     ]
   },
   "Austin_Travis": {
@@ -2981,6 +3343,97 @@
           16,
           18
         ]
+      }
+    ],
+    "geometry_matches": [
+      {
+        "geometry_id": "G05",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          1,
+          3,
+          4,
+          7,
+          10,
+          15
+        ],
+        "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+      },
+      {
+        "geometry_id": "G06",
+        "matched_units": [],
+        "match_score": 6,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          14,
+          15,
+          16
+        ],
+        "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+      },
+      {
+        "geometry_id": "G02",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          21
+        ],
+        "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+      },
+      {
+        "geometry_id": "G07",
+        "matched_units": [],
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          18,
+          21
+        ],
+        "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+      },
+      {
+        "geometry_id": "G01",
+        "matched_units": [],
+        "match_score": 4,
+        "matched_numbers": [
+          6,
+          12,
+          16,
+          18
+        ],
+        "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+      },
+      {
+        "geometry_id": "G04",
+        "matched_units": [],
+        "match_score": 4,
+        "matched_numbers": [
+          6,
+          8,
+          11,
+          15
+        ],
+        "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+      },
+      {
+        "geometry_id": "G03",
+        "matched_units": [],
+        "match_score": 3,
+        "matched_numbers": [
+          9,
+          16,
+          18
+        ],
+        "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
       }
     ]
   }

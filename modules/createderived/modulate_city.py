@@ -119,6 +119,24 @@ def match_semantic_units(city_flat_data: dict, semantic_units: list) -> list:
             })
     return sorted(matches, key=lambda x: (-x["match_score"], x["unit_id"]))
 
+def match_geometry_units(city_flat_data: dict, geometry_sets: list) -> list:
+    planet_keys = [k for k in city_flat_data if k.startswith("planet_") and k.endswith("_number")]
+    city_numbers = [city_flat_data[k] for k in planet_keys if isinstance(city_flat_data[k], int)]
+
+    matches = []
+    for geo in geometry_sets:
+        pool = geo.get("number_pool", [])
+        matched = sorted(set(city_numbers) & set(pool))
+        if matched:
+            matches.append({
+                "geometry_id": geo["geometry_id"],
+                "matched_units": [uid for uid in geo.get("unit_ids", []) if uid in city_flat_data.get("semantic_unit_matches", [])],
+                "match_score": len(matched),
+                "matched_numbers": matched,
+                "semantic_role": geo.get("semantic_role", "")
+            })
+    return sorted(matches, key=lambda x: (-x["match_score"], x["geometry_id"]))
+
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
     for name, val in locals().items():
@@ -165,13 +183,8 @@ if __name__ == "__main__":
 #     "Avidya": {"zone": 21, "house": 7}        // Lilith
 #   },
     with open("canonical/geometry/geometry_7_sets.json", "r") as f:
-        geometry_shapes_raw = json.load(f)
-    # geometry_shapes = {
-    #     shape["name"]: shape
-    #     for shape in geometry_shapes_raw
-    #     if "name" in shape
+        geometry_sets = json.load(f)
 
-    # }
 
     with open("canonical/modulation/aspectual_router.json", encoding="utf-8") as f:
         aspectual_router = json.load(f)
@@ -209,6 +222,7 @@ if __name__ == "__main__":
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)   
             planet_data = flatten_city_data(planet_data)  
             planet_data["semantic_unit_matches"] = match_semantic_units(planet_data, semantic_24_sets)
+            planet_data["geometry_matches"] = match_geometry_units(planet_data, geometry_sets)
             # Validate Yod overlay
             # planet_data = validate_yod_overlay(planet_data, aspectual_router) 
             # Enrich with geometry sets from semantic units
