@@ -801,7 +801,377 @@
         ],
         "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
       }
-    ]
+    ],
+    "engine_map": {
+      "Motion": {
+        "Sun": {
+          "planet_number": 12,
+          "zodiac_number": 17,
+          "semantic": {
+            "function": "Identity ignition",
+            "healing_bias": "Illumination",
+            "mythic_lineage": "Solar",
+            "role_description": "Projects radiant identity and initiates solar clarity",
+            "mythic_tags": "Saturn gate"
+          },
+          "civic": {
+            "role": "Signal",
+            "function": "Clarity",
+            "lineage": "Solar",
+            "description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
+            "opposite": "Labyrinth"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "civic authority",
+            "semantic_family_role": "authority figure",
+            "ring": "sun_inner_ring",
+            "number": 1
+          },
+          "modulation": {
+            "stage": "End",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 3,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Feeling",
+            "essence": "03 Motion : Initiates kinetic flow; directional thrust and modular movement. Movement emerges through softened boundaries."
+          }
+        },
+        "Lilith": {
+          "planet_number": 0,
+          "zodiac_number": 13,
+          "semantic": {
+            "function": "Shadow witness",
+            "healing_bias": "Reclamation",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Opens inward thresholds to shadow memory and mythic refusal",
+            "mythic_tags": "Mercury veil"
+          },
+          "civic": {
+            "role": "N/A",
+            "function": "N/A",
+            "lineage": "N/A",
+            "description": "N/A",
+            "opposite": "N/A"
+          },
+          "washer": {
+            "force": "N/A",
+            "force_type": "N/A",
+            "semantic_city_role": "N/A",
+            "semantic_family_role": "N/A",
+            "ring": "N/A",
+            "number": "N/A"
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "healing crucible"
+          },
+          "zone": {
+            "number": 17,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Feeling",
+            "essence": "17 Weave : Integrative ascent; threads modular meaning into mythic tapestry. Threads of meaning interweave."
+          }
+        }
+      },
+      "Completion": {
+        "Moon": {
+          "planet_number": 9,
+          "zodiac_number": 16,
+          "semantic": {
+            "function": "Memory keeper",
+            "healing_bias": "Containment",
+            "mythic_lineage": "Shaiva",
+            "role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Refuge",
+            "function": "Containment",
+            "lineage": "Shaiva",
+            "description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "emotional periphery",
+            "semantic_family_role": "emotional field",
+            "ring": "moon_outer_ring",
+            "number": 2
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 26,
+            "category": "PeakTriangle",
+            "collective_meaning": "Fusion",
+            "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
+          }
+        },
+        "Venus": {
+          "planet_number": 6,
+          "zodiac_number": 8,
+          "semantic": {
+            "function": "Relational harmonizer",
+            "healing_bias": "Softening",
+            "mythic_lineage": "Shakti",
+            "role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
+            "mythic_tags": "Mars forge"
+          },
+          "civic": {
+            "role": "Sanctuary",
+            "function": "Harmony",
+            "lineage": "Lakshmi–Bhargava",
+            "description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "aesthetic sanctuary",
+            "semantic_family_role": "emotional sanctuary",
+            "ring": "venus_core",
+            "number": 7
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "containment breach"
+          },
+          "zone": {
+            "number": 35,
+            "category": "ValleyConsolidate",
+            "collective_meaning": "Waver",
+            "essence": "35 Waver : Descent into mystery; the mythic ambiguity of transcendence. Uncertainty challenges clarity."
+          }
+        }
+      },
+      "Spark": {
+        "Mercury": {
+          "planet_number": 18,
+          "zodiac_number": 2,
+          "semantic": {
+            "function": "Semantic mirror",
+            "healing_bias": "Reflection",
+            "mythic_lineage": "Vaishnava",
+            "role_description": "Transmits and reflects meaning across modular boundaries",
+            "mythic_tags": "Saturn gate"
+          },
+          "civic": {
+            "role": "Signal",
+            "function": "Clarity",
+            "lineage": "Solar",
+            "description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
+            "opposite": "Labyrinth"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "semantic diffusion",
+            "semantic_family_role": "communication patterns",
+            "ring": "mercury_field",
+            "number": 5
+          },
+          "modulation": {
+            "stage": "Initiate",
+            "containment_flag": "semantic anchoring"
+          },
+          "zone": {
+            "number": 4,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Reflecion",
+            "essence": "04 Mirror : Descends through reflection  inversion  and mythic recursion.  Insight arises from softened structure."
+          }
+        }
+      },
+      "Dissolve": {
+        "Mars": {
+          "planet_number": 15,
+          "zodiac_number": 17,
+          "semantic": {
+            "function": "Volitional spark",
+            "healing_bias": "Purification",
+            "mythic_lineage": "Agni",
+            "role_description": "Forges action through conflict and purifies volitional force",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Crucible",
+            "function": "Purification",
+            "lineage": "Agni",
+            "description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
+            "opposite": "Refuge"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "transitional infrastructure",
+            "semantic_family_role": "sibling conflict",
+            "ring": "mars_band",
+            "number": 8
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 2,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Mystery",
+            "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
+          }
+        },
+        "Jupiter": {
+          "planet_number": 3,
+          "zodiac_number": 20,
+          "semantic": {
+            "function": "Wisdom anchor",
+            "healing_bias": "Expansion",
+            "mythic_lineage": "Brahmanic",
+            "role_description": "Anchors mythic wisdom and expands civic coherence",
+            "mythic_tags": "Saturn gate"
+          },
+          "civic": {
+            "role": "Archive",
+            "function": "Memory",
+            "lineage": "Vedic",
+            "description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "philosophical infrastructure",
+            "semantic_family_role": "elder wisdom",
+            "ring": "jupiter_band",
+            "number": 4
+          },
+          "modulation": {
+            "stage": "End",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 15,
+            "category": "PeakTriangle",
+            "collective_meaning": "Synthesis",
+            "essence": "15 Invent : Ascends through ideation and mythic innovation. Innovation emerges from constraint."
+          }
+        },
+        "Saturn": {
+          "planet_number": 21,
+          "zodiac_number": 4,
+          "semantic": {
+            "function": "Boundary steward",
+            "healing_bias": "Containment",
+            "mythic_lineage": "Shaiva",
+            "role_description": "Stabilizes structures through disciplined containment",
+            "mythic_tags": "Venus mirror"
+          },
+          "civic": {
+            "role": "Refuge",
+            "function": "Containment",
+            "lineage": "Shaiva",
+            "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "saturn",
+            "force_type": "compression field",
+            "semantic_city_role": "systemic stress",
+            "semantic_family_role": "inherited stress",
+            "ring": "saturn_middle_ring",
+            "number": 9
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "oppositional containment"
+          },
+          "zone": {
+            "number": 20,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Mystery",
+            "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
+          }
+        },
+        "Rahu": {
+          "planet_number": 14,
+          "zodiac_number": 4,
+          "semantic": {
+            "function": "Shadow amplifier",
+            "healing_bias": "Amplification",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Amplifies karmic residue and destabilizes normative flow",
+            "mythic_tags": "Venus mirror"
+          },
+          "civic": {
+            "role": "Labyrinth",
+            "function": "Ambiguity",
+            "lineage": "Tantric",
+            "description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
+            "opposite": "Signal"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "expansion pressure",
+            "semantic_family_role": "externalized karma",
+            "ring": "Rahu_node",
+            "number": 6
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "oppositional containment"
+          },
+          "zone": {
+            "number": 20,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Mystery",
+            "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
+          }
+        },
+        "Ketu": {
+          "planet_number": 7,
+          "zodiac_number": 17,
+          "semantic": {
+            "function": "Karmic veil",
+            "healing_bias": "Thinning",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Opens outward paths to dissolution and spiritual abstraction",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Crucible",
+            "function": "Purification",
+            "lineage": "Agni",
+            "description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
+            "opposite": "Refuge"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "abstraction sink",
+            "semantic_family_role": "ancestral detachment",
+            "ring": "ketu_node",
+            "number": 3
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 2,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Mystery",
+            "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
+          }
+        }
+      }
+    }
   },
   "Copilot": {
     "birth_Ascendant": "Virgo",
@@ -1597,6 +1967,374 @@
         ],
         "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
       }
-    ]
+    ],
+    "engine_map": {
+      "Motion": {
+        "Sun": {
+          "planet_number": 12,
+          "zodiac_number": 11,
+          "semantic": {
+            "function": "Identity ignition",
+            "healing_bias": "Illumination",
+            "mythic_lineage": "Solar",
+            "role_description": "Projects radiant identity and initiates solar clarity",
+            "mythic_tags": "Mars forge"
+          },
+          "civic": {
+            "role": "Signal",
+            "function": "Clarity",
+            "lineage": "Solar",
+            "description": "A clarity archetype that radiates civic intent and mythic coherence. Anchored in Solar lineage and often found in founding charts with high visibility.",
+            "opposite": "Labyrinth"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "civic authority",
+            "semantic_family_role": "authority figure",
+            "ring": "sun_inner_ring",
+            "number": 1
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "containment breach"
+          },
+          "zone": {
+            "number": 11,
+            "category": "PeakTriangle",
+            "collective_meaning": "Containment",
+            "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
+          }
+        },
+        "Mercury": {
+          "planet_number": 18,
+          "zodiac_number": 20,
+          "semantic": {
+            "function": "Semantic mirror",
+            "healing_bias": "Reflection",
+            "mythic_lineage": "Vaishnava",
+            "role_description": "Transmits and reflects meaning across modular boundaries",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Signal",
+            "function": "Clarity",
+            "lineage": "Solar",
+            "description": "A communicative clarity archetype that modulates civic grammar and semantic precision. Strong in charts with Mercury–Sun conjunctions.",
+            "opposite": "Labyrinth"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "semantic diffusion",
+            "semantic_family_role": "communication patterns",
+            "ring": "mercury_field",
+            "number": 5
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 14,
+            "category": "PeakTriangle",
+            "collective_meaning": "Containment",
+            "essence": "14 Focus : Ascends through directed attention and mythic precision.  Structure channels curiosity."
+          }
+        },
+        "Venus": {
+          "planet_number": 6,
+          "zodiac_number": 11,
+          "semantic": {
+            "function": "Relational harmonizer",
+            "healing_bias": "Softening",
+            "mythic_lineage": "Shakti",
+            "role_description": "Offers aesthetic refuge and harmonizes emotional bonds",
+            "mythic_tags": "Mars forge"
+          },
+          "civic": {
+            "role": "Sanctuary",
+            "function": "Harmony",
+            "lineage": "Lakshmi–Bhargava",
+            "description": "A sanctuary archetype where harmony, beauty, and relational healing dominate. Emerges in charts with Venus–Moon overlays and Lakshmi lineage.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "aesthetic sanctuary",
+            "semantic_family_role": "emotional sanctuary",
+            "ring": "venus_core",
+            "number": 7
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "containment breach"
+          },
+          "zone": {
+            "number": 11,
+            "category": "PeakTriangle",
+            "collective_meaning": "Containment",
+            "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
+          }
+        },
+        "Lilith": {
+          "planet_number": 0,
+          "zodiac_number": 2,
+          "semantic": {
+            "function": "Shadow witness",
+            "healing_bias": "Reclamation",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Opens inward thresholds to shadow memory and mythic refusal",
+            "mythic_tags": "Mercury veil"
+          },
+          "civic": {
+            "role": "N/A",
+            "function": "N/A",
+            "lineage": "N/A",
+            "description": "N/A",
+            "opposite": "N/A"
+          },
+          "washer": {
+            "force": "N/A",
+            "force_type": "N/A",
+            "semantic_city_role": "N/A",
+            "semantic_family_role": "N/A",
+            "ring": "N/A",
+            "number": "N/A"
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic anchoring"
+          },
+          "zone": {
+            "number": 5,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Feeling",
+            "essence": "05 Friction : Descends through tension  resistance  and modular challenge.  External forces test internal cohesion."
+          }
+        }
+      },
+      "Completion": {
+        "Moon": {
+          "planet_number": 9,
+          "zodiac_number": 16,
+          "semantic": {
+            "function": "Memory keeper",
+            "healing_bias": "Containment",
+            "mythic_lineage": "Shaiva",
+            "role_description": "Holds cyclical memory and emotional resonance within lunar sanctum",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Refuge",
+            "function": "Containment",
+            "lineage": "Shaiva",
+            "description": "A lunar containment archetype that anchors emotional sanctuary and ancestral healing. Strong in charts with vow compression and inherited Shaiva bias.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "emotional periphery",
+            "semantic_family_role": "emotional field",
+            "ring": "moon_outer_ring",
+            "number": 2
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 26,
+            "category": "PeakTriangle",
+            "collective_meaning": "Fusion",
+            "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
+          }
+        },
+        "Saturn": {
+          "planet_number": 21,
+          "zodiac_number": 8,
+          "semantic": {
+            "function": "Boundary steward",
+            "healing_bias": "Containment",
+            "mythic_lineage": "Shaiva",
+            "role_description": "Stabilizes structures through disciplined containment",
+            "mythic_tags": "Lunar echo"
+          },
+          "civic": {
+            "role": "Refuge",
+            "function": "Containment",
+            "lineage": "Shaiva",
+            "description": "A sanctuary archetype where containment, healing, and protection dominate. Often emerges in cities with Saturn–Moon overlays and Shaiva lineage.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "saturn",
+            "force_type": "compression field",
+            "semantic_city_role": "systemic stress",
+            "semantic_family_role": "inherited stress",
+            "ring": "saturn_middle_ring",
+            "number": 9
+          },
+          "modulation": {
+            "stage": "Initiate",
+            "containment_flag": "containment breach"
+          },
+          "zone": {
+            "number": 34,
+            "category": "Central",
+            "collective_meaning": "Aim",
+            "essence": "34 Aim : Epistemic release; the final aperture of semantic direction.  Direction aligns with meaning."
+          }
+        },
+        "Rahu": {
+          "planet_number": 14,
+          "zodiac_number": 11,
+          "semantic": {
+            "function": "Shadow amplifier",
+            "healing_bias": "Amplification",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Amplifies karmic residue and destabilizes normative flow",
+            "mythic_tags": "Rahu storm"
+          },
+          "civic": {
+            "role": "Labyrinth",
+            "function": "Ambiguity",
+            "lineage": "Tantric",
+            "description": "An ambiguity archetype that introduces complexity, shadow grammar, and tantric overlays. Often emerges in cities with Rahu–Venus modulation.",
+            "opposite": "Signal"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "expansion pressure",
+            "semantic_family_role": "externalized karma",
+            "ring": "Rahu_node",
+            "number": 6
+          },
+          "modulation": {
+            "stage": "End",
+            "containment_flag": "containment breach"
+          },
+          "zone": {
+            "number": 12,
+            "category": "PeakTriangle",
+            "collective_meaning": "Fusion",
+            "essence": "12 Settle : Expressive descent; stabilizing closure through emotional grounding. New form begins to settle."
+          }
+        }
+      },
+      "Dissolve": {
+        "Mars": {
+          "planet_number": 15,
+          "zodiac_number": 17,
+          "semantic": {
+            "function": "Volitional spark",
+            "healing_bias": "Purification",
+            "mythic_lineage": "Agni",
+            "role_description": "Forges action through conflict and purifies volitional force",
+            "mythic_tags": "triple resonance"
+          },
+          "civic": {
+            "role": "Crucible",
+            "function": "Purification",
+            "lineage": "Agni",
+            "description": "A fire-based archetype of purification, testing, and transformation. Prominent in civic grammars with Agni lineage and oppositional Saturn tension.",
+            "opposite": "Refuge"
+          },
+          "washer": {
+            "force": "Rahu",
+            "force_type": "outward abstraction",
+            "semantic_city_role": "transitional infrastructure",
+            "semantic_family_role": "sibling conflict",
+            "ring": "mars_band",
+            "number": 8
+          },
+          "modulation": {
+            "stage": "Sustain",
+            "containment_flag": "semantic emergence"
+          },
+          "zone": {
+            "number": 2,
+            "category": "ValleyTriangle",
+            "collective_meaning": "Mystery",
+            "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
+          }
+        },
+        "Jupiter": {
+          "planet_number": 3,
+          "zodiac_number": 1,
+          "semantic": {
+            "function": "Wisdom anchor",
+            "healing_bias": "Expansion",
+            "mythic_lineage": "Brahmanic",
+            "role_description": "Anchors mythic wisdom and expands civic coherence",
+            "mythic_tags": "Solar blade"
+          },
+          "civic": {
+            "role": "Archive",
+            "function": "Memory",
+            "lineage": "Vedic",
+            "description": "A memory archetype that preserves civic lineage, mythic coherence, and epistemic depth. Anchored in Vedic tradition and often found in founding intent narratives.",
+            "opposite": "Crucible"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "philosophical infrastructure",
+            "semantic_family_role": "elder wisdom",
+            "ring": "jupiter_band",
+            "number": 4
+          },
+          "modulation": {
+            "stage": "End",
+            "containment_flag": "modular expansion"
+          },
+          "zone": {
+            "number": 33,
+            "category": "ValleyConsolidate",
+            "collective_meaning": "Unknown",
+            "essence": "33 Unknown : Descent into mystery; the mythic ambiguity of closure. Unknown beckons exploration."
+          }
+        },
+        "Ketu": {
+          "planet_number": 7,
+          "zodiac_number": 10,
+          "semantic": {
+            "function": "Karmic veil",
+            "healing_bias": "Thinning",
+            "mythic_lineage": "Chthonic",
+            "role_description": "Opens outward paths to dissolution and spiritual abstraction",
+            "mythic_tags": "Ketu shadow"
+          },
+          "civic": {
+            "role": "Crucible",
+            "function": "Purification",
+            "lineage": "Agni",
+            "description": "An abstracted crucible archetype where detachment and karmic purification dominate. Often paired with Moon in vow compression charts.",
+            "opposite": "Refuge"
+          },
+          "washer": {
+            "force": "ketu",
+            "force_type": "inward abstraction",
+            "semantic_city_role": "abstraction sink",
+            "semantic_family_role": "ancestral detachment",
+            "ring": "ketu_node",
+            "number": 3
+          },
+          "modulation": {
+            "stage": "End",
+            "containment_flag": "semantic projection"
+          },
+          "zone": {
+            "number": 30,
+            "category": "PeakTriangle",
+            "collective_meaning": "Synthesis",
+            "essence": "30 Assert : Declarative descent; finality through modular assertion. Force asserts its presence."
+          }
+        }
+      }
+    }
   }
 }

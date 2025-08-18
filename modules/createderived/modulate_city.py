@@ -155,6 +155,60 @@ def enrich_geometry_matches_with_units(city_flat_data: dict) -> list:
         })
     return enriched
 
+def regroup_engines(city_flat_data: dict) -> dict:
+    engines = {}
+
+    for key, value in city_flat_data.items():
+        if key.startswith("planet_") and key.endswith("_ZoneEngine"):
+            planet_name = key.split("_")[1]
+            engine_name = value
+
+            # Initialize engine block
+            if engine_name not in engines:
+                engines[engine_name] = {}
+
+            # Build planet block
+            planet_block = {
+                "planet_number": city_flat_data.get(f"planet_{planet_name}_number"),
+                "zodiac_number": city_flat_data.get(f"planet_{planet_name}_zodiac_number"),
+                "semantic": {
+                    "function": city_flat_data.get(f"planet_{planet_name}_semantic_function"),
+                    "healing_bias": city_flat_data.get(f"planet_{planet_name}_healing_bias"),
+                    "mythic_lineage": city_flat_data.get(f"planet_{planet_name}_mythic_lineage"),
+                    "role_description": city_flat_data.get(f"planet_{planet_name}_role_description"),
+                    "mythic_tags": city_flat_data.get(f"planet_{planet_name}_mythic_tags")
+                },
+                "civic": {
+                    "role": city_flat_data.get(f"civic_{planet_name}_role"),
+                    "function": city_flat_data.get(f"civic_{planet_name}_function"),
+                    "lineage": city_flat_data.get(f"civic_{planet_name}_lineage"),
+                    "description": city_flat_data.get(f"civic_{planet_name}_description"),
+                    "opposite": city_flat_data.get(f"civic_{planet_name}_opposite")
+                },
+                "washer": {
+                    "force": city_flat_data.get(f"washer_{planet_name}_force"),
+                    "force_type": city_flat_data.get(f"washer_{planet_name}_force_type"),
+                    "semantic_city_role": city_flat_data.get(f"washer_{planet_name}_semantic_city_role"),
+                    "semantic_family_role": city_flat_data.get(f"washer_{planet_name}_semantic_family_role"),
+                    "ring": city_flat_data.get(f"washer_{planet_name}_ring"),
+                    "number": city_flat_data.get(f"washer_{planet_name}_number")
+                },
+                "modulation": {
+                    "stage": city_flat_data.get(f"modulation_{planet_name}_stage"),
+                    "containment_flag": city_flat_data.get(f"containment_{planet_name}_flag")
+                },
+                "zone": {
+                    "number": city_flat_data.get(f"planet_{planet_name}_zone"),
+                    "category": city_flat_data.get(f"planet_{planet_name}_ZoneCategory"),
+                    "collective_meaning": city_flat_data.get(f"planet_{planet_name}_ZoneCollectiveMeaning"),
+                    "essence": city_flat_data.get(f"planet_{planet_name}_zoneEssence")
+                }
+            }
+
+            engines[engine_name][planet_name] = planet_block
+
+    return engines
+
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
     for name, val in locals().items():
@@ -242,6 +296,7 @@ if __name__ == "__main__":
             planet_data["semantic_unit_matches"] = match_semantic_units(planet_data, semantic_24_sets)
             planet_data["geometry_matches"] = match_geometry_units(planet_data, geometry_sets)
             planet_data["geometry_matches"] = enrich_geometry_matches_with_units(planet_data)
+            planet_data["engine_map"] = regroup_engines(planet_data)
             # Validate Yod overlay
             # planet_data = validate_yod_overlay(planet_data, aspectual_router) 
             # Enrich with geometry sets from semantic units
