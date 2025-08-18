@@ -209,6 +209,30 @@ def regroup_engines(city_flat_data: dict) -> dict:
 
     return engines
 
+def enrich_engine_map_with_overlays(engine_map, semantic_unit_matches, geometry_matches):
+    # Build reverse lookup maps
+    semantic_lookup = {}
+    for unit in semantic_unit_matches:
+        for num in unit["matched_numbers"]:
+            semantic_lookup.setdefault(num, []).append(unit["unit_id"])
+
+    geometry_lookup = {}
+    for geom in geometry_matches:
+        for num in geom["matched_numbers"]:
+            geometry_lookup.setdefault(num, []).append({
+                "geometry_id": geom["geometry_id"],
+                "semantic_role": geom["semantic_role"]
+            })
+
+    # Enrich each planet in each engine
+    for engine_name, planets in engine_map.items():
+        for planet_name, planet_data in planets.items():
+            pnum = planet_data.get("planet_number")
+            planet_data["semantic_units"] = semantic_lookup.get(pnum, [])
+            planet_data["geometry_roles"] = geometry_lookup.get(pnum, [])
+
+    return engine_map
+
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
     for name, val in locals().items():
@@ -297,6 +321,11 @@ if __name__ == "__main__":
             planet_data["geometry_matches"] = match_geometry_units(planet_data, geometry_sets)
             planet_data["geometry_matches"] = enrich_geometry_matches_with_units(planet_data)
             planet_data["engine_map"] = regroup_engines(planet_data)
+            planet_data["engine_map"] = enrich_engine_map_with_overlays(
+                planet_data["engine_map"],
+                planet_data["semantic_unit_matches"],
+                planet_data["geometry_matches"]
+            )
             # Validate Yod overlay
             # planet_data = validate_yod_overlay(planet_data, aspectual_router) 
             # Enrich with geometry sets from semantic units

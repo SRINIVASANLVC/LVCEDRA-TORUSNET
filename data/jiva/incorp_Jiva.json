@@ -838,7 +838,32 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Feeling",
             "essence": "03 Motion : Initiates kinetic flow; directional thrust and modular movement. Movement emerges through softened boundaries."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "B01-U02",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01",
+            "C01-U05"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            }
+          ]
         },
         "Lilith": {
           "planet_number": 0,
@@ -874,7 +899,14 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Feeling",
             "essence": "17 Weave : Integrative ascent; threads modular meaning into mythic tapestry. Threads of meaning interweave."
-          }
+          },
+          "semantic_units": [
+            "C01-U02",
+            "C01-U06",
+            "A01-U04",
+            "B01-U05"
+          ],
+          "geometry_roles": []
         }
       },
       "Completion": {
@@ -912,7 +944,31 @@
             "category": "PeakTriangle",
             "collective_meaning": "Fusion",
             "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U06",
+            "C01-U07",
+            "C01-U05",
+            "C01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G03",
+              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+            }
+          ]
         },
         "Venus": {
           "planet_number": 6,
@@ -948,7 +1004,35 @@
             "category": "ValleyConsolidate",
             "collective_meaning": "Waver",
             "essence": "35 Waver : Descent into mystery; the mythic ambiguity of transcendence. Uncertainty challenges clarity."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01",
+            "C01-U05"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G04",
+              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+            }
+          ]
         }
       },
       "Spark": {
@@ -986,7 +1070,32 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Reflecion",
             "essence": "04 Mirror : Descends through reflection  inversion  and mythic recursion.  Insight arises from softened structure."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01",
+            "C01-U05",
+            "C01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G03",
+              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+            }
+          ]
         }
       },
       "Dissolve": {
@@ -1024,7 +1133,30 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U06",
+            "C01-U07",
+            "C01-U05"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G04",
+              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+            },
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            }
+          ]
         },
         "Jupiter": {
           "planet_number": 3,
@@ -1060,7 +1192,29 @@
             "category": "PeakTriangle",
             "collective_meaning": "Synthesis",
             "essence": "15 Invent : Ascends through ideation and mythic innovation. Innovation emerges from constraint."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "B01-U02",
+            "C01-U03",
+            "C01-U07",
+            "A01-U05",
+            "B01-U06"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            }
+          ]
         },
         "Saturn": {
           "planet_number": 21,
@@ -1096,7 +1250,20 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Mystery",
             "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
-          }
+          },
+          "semantic_units": [
+            "B01-U02"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            }
+          ]
         },
         "Rahu": {
           "planet_number": 14,
@@ -1132,7 +1299,25 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Mystery",
             "essence": "20 Anchor : Stabilizing ascent; grounding the structure in mythic permanence.  Energy anchors into form."
-          }
+          },
+          "semantic_units": [
+            "B01-U02",
+            "B01-U03",
+            "B01-U05",
+            "B01-U06",
+            "B01-U07",
+            "B01-U04"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            }
+          ]
         },
         "Ketu": {
           "planet_number": 7,
@@ -1168,7 +1353,21 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
-          }
+          },
+          "semantic_units": [
+            "A01-U05",
+            "A01-U02",
+            "A01-U03",
+            "A01-U04",
+            "A01-U06",
+            "A01-U07"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            }
+          ]
         }
       }
     }
@@ -2004,7 +2203,32 @@
             "category": "PeakTriangle",
             "collective_meaning": "Containment",
             "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "B01-U02",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U05",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            }
+          ]
         },
         "Mercury": {
           "planet_number": 18,
@@ -2040,7 +2264,32 @@
             "category": "PeakTriangle",
             "collective_meaning": "Containment",
             "essence": "14 Focus : Ascends through directed attention and mythic precision.  Structure channels curiosity."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U05",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01",
+            "C01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            },
+            {
+              "geometry_id": "G03",
+              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+            }
+          ]
         },
         "Venus": {
           "planet_number": 6,
@@ -2076,7 +2325,35 @@
             "category": "PeakTriangle",
             "collective_meaning": "Containment",
             "essence": "11 Shift : Grounded transformation; semantic pivot and modular redirection.  Forces reshape internal structure."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U05",
+            "C01-U06",
+            "C01-U07",
+            "B01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G04",
+              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G01",
+              "semantic_role": "Karmic containment, ancestral recursion, lunar stewardship"
+            }
+          ]
         },
         "Lilith": {
           "planet_number": 0,
@@ -2112,7 +2389,14 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Feeling",
             "essence": "05 Friction : Descends through tension  resistance  and modular challenge.  External forces test internal cohesion."
-          }
+          },
+          "semantic_units": [
+            "C01-U02",
+            "C01-U06",
+            "B01-U05",
+            "A01-U04"
+          ],
+          "geometry_roles": []
         }
       },
       "Completion": {
@@ -2150,7 +2434,31 @@
             "category": "PeakTriangle",
             "collective_meaning": "Fusion",
             "essence": "26 Clash : Declarative descent; transformation through modular tension.  Tensions reveal hidden truths."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U05",
+            "C01-U06",
+            "C01-U07",
+            "C01-U01"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            },
+            {
+              "geometry_id": "G03",
+              "semantic_role": "Mythic descent, lunar modulation, ancestral depth"
+            }
+          ]
         },
         "Saturn": {
           "planet_number": 21,
@@ -2186,7 +2494,20 @@
             "category": "Central",
             "collective_meaning": "Aim",
             "essence": "34 Aim : Epistemic release; the final aperture of semantic direction.  Direction aligns with meaning."
-          }
+          },
+          "semantic_units": [
+            "B01-U02"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            }
+          ]
         },
         "Rahu": {
           "planet_number": 14,
@@ -2222,7 +2543,25 @@
             "category": "PeakTriangle",
             "collective_meaning": "Fusion",
             "essence": "12 Settle : Expressive descent; stabilizing closure through emotional grounding. New form begins to settle."
-          }
+          },
+          "semantic_units": [
+            "B01-U02",
+            "B01-U03",
+            "B01-U04",
+            "B01-U05",
+            "B01-U06",
+            "B01-U07"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            }
+          ]
         }
       },
       "Dissolve": {
@@ -2260,7 +2599,30 @@
             "category": "ValleyTriangle",
             "collective_meaning": "Mystery",
             "essence": "02 Form : Structural initiation; foundational essence of completion.  Form begins to stabilize."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "C01-U02",
+            "C01-U03",
+            "C01-U04",
+            "C01-U05",
+            "C01-U06",
+            "C01-U07"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G06",
+              "semantic_role": "Mercurial containment, semantic recursion, dual resonance"
+            },
+            {
+              "geometry_id": "G04",
+              "semantic_role": "Martial emergence, civic dynamism, oppositional containment"
+            },
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            }
+          ]
         },
         "Jupiter": {
           "planet_number": 3,
@@ -2296,7 +2658,29 @@
             "category": "ValleyConsolidate",
             "collective_meaning": "Unknown",
             "essence": "33 Unknown : Descent into mystery; the mythic ambiguity of closure. Unknown beckons exploration."
-          }
+          },
+          "semantic_units": [
+            "A01-U01",
+            "B01-U02",
+            "C01-U03",
+            "C01-U07",
+            "B01-U06",
+            "A01-U05"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G02",
+              "semantic_role": "Mythic fluidity, semantic duality, mirrored inheritance"
+            },
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            },
+            {
+              "geometry_id": "G07",
+              "semantic_role": "Planetary closure, mythic synthesis, audit-safe modulation"
+            }
+          ]
         },
         "Ketu": {
           "planet_number": 7,
@@ -2332,7 +2716,21 @@
             "category": "PeakTriangle",
             "collective_meaning": "Synthesis",
             "essence": "30 Assert : Declarative descent; finality through modular assertion. Force asserts its presence."
-          }
+          },
+          "semantic_units": [
+            "A01-U03",
+            "A01-U05",
+            "A01-U02",
+            "A01-U04",
+            "A01-U06",
+            "A01-U07"
+          ],
+          "geometry_roles": [
+            {
+              "geometry_id": "G05",
+              "semantic_role": "Solar individuation, heroic ascent, mythic clarity"
+            }
+          ]
         }
       }
     }
