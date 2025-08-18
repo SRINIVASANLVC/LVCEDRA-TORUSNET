@@ -366,7 +366,234 @@
     "washer_Lilith_number": "N/A",
     "modulation_Lilith_stage": "Sustain",
     "containment_Lilith_flag": "healing crucible",
-    "template_Lilith_House": 6
+    "template_Lilith_House": 6,
+    "semantic_unit_matches": [
+      {
+        "unit_id": "A01-U01",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "B01-U02",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          20,
+          21
+        ]
+      },
+      {
+        "unit_id": "C01-U02",
+        "match_score": 6,
+        "matched_numbers": [
+          0,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U03",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U04",
+        "match_score": 6,
+        "matched_numbers": [
+          2,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U06",
+        "match_score": 6,
+        "matched_numbers": [
+          0,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U07",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "A01-U05",
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          4,
+          7,
+          13,
+          16
+        ]
+      },
+      {
+        "unit_id": "B01-U01",
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          12,
+          13,
+          16,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U05",
+        "match_score": 5,
+        "matched_numbers": [
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "A01-U02",
+        "match_score": 4,
+        "matched_numbers": [
+          4,
+          7,
+          13,
+          16
+        ]
+      },
+      {
+        "unit_id": "A01-U03",
+        "match_score": 4,
+        "matched_numbers": [
+          4,
+          7,
+          13,
+          16
+        ]
+      },
+      {
+        "unit_id": "A01-U04",
+        "match_score": 4,
+        "matched_numbers": [
+          0,
+          4,
+          7,
+          13
+        ]
+      },
+      {
+        "unit_id": "A01-U06",
+        "match_score": 4,
+        "matched_numbers": [
+          2,
+          4,
+          7,
+          13
+        ]
+      },
+      {
+        "unit_id": "B01-U03",
+        "match_score": 4,
+        "matched_numbers": [
+          2,
+          8,
+          14,
+          17
+        ]
+      },
+      {
+        "unit_id": "B01-U05",
+        "match_score": 4,
+        "matched_numbers": [
+          0,
+          8,
+          14,
+          17
+        ]
+      },
+      {
+        "unit_id": "B01-U06",
+        "match_score": 4,
+        "matched_numbers": [
+          3,
+          8,
+          14,
+          20
+        ]
+      },
+      {
+        "unit_id": "B01-U07",
+        "match_score": 4,
+        "matched_numbers": [
+          2,
+          8,
+          14,
+          20
+        ]
+      },
+      {
+        "unit_id": "C01-U01",
+        "match_score": 4,
+        "matched_numbers": [
+          9,
+          13,
+          16,
+          18
+        ]
+      },
+      {
+        "unit_id": "A01-U07",
+        "match_score": 3,
+        "matched_numbers": [
+          4,
+          7,
+          13
+        ]
+      },
+      {
+        "unit_id": "B01-U04",
+        "match_score": 3,
+        "matched_numbers": [
+          8,
+          14,
+          20
+        ]
+      }
+    ]
   },
   "Copilot": {
     "birth_Ascendant": "Virgo",
@@ -735,6 +962,234 @@
     "washer_Lilith_number": "N/A",
     "modulation_Lilith_stage": "Sustain",
     "containment_Lilith_flag": "semantic anchoring",
-    "template_Lilith_House": 2
+    "template_Lilith_House": 2,
+    "semantic_unit_matches": [
+      {
+        "unit_id": "A01-U01",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "B01-U02",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          12,
+          14,
+          17,
+          20,
+          21
+        ]
+      },
+      {
+        "unit_id": "C01-U02",
+        "match_score": 6,
+        "matched_numbers": [
+          0,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U03",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U04",
+        "match_score": 6,
+        "matched_numbers": [
+          2,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U05",
+        "match_score": 6,
+        "matched_numbers": [
+          1,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U06",
+        "match_score": 6,
+        "matched_numbers": [
+          0,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "C01-U07",
+        "match_score": 6,
+        "matched_numbers": [
+          3,
+          6,
+          9,
+          12,
+          15,
+          18
+        ]
+      },
+      {
+        "unit_id": "B01-U03",
+        "match_score": 5,
+        "matched_numbers": [
+          2,
+          8,
+          11,
+          14,
+          17
+        ]
+      },
+      {
+        "unit_id": "B01-U04",
+        "match_score": 5,
+        "matched_numbers": [
+          1,
+          8,
+          11,
+          14,
+          20
+        ]
+      },
+      {
+        "unit_id": "B01-U05",
+        "match_score": 5,
+        "matched_numbers": [
+          0,
+          8,
+          11,
+          14,
+          17
+        ]
+      },
+      {
+        "unit_id": "B01-U06",
+        "match_score": 5,
+        "matched_numbers": [
+          3,
+          8,
+          11,
+          14,
+          20
+        ]
+      },
+      {
+        "unit_id": "B01-U07",
+        "match_score": 5,
+        "matched_numbers": [
+          2,
+          8,
+          11,
+          14,
+          20
+        ]
+      },
+      {
+        "unit_id": "A01-U03",
+        "match_score": 4,
+        "matched_numbers": [
+          1,
+          7,
+          10,
+          16
+        ]
+      },
+      {
+        "unit_id": "A01-U05",
+        "match_score": 4,
+        "matched_numbers": [
+          3,
+          7,
+          10,
+          16
+        ]
+      },
+      {
+        "unit_id": "B01-U01",
+        "match_score": 4,
+        "matched_numbers": [
+          6,
+          12,
+          16,
+          18
+        ]
+      },
+      {
+        "unit_id": "A01-U02",
+        "match_score": 3,
+        "matched_numbers": [
+          7,
+          10,
+          16
+        ]
+      },
+      {
+        "unit_id": "A01-U04",
+        "match_score": 3,
+        "matched_numbers": [
+          0,
+          7,
+          10
+        ]
+      },
+      {
+        "unit_id": "A01-U06",
+        "match_score": 3,
+        "matched_numbers": [
+          2,
+          7,
+          10
+        ]
+      },
+      {
+        "unit_id": "A01-U07",
+        "match_score": 3,
+        "matched_numbers": [
+          1,
+          7,
+          10
+        ]
+      },
+      {
+        "unit_id": "C01-U01",
+        "match_score": 3,
+        "matched_numbers": [
+          9,
+          16,
+          18
+        ]
+      }
+    ]
   }
 }

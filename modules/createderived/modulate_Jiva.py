@@ -123,6 +123,22 @@ def enrich_roles_from_template_washer(dallas_chart: dict, washer_roles: dict) ->
             pdata["washer_semantic_family_role"] = washer_info.get("washer_semantic_family_role")
     return dallas_chart
 
+def match_semantic_units(city_flat_data: dict, semantic_units: list) -> list:
+    planet_keys = [k for k in city_flat_data if k.startswith("planet_") and k.endswith("_number")]
+    city_numbers = [city_flat_data[k] for k in planet_keys if isinstance(city_flat_data[k], int)]
+
+    matches = []
+    for unit in semantic_units:
+        pool = unit.get("number_pool", [])
+        matched = sorted(set(city_numbers) & set(pool))
+        if matched:
+            matches.append({
+                "unit_id": unit["unit_id"],
+                "match_score": len(matched),
+                "matched_numbers": matched
+            })
+    return sorted(matches, key=lambda x: (-x["match_score"], x["unit_id"]))
+
 
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
@@ -203,6 +219,7 @@ if __name__ == "__main__":
             # Enrich with template washer roles
             planet_data = enrich_roles_from_template_washer(planet_data, template_washer)
             planet_data = flatten_city_data(planet_data)   
+            planet_data["semantic_unit_matches"] = match_semantic_units(planet_data, semantic_24_sets)
             # Enrich with geometry sets from semantic units
             # planet_data = enrich_geometry_sets_from_semantic_units(planet_data, semantic_24_sets)
 
