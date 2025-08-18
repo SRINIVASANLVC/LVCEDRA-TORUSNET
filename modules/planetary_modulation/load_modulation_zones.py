@@ -17,6 +17,10 @@ def load_modulation_zones(filepath="canonical/modulation/modulation_zones.csv"):
                 "nak_ruler": row["nak_ruler"].strip(),
                 "zodiac_number": int(row["zodiac_number"]),
                 "containment_flag": row["containment_flag"].strip(),
-                "mythic_tags": row["mythic_tags"].strip()
+                "mythic_tags": row["mythic_tags"].strip(),
+                "Engine": row["Engine"].strip(),
+                "Category": row["Category"].strip(),
+                "CollectiveMeaning": row["CollectiveMeaning"].strip(),
+                "zoneEssence": row["zoneEssence"].strip() 
             })
     return modulation_zones

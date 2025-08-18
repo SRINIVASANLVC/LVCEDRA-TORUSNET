@@ -75,7 +75,11 @@ def get_zone_info(longitude, zones):
                 'modulation_stage': zone["stage"],
                 'zodiac_number': zone["zodiac_number"],
                 'containment_flag': zone["containment_flag"],
-                'mythic_tags': zone["mythic_tags"]
+                'mythic_tags': zone["mythic_tags"],
+                'Engine': zone["Engine"],
+                'Category': zone["Category"],
+                'CollectiveMeaning': zone["CollectiveMeaning"],
+                'zoneEssence': zone["zoneEssence"]                
             }
     return None  # if no match found
 

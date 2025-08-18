@@ -38,6 +38,10 @@ def flatten_city_data(city_data: dict) -> dict:
             f"planet_{prefix}_zodiac_number": get("zodiac_number"),
             f"planet_{prefix}_longitude": get("longitude"),
             f"planet_{prefix}_mythic_tags": get("mythic_tags"),
+            f"planet_{prefix}_ZoneEngine": get("Engine"),
+            f"planet_{prefix}_ZoneCategory": get("Category"),
+            f"planet_{prefix}_ZoneCollectiveMeaning": get("CollectiveMeaning"),
+            f"planet_{prefix}_zoneEssence": get("zoneEssence"),
             f"planet_{prefix}_retrograde_status": get("retrograde_status")
         })
 
