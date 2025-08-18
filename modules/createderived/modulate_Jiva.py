@@ -157,6 +157,24 @@ def match_geometry_units(city_flat_data: dict, geometry_sets: list) -> list:
             })
     return sorted(matches, key=lambda x: (-x["match_score"], x["geometry_id"]))
 
+def enrich_geometry_matches_with_units(city_flat_data: dict) -> list:
+    geometry_matches = city_flat_data.get("geometry_matches", [])
+    semantic_units = city_flat_data.get("semantic_unit_matches", [])
+
+    enriched = []
+    for geo in geometry_matches:
+        geo_numbers = set(geo.get("matched_numbers", []))
+        matched_units = [
+            unit["unit_id"]
+            for unit in semantic_units
+            if geo_numbers & set(unit.get("matched_numbers", []))
+        ]
+        enriched.append({
+            **geo,
+            "matched_units": sorted(matched_units)
+        })
+    return enriched
+
 def trace_all_variables():
     print("\n--- Variable Trace (locals) ---")
     for name, val in locals().items():
@@ -241,6 +259,7 @@ if __name__ == "__main__":
             planet_data = flatten_city_data(planet_data)   
             planet_data["semantic_unit_matches"] = match_semantic_units(planet_data, semantic_24_sets)
             planet_data["geometry_matches"] = match_geometry_units(planet_data, geometry_sets)
+            planet_data["geometry_matches"] = enrich_geometry_matches_with_units(planet_data)
             # Enrich with geometry sets from semantic units
             # planet_data = enrich_geometry_sets_from_semantic_units(planet_data, semantic_24_sets)
 

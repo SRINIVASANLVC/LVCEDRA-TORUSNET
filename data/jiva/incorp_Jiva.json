@@ -597,7 +597,29 @@
     "geometry_matches": [
       {
         "geometry_id": "G06",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U01",
+          "B01-U02",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 7,
         "matched_numbers": [
           6,
@@ -612,7 +634,23 @@
       },
       {
         "geometry_id": "G02",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 6,
         "matched_numbers": [
           3,
@@ -626,7 +664,24 @@
       },
       {
         "geometry_id": "G01",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U01",
+          "B01-U02",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 5,
         "matched_numbers": [
           6,
@@ -639,7 +694,20 @@
       },
       {
         "geometry_id": "G07",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "B01-U06",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 5,
         "matched_numbers": [
           3,
@@ -652,7 +720,23 @@
       },
       {
         "geometry_id": "G03",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U01",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 4,
         "matched_numbers": [
           9,
@@ -664,7 +748,22 @@
       },
       {
         "geometry_id": "G04",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U06",
+          "B01-U01",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 4,
         "matched_numbers": [
           2,
@@ -676,7 +775,23 @@
       },
       {
         "geometry_id": "G05",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U02",
+          "B01-U06",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 4,
         "matched_numbers": [
           3,
@@ -1287,7 +1402,23 @@
     "geometry_matches": [
       {
         "geometry_id": "G02",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 6,
         "matched_numbers": [
           3,
@@ -1301,7 +1432,26 @@
       },
       {
         "geometry_id": "G06",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 6,
         "matched_numbers": [
           6,
@@ -1315,7 +1465,22 @@
       },
       {
         "geometry_id": "G04",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U06",
+          "B01-U01",
+          "B01-U03",
+          "B01-U04",
+          "B01-U05",
+          "B01-U06",
+          "B01-U07",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 5,
         "matched_numbers": [
           2,
@@ -1328,7 +1493,24 @@
       },
       {
         "geometry_id": "G05",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U04",
+          "A01-U05",
+          "A01-U06",
+          "A01-U07",
+          "B01-U02",
+          "B01-U04",
+          "B01-U06",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 5,
         "matched_numbers": [
           1,
@@ -1341,7 +1523,20 @@
       },
       {
         "geometry_id": "G07",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "B01-U06",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 5,
         "matched_numbers": [
           3,
@@ -1354,7 +1549,21 @@
       },
       {
         "geometry_id": "G01",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U05",
+          "B01-U01",
+          "B01-U02",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 4,
         "matched_numbers": [
           6,
@@ -1366,7 +1575,20 @@
       },
       {
         "geometry_id": "G03",
-        "matched_units": [],
+        "matched_units": [
+          "A01-U01",
+          "A01-U02",
+          "A01-U03",
+          "A01-U05",
+          "B01-U01",
+          "C01-U01",
+          "C01-U02",
+          "C01-U03",
+          "C01-U04",
+          "C01-U05",
+          "C01-U06",
+          "C01-U07"
+        ],
         "match_score": 3,
         "matched_numbers": [
           9,
